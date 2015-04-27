@@ -152,6 +152,61 @@ a.button.large {
 
 
 
+/*ALERT*/
+/*<div class="status status-open">
+    We're going jumping today! Come out and visit us.
+    <abbr class="timeago" title="2015-04-27T15:29:35.732Z">7 minutes ago</abbr>
+</div>*/
+
+.status {
+  color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 15px 0;
+}
+.status-standby,
+.status-weather,
+.status-wind {
+  background-color: #9c5f1c;
+}
+.status-closed {
+  background-color: #9c1f1c;
+}
+.status-future {
+  background-color: #1c599c;
+}
+.status-open {
+  background-color: #599c1c;
+}
+
+.status .message:before {
+  font-family: FontAwesome;
+  padding-right: 5px;
+}
+.status-open .message:before {
+  content: "\f00c";
+}
+.status-closed .message:before {
+  content: "\f00d";
+}
+.status-future .message:before {
+  content: "\f05a";
+}
+.status-standby .message:before,
+.status-weather .message:before,
+.status-wind .message:before {
+  content: "\f071";
+}
+
+.status .time {
+  margin-left: 20px;
+  font-style: italic;
+  font-size: .8em;
+  white-space: nowrap
+}
+
+
+
+
 
 /*TANDEM*/
 
