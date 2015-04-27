@@ -345,9 +345,16 @@ a.button.large {
   .est {
     display: none;
   }
+  .elevator-pitch {
+    padding: 0 10px 1.5em 10px;
+  }
   .experienced h1,
   .tandem h1 {
     font-size: 15vw;
+  }
+  .tandem-wrap,
+  .experienced-wrap {
+    padding-bottom: 1.5em;
   }
   .experienced h1,
   .tandem h1 {
