@@ -15,8 +15,8 @@ By sending a text message to a specific phone number (you must be a seven hills 
 
 Here is an example:
 
-[SMS Message](http://i.imgur.com/FAgHkH3.png)
+![SMS Message](http://i.imgur.com/FAgHkH3.png)
 
 Which produces the following on the website:
 
-[Chrome browser of website](http://i.imgur.com/Zk1thVA.png)
+![Chrome browser of website](http://imgur.com/NkDO8l1)
