@@ -19,4 +19,4 @@ Here is an example:
 
 Which produces the following on the website:
 
-![Chrome browser of website](http://imgur.com/NkDO8l1)
+![Chrome browser of website](http://i.imgur.com/NkDO8l1.png)
