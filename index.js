@@ -16,7 +16,7 @@ app.set('view engine', 'ejs');
 
 
 app.use(bodyParser.urlencoded({ extended: true })); 
-app.post('/jumping-status', function(req, res, next) {
+app.post('/' + (process.env.STATUS_ENDPOINT || 'jumping-status'), function(req, res, next) {
 
   if (STATUS_TYPES.indexOf(req.body.Text.split(' ')[0]) !== -1) {
 
