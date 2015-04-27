@@ -18,7 +18,7 @@ app.set('view engine', 'ejs');
 app.use(bodyParser.urlencoded({ extended: true })); 
 app.post('/' + (process.env.STATUS_ENDPOINT || 'jumping-status'), function(req, res, next) {
 
-  if (STATUS_TYPES.indexOf(req.body.Text.split(' ')[0]) !== -1) {
+  if (STATUS_TYPES.indexOf(req.body.Text.split(' ')[0].toLowerCase()) !== -1) {
 
     redis.set('jumping status', req.body.Text || '', function (err, reply) {
       console.log(reply);
@@ -39,8 +39,8 @@ app.get('/', function(req, res) {
       var msg = (reply || '').split(' ');
 
       var jumping = {status: null, message: null, posted: posted};
-      if (msg[0].toLowerCase() !== 'clear') {
-        jumping.status = msg[0];
+      if (msg[0] !== 'clear') {
+        jumping.status = msg[0].toLowerCase();
         if (msg.length > 1) {
           jumping.message = msg.slice(1).join(' ');
         } else {
