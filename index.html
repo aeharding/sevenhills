@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <link rel="stylesheet" href="bower_components/normalize.css/normalize.css">
+  <link rel="stylesheet" href="css/index.css">
+  <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300' rel='stylesheet' type='text/css'>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  <!-- Include the Google Maps API library - required for embedding maps -->
+  <script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+  <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+
+  <script type="text/javascript">
+   
+  // The latitude and longitude of your business / place
+  var position = [43.25983, -89.067707];
+   
+  function showGoogleMaps() {
+   
+      var latLng = new google.maps.LatLng(position[0], position[1]);
+   
+      var mapOptions = {
+          zoom: 11, // initialize zoom level - the max value is 21
+          streetViewControl: false, // hide the yellow Street View pegman
+          scaleControl: false, // allow users to zoom the Google Map
+          mapTypeId: google.maps.MapTypeId.ROADMAP,
+          center: new google.maps.LatLng(43.176061, -89.245902),
+          scrollwheel: false,
+
+    panControl: false,
+    zoomControl: false,
+    streetViewControl: false,
+    overviewMapControl: false,
+     mapTypeControl: false,
+     mapTypeControl: false,
+     draggable: false
+      };
+   
+      map = new google.maps.Map(document.getElementById('googlemaps'),
+          mapOptions);
+   
+      // Show the default red marker at the location
+      marker = new google.maps.Marker({
+          position: latLng,
+          map: map,
+          draggable: false,
+          animation: google.maps.Animation.DROP
+      });
+  }
+   
+  google.maps.event.addDomListener(window, 'load', showGoogleMaps);
+  </script>
+</head>
+
+<body>
+  <div class="hero-wrapper">
+    <img src="img/Mav _ Josh.JPG" class='top'>
+    <h1><span class='hidden-mobile'>Welcome to </span>Seven Hills Skydivers</h1>
+    <div class='est'><span>Since 1962</span></div>
+  </div>
+  <div class="elevator-pitch-wrap">
+    <div class='elevator-pitch'>
+      <p>We are a not-for-profit, all
+volunteer, member owned and
+operated club.
+We're in business to promote skydiving
+and introduce people to the sport
+by training students and performing
+demo jumps. Safety is our main
+priority and our record is second
+to none! We will make your first
+jump a safe and exciting adventure.</p>
+      <ul class='clear smaller contact'>
+        <li><i class="fa fa-facebook-official"></i><span class="description"><a href="https://www.facebook.com/Seven.Hills.Skydivers">Seven.Hills.Skydivers</a></span></li>
+        <li><i class="fa fa-phone"></i><span class="description">(608) 244-5252 <em>(for scheduling)</em></span></li> 
+        <li><i class="fa fa-phone"></i><span class="description">(920) 623-2838 <em>(dropzone phone)</em></span></li> 
+        <li><i class="fa fa-envelope"></i><span class="description">mail@sevenhillsskydivers.org</span></li> 
+        <li><i class="fa fa-compass"></i><span class="description">7530 State Highway 73<br>York Center, WI</span></li> 
+        <li><i class="fa fa-users"></i><span class="description"><a href="https://sites.google.com/a/sevenhillsskydivers.org/seven-hills/">Members Site</a></span></li>
+      </ul>
+</div>
+  </div>
+  <div class="jump">
+    <img src="img/tandem.jpg">
+    <div class="wrap">
+      <h1>Tandem</h1>
+    </div>
+  </div>
+  <div class="jump-wrap">
+    <div class='jump-text'>
+      <p>Jump from 10,000 feet attached to your instructor with a parachute built for two! Go along for the ride of your life!  Tandem skydiving has made it easy to enjoy the exciting sport of skydiving with a fantastic introduction to the world of freefall.  You will be harnessed to the front of a fully licensed, professional and friendly tandem instructor.  Your instructor is in charge every step of the way, from aircraft exit, to freefall, (for about 30 seconds at 120 MPH!), to a scenic canopy ride (about 6-8 minutes), to a comfortable, accurate landing.</p>
+      <p>Classes are held most weekends, late-April through October.  For more fun, you can purchase a video of your entire amazing jump taken by one of our aerial photographers - which includes pre- and post-jump interviews, the climb to altitude, and of course the exit and freefall and landing.  This will all be recorded in HD so that you can remember your jump for years to come.  About an hour of training.  Train and jump on the same day.  Appointment necessary.</p>
+<h5>Requirements</h5>
+<ul class="small unordered">
+  <li>18 or over</li>
+  <li>Want to have fun</li>
+  <li>Be in good health</li>
+  <li>Tandem limits are 225 pounds.</li>
+  <li>Please refrain from alcohol for at least 12 hours before the course.</li>
+  <li>Wear comfortable clothing and sneakers.</li>
+  <li>You must bring a valid government issued ID (Drivers License, State ID, passport).</li>
+  <li>A non-refundable $100 deposit is required to reserve your spot in a class or an appointment.</li>
+  <li>Also, please bring your PATIENCE as we can not control the weather and other factors. Thanks.</li>
+</ul>
+<h5>Pricing</h5>
+      <ul>
+        <li><span class='price'>215</span> training &amp; jump</li>
+        <li><span class='price'>+75</span> inside video <em>(optional)</em></li>
+        <li><span class='price'>+95</span> outside video <em>(optional)</em></li>
+        <li><span class='price'>+150</span> inside &amp; outside video <em>(optional)</em></li>
+      </ul>
+    </div>
+  </div>
+  <div class="jump">
+    <img src="img/iad.jpg">
+    <div class="wrap">
+      <h1>IAD</h1>
+    </div>
+  </div>
+  <div class="jump-wrap">
+    <div class='jump-text'>
+      <p>Instructor Assisted Deployment is a training method that opens your parachute almost immediately upon leaving the aircraft (about 3-4 seconds of freefall). You are never attached to the plane (like static-line) and the deployment sequence is identical to the way experienced skydivers open their own parachutes. This thrilling, solo, 'do it by yourself' method is also a way to train to become a licensed skydiver.  Well over half of our students choose the IAD jump, even if they want to only jump once.</p>
+      <p>Classes are held on various Saturdays and Sundays (reservations required), late-April through early-October. The class starts at 8 a.m., rain or shine. You'll be jumping in the afternoon (from 3500 feet!), weather permitting, so plan on spending the whole day.  Radio contact assists you in landing your parachute safely (about 4-6 minute canopy ride). A HD digital color video of your exit is available for purchase so that you can remember your jump for years to come. Train and jump on the same day.</p>
+
+<h5>Requirements</h5>
+<ul class="small unordered">
+  <li>18 or over</li>
+  <li>Want to have fun</li>
+  <li>Be in good health</li>
+  <li>AID limits are 215 pounds.</li>
+  <li>Please refrain from alcohol for at least 12 hours before the course.</li>
+  <li>Wear comfortable clothing and sneakers.</li>
+  <li>You must bring a valid government issued ID (Drivers License, State ID, passport).</li>
+  <li>A non-refundable $100 deposit is required to reserve your spot in a class or an appointment.</li>
+  <li>Also, please bring your PATIENCE as we can not control the weather and other factors. Thanks.</li>
+</ul>
+<h5>Pricing</h5>
+      <ul>
+        <li><span class='price'>150</span> training &amp; first jump</li>
+        <li><span class='price'>+30</span> video of exit <em>(optional)</em></li>
+        <li><span class='price'>75</span> subsequent low jumps</li>
+        <li><span class='price'>100</span> subsequent high jumps</li>
+      </ul>
+    </div>
+  </div>
+  <div class="jump">
+    <img src="img/experienced.jpg">
+    <div class="wrap">
+      <h1>Experienced</h1>
+    </div>
+  </div>
+  <div class="jump-wrap">
+    <div class='jump-text'>
+      <p>Experienced jumpers are always welcome! Please bring your membership card, logbook, and reserve data card (if you have your own rig).</p>
+      <ul>
+        <li><span class='price'>24</span> 10,000'</li>
+        <li><span class='price'>12</span> 5,500'</li>
+        <li><span class='price'>16</span> gear rental <em>(per jump)</em></li>
+      </ul>
+      <p><em>Prices higher during winter.</em></p>
+    </div>
+  </div>
+
+  <div class="faq-text">
+    <h1>FAQ</h1>
+<dl class="accordion">
+
+<dt><a href="">Who makes the rules that you follow?</a></dt>
+<dd><p>We follow all the regulations set by the Federal Aviation Administration in regards to skydiving, our equipment, and maintaining our aircraft, such as 100 hour inspections and annuals.  We only hire pilots who possess a Commercial rating.  We are also group members of the United States Parachute Association, who are recognized by the FAA as the authority on skydiving.  That means we follow the strictest guidelines in the industry.</p></dd>
+
+<dt><a href="">Which is better, TANDEM OR IAD?</a></dt>
+<dd><p>We offer two training methods, one is not necessarily better than the other. Which method you decide on depends more on your motivation, and what you’re interested in getting out of your skydiving experience.</p>
+<p>The Tandem method is popular today, but if you’re interested in 'doing by yourself' or pursuing your skydiving license you will need to take our Instructor Assisted Deployment (IAD) first jump course.  The decision is like, do you want to take a ride in a car or drive it.  Read through the Tandem and IAD pages for a detailed description of the two training options.
+Tandem: An hour of instruction, 30 second free fall, you jump with an instructor, relatively high performance 6-8 minute canopy ride.  Higher dollar cost.</p>
+<p>IAD: 5 to 6 hour instruction, 3-5 sec free fall on your first few jumps, solo, 4-6 minute canopy ride that you land by yourself (with radio help), train toward becoming a licensed skydiver and 'do it by yourself'.  Costs much less than a tandem first jump.</p></dd>
+
+<dt><a href="">How much time does a jump take?</a></dt>
+<dd><p>The amount of time required for your training and first jump depends on the training method you have selected. If we are not waiting on weather, plan on spending about 2 to 5 hours at the drop zone for a tandem jump and all day for an IAD jump.  For example, if you choose to make your jump at 12 noon, you show up right at noon, and plan on being there until about 4 p.m.  Here's how it all happens.  Your training lasts about 30 minutes for a tandem.   The plane ride takes about 25 minutes.  Your jump itself takes under 10 minutes.  The extra time we allow is for getting you ready and waiting for your plane load.  If you have a bigger group, you may want to plan for a longer time span, especially if any in your group want freefall photography for their jump.</p>
+
+<p>If you are doing the Instructor Assisted Deployment (solo) method, we suggest that you plan to spend the day at the drop zone. We believe you will find that clearing your schedule of other obligations will allow you to focus on your first jump with-out unneeded worries or distractions. If you will be unable to be at the drop zone all day, please let your instructor know your time constraints as early as possible.</p></dd>
+
+<dt><a href="">How many of us can go up in the plane at the same time?</a></dt>
+<dd><p>Your jump will be from a Cessna 182 which holds a pilot plus four skydivers.  That means, if you want to go on a tandem with your friend, you can have one tandem master, yourself, the other tandem master, and your friend in the plane at the same time.   You will have the airplane ride together, but you will not be able to see each other in freefall.  The tandem pair who exit first will also be able to see the second pair's landing.  If you want photography on your jump, you will have one tandem master, yourself, a videographer.  That leaves only one slot so there is no room for another tandem pair.  With IAD, the plane can hold 3 jumpers and the instructor.</p></dd>
+
+<dt><a href="">Do you take credit cards?</a></dt>
+<dd><p>We take MasterCard, Visa and Discover. We also welcome cashier's checks, money orders, or cash. If using a credit card to put down a deposit, we need the name as it appears on the card, the card number, the expiration date, the name of the person(s) making the jump, and a phone number.</p></dd>
+
+<dt><a href="">Are reservations and deposits required?</a></dt>
+<dd><p>Yes, a $100 NON REFUNDABLE deposit is required to schedule a skydive. This deposit is not refundable unless you cancel 10 days prior to your jump.  It can be rescheduled.</p></dd>
+
+<dt><a href="">Who do I call to sign up?</a></dt>
+<dd><p>To sign up for a class or to schedule a tandem jump, call us at (608) 244-5252. You will talk to a real person most of the time. We are generally available to take your call seven days a week and all daylong. At times, you will get voice mail if we are unavailable, please leave a message and we will do our best to return your call in a timely manner.
+Go to our Sign-Up page.</p></dd>
+
+<dt><a href="">Do you have GIFT CERTIFICATES available?</a></dt>
+<dd><p>Yes, we offer gift certificates! Call our scheduling phone.</p></dd>
+
+<dt><a href="">What do I need to bring or wear for my first jump?</a></dt>
+<dd><p>You must bring an ID that has your photo and your birthdate on it, like a driver's license.  Wear tennis shoes, not sandals and not boots.  Make sure your clothing is comfortable, and when in doubt, bring extra.  If you are making a jump in the cold weather, it is best to wear multiple layers of thinner clothing, instead of one layer of bulky clothing.</p>
+<p>Our training room and airplane are heated, but your jump will obviously be outside.  We provide jumpsuits and gloves, although you may want to bring your own gloves for comfort.  Any other time of year, just dress for what you are comfortable wearing outside for that particular temperature.</p></dd>
+
+<dt><a href="">Do you have any weigh limits?</a></dt>
+<dd><p>IAD weight limit is 220 pounds.  Tandem limits are 220 pounds, NO Exceptions. The safety of you and our staff is our number one concern.  We weigh EVERYONE.  We WILL weigh you.   A good resource for this question or for other further research would be United States Parachute Association, at www.uspa.org.</p></dd>
+
+<dt><a href="">What if I'm sixteen?  Can I have my parents sign for me?</a></dt>
+<dd><p>Sorry, but everyone who skydives signs a waiver, which is a legally binding contract, specifically a release of liability and assumption of risk agreement.   Minors are not allowed to enter into legal contracts regardless of who signs on their behalf.  Call us on your 18th birthday!  Everyone who skydives with us is required to bring identification with a photo and birthdate.  We WILL card you.</p></dd>
+
+<dt><a href="">What happens if the weather is bad the day I am scheduled to jump?</a></dt>
+<dd><p>First of all, do NOT believe all the forecasts you hear the day before, a couple days before, or a WEEK before your scheduled jump.  Weather forecasters have been known to be wrong a few times. (Note the sarcasm on the word 'few'.)  We wait until the day of your jump to make a weather call.</p>
+<p>If you wake up the day of your jump and think the weather may not be right, give us a call before you drive out.  Weather differs greatly even within a distance of 30 miles, so although it may be bad weather where you are, we may have perfect weather.  Do not expect to jump if it's raining, snowing, extremely windy or if there are very low clouds.  We can discuss delaying your jump for later that day, or rescheduling for a different date.</p>
+<p>If we reschedule, you will not lose your deposit.  It will be transferred to the next available date of your choice.</p></dd>
+
+<dt><a href="">I'm afraid I'll get airsick...should I eat before my jump?</a></dt>
+<dd><p>Yes!  Not eating can make you feel even more airsick.  Instead, just eat a smaller meal before you jump.  If you have air sickness pills, please take them well before your jump.</p></dd>
+
+<dt><a href="">Can I drink alcohol before the jump?</a></dt>
+<dd><p>NO! Absolutely not!  Drinking and skydiving do not mix.  In fact, you must not have had alcohol within 12 hours of your skydive.  You must not have taken any recreational drugs within 12 hours of your skydive.</p></dd>
+
+<dt><a href="">Is skydiving safe?</a></dt>
+<dd><p>Skydiving is like any other extreme sport: there are inherent risks that require careful training and execution. Failure to follow that training can lead to serious injury. Skydiving is as safe as the individual(s) make it. The equipment has improved considerably over the old-style round parachute and is so reliable that, when used properly, skydiving can be as safe or safer than any other extreme sport.  Statistically, skydiving is much safer than riding on a motorcycle.</p></dd>
+
+<dt><a href="">What will the skydive feel like?</a></dt>
+<dd><p>The sensation of freefall is more like flying than falling, and is intensely exciting and liberating. The canopy flight is peaceful and relaxing.</p></dd>
+
+<dt><a href="">How fast do you fall?</a></dt>
+<dd><p>The average human body falls approximately 120 miles per hour.</p></dd>
+
+<dt><a href="">What's the landing like?</a></dt>
+<dd><p>Most landings are quite soft, with many people doing stand-up landings. Sometimes, especially on calm days, the forward speed of the parachute will provide you with a smooth sit-down sliding landing.</p></dd>
+
+<dt><a href="">Can I bring my own camera with me on the jump?</a></dt>
+<dd><p>No, you are much too busy with your skydive to look after your cameras. It very easily may get lost or broken and we cannot risk dropping it in freefall or under parachute.</p></dd>
+
+<dt><a href="">Can I bring my friends and family to watch?</a></dt>
+<dd><p>Definitely YES!  We have a nice spectator and picnic area for them to sit and watch.</p></dd>
+
+<dt><a href="">What if the parachute doesn't open?</a></dt>
+<dd><p>Every skydiving rig is equipped with both a main and a reserve parachute (and backup devices). Every rig!</p>
+
+<p>As a tandem skydiver, you are with a trained professional who knows how to handle a malfunction and deploy the reserve canopy if it's necessary. We take your safety very seriously and have never had a student fatality.</p>
+
+<p>As a Solo student, you are taught how to recognize what a malfunction looks like as well as how to deal with the malfunction in a timely manner. If the malfunction is the type that cannot be dealt with, you are taught how to cut-away your main parachute and deploy your reserve parachute, which is extremely unlikely to have a malfunction.</p></dd>
+
+<dt><a href="">Does it hurt when the parachute opens?</a></dt>
+<dd><p>No, it doesn't hurt. The harness is tightened so that there's no real shock from it pulling when the parachute opens.</p></dd>
+
+</dl>
+
+  </div>
+  <div class="map">
+    <div id='googlemaps'></div>
+    <div class="overlay">
+      <div class='text'><h1>35 minutes from downtown</h1><a href="geo:43.25983,-89.067707" target='_blank' class='button large'>Get Directions</a></div>
+    </div>
+  </div>
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-62313169-1', 'auto');
+  ga('send', 'pageview');
+  
+  </script>
+
+
+
+ <script>
+  (function($) {
+      
+    var allPanels = $('.accordion > dd').hide();
+      
+    $('.accordion > dt > a').click(function() {
+        $this = $(this);
+        $target =  $this.parent().next();
+
+        if(!$target.hasClass('active')){
+           allPanels.removeClass('active').slideUp();
+           $target.addClass('active').slideDown();
+        } else {
+          allPanels.removeClass('active').slideUp();
+        }
+        
+      return false;
+    });
+
+  })(jQuery);
+  </script>
+
+</body>
+
+</html>
