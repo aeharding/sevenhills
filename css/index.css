@@ -18,6 +18,15 @@ body {
   background:         linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* W3C */
 }
 
+h5 {
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
+a {
+  color: inherit;
+}
+
 ul.smaller {
   font-size: .8em;
 }
@@ -26,16 +35,22 @@ ul.clear li {
 }
 
 .contact i {
-  margin-right: 15px;
+  margin-right: 5px;
+  float: left;
+  width: 20px;
+  height: 25px;
+  line-height: 25px;
+  text-align: center;
 }
 
 .contact li {
   margin-bottom: 5px;
+  overflow: auto;
 }
 
 .contact .description {
   margin-left: 5px;
-  position: absolute;
+  float: left;
 }
 
 .map {
@@ -124,7 +139,7 @@ a.button.large {
   font-weight: 100;
   position: absolute;
   color: white;
-  top: 8vw;
+  top: 5vw;
   left: 0;
   right: 0;
   text-align: center;
@@ -133,7 +148,7 @@ a.button.large {
 
 .hero-wrapper .est {
   position: absolute;
-  top: 19vw;
+  top: 15vw;
   font-size: 2vw;
   color: white;
   font-weight: 100;
@@ -149,119 +164,32 @@ a.button.large {
 }
 
 
-
-
-
-/*ALERT*/
-/*<div class="status status-open">
-    We're going jumping today! Come out and visit us.
-    <abbr class="timeago" title="2015-04-27T15:29:35.732Z">7 minutes ago</abbr>
-</div>*/
-
-.status {
-  color: rgba(255, 255, 255, 0.8);
-  text-align: center;
-  padding: 15px 0;
-}
-.status-standby,
-.status-weather,
-.status-wind {
-  background: rgba(241,231,103,1);
-  background: -moz-linear-gradient(left, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
-  background: -webkit-gradient(left top, right top, color-stop(0%, rgba(241,231,103,1)), color-stop(100%, rgba(254,182,69,1)));
-  background: -webkit-linear-gradient(left, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
-  background: -o-linear-gradient(left, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
-  background: -ms-linear-gradient(left, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
-  background: linear-gradient(to right, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f1e767', endColorstr='#feb645', GradientType=1 );
-}
-.status-closed {
-  background: rgba(179,79,61,1);
-  background: -moz-linear-gradient(left, rgba(179,79,61,1) 0%, rgba(231,56,39,1) 100%);
-  background: -webkit-gradient(left top, right top, color-stop(0%, rgba(179,79,61,1)), color-stop(100%, rgba(231,56,39,1)));
-  background: -webkit-linear-gradient(left, rgba(179,79,61,1) 0%, rgba(231,56,39,1) 100%);
-  background: -o-linear-gradient(left, rgba(179,79,61,1) 0%, rgba(231,56,39,1) 100%);
-  background: -ms-linear-gradient(left, rgba(179,79,61,1) 0%, rgba(231,56,39,1) 100%);
-  background: linear-gradient(to right, rgba(179,79,61,1) 0%, rgba(231,56,39,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b34f3d', endColorstr='#e73827', GradientType=1 );
-}
-.status-future {
-  background: rgba(73,155,234,1);
-  background: -moz-linear-gradient(left, rgba(73,155,234,1) 0%, rgba(32,124,229,1) 100%);
-  background: -webkit-gradient(left top, right top, color-stop(0%, rgba(73,155,234,1)), color-stop(100%, rgba(32,124,229,1)));
-  background: -webkit-linear-gradient(left, rgba(73,155,234,1) 0%, rgba(32,124,229,1) 100%);
-  background: -o-linear-gradient(left, rgba(73,155,234,1) 0%, rgba(32,124,229,1) 100%);
-  background: -ms-linear-gradient(left, rgba(73,155,234,1) 0%, rgba(32,124,229,1) 100%);
-  background: linear-gradient(to right, rgba(73,155,234,1) 0%, rgba(32,124,229,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#499bea', endColorstr='#207ce5', GradientType=1 );
-}
-.status-open {
-  background: rgba(109,199,26,1);
-  background: -moz-linear-gradient(left, rgba(109,199,26,1) 0%, rgba(89,156,28,1) 100%);
-  background: -webkit-gradient(left top, right top, color-stop(0%, rgba(109,199,26,1)), color-stop(100%, rgba(89,156,28,1)));
-  background: -webkit-linear-gradient(left, rgba(109,199,26,1) 0%, rgba(89,156,28,1) 100%);
-  background: -o-linear-gradient(left, rgba(109,199,26,1) 0%, rgba(89,156,28,1) 100%);
-  background: -ms-linear-gradient(left, rgba(109,199,26,1) 0%, rgba(89,156,28,1) 100%);
-  background: linear-gradient(to right, rgba(109,199,26,1) 0%, rgba(89,156,28,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6dc71a', endColorstr='#599c1c', GradientType=1 );
-}
-
-.status .message:before {
-  font-family: FontAwesome;
-  padding-right: 5px;
-}
-.status-open .message:before {
-  content: "\f00c";
-}
-.status-closed .message:before {
-  content: "\f00d";
-}
-.status-future .message:before {
-  content: "\f05a";
-}
-.status-standby .message:before,
-.status-weather .message:before,
-.status-wind .message:before {
-  content: "\f071";
-}
-
-.status .time {
-  margin-left: 20px;
-  font-style: italic;
-  font-size: .8em;
-  white-space: nowrap
-}
-
-
-
-
-
 /*TANDEM*/
 
-.tandem-wrap {
+.jump-wrap {
   padding-bottom: 5em;
 }
 
-.tandem-text h2 {
+.jump-text h2 {
   font-weight: 100;
 }
 
-.tandem-text li {
+.jump-text li {
   font-size: .8em;
   font-weight: normal;
   list-style-type: none;
 }
-.tandem-text .price::after {
+.jump-text .price::after {
   content: '.0';
 }
-.tandem-text .price {
+.jump-text .price {
   display: inline-block;
   width: 60px;
   margin-right: 10px;
   text-align: right;
 }
 
-.tandem-text {
+.jump-text {
   font-family: 'Open Sans', sans-serif;
   font-size: 1em;
   max-width: 800px;
@@ -269,20 +197,20 @@ a.button.large {
   margin: -4px auto;
   font-weight: 100;
 }
-.tandem {
+.jump {
   width: 100%;
   position: relative;
 }
-.tandem img {
+.jump img {
   width: 100%;
 }
-.tandem .wrap {
+.jump .wrap {
   position: absolute;
   left: 0;
   right: 0;
   bottom: 0;
 }
-.tandem h1 {
+.jump h1 {
   text-align: right;
   font-family: 'Lato', sans-serif;
   color: white;
@@ -291,65 +219,22 @@ a.button.large {
   margin: 30px;
 }
 
-/*EXPERIENCED*/
-
-.experienced-wrap {
-  padding-bottom: 5em;
-}
-
-.experienced-text h2 {
-  font-weight: 100;
-}
-
-.experienced-text li {
-  font-size: .8em;
-  font-weight: normal;
-  list-style-type: none;
-}
-.experienced-text .price::after {
-  content: '.0';
-}
-.experienced-text .price {
-  display: inline-block;
-  width: 60px;
-  margin-right: 10px;
-  text-align: right;
-}
-
-.experienced-text {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 1em;
-  max-width: 800px;
-  padding: 5px 10px;
-  margin: -4px auto;
-  font-weight: 100;
-}
-.experienced {
-  width: 100%;
-  position: relative;
-}
-.experienced img {
-  width: 100%;
-}
-.experienced .wrap {
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
-}
-.experienced h1 {
-  text-align: right;
-  font-family: 'Lato', sans-serif;
-  color: white;
-  font-size: 4em;
-  font-weight: 100;
-  margin: 30px;
-}
-
-.tandem,
-.experienced {
+.jump {
   max-width: 800px;
   margin: 0 auto;
+}
+
+.faq-text {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+  max-width: 800px;
+  padding: 0 10px 5em;
+  margin: 0 auto;
+  font-weight: 100;
+
+}
+.faq-text h1 {
+  font-weight: 100;
 }
 
 
@@ -427,4 +312,38 @@ a.button.large {
 
 .fb {
   color: #3b5998;
+}
+
+.small {
+  font-size: 80%;
+}
+.unordered li {
+  list-style-type: disc;
+}
+
+
+
+
+
+/*Accordion*/
+
+.accordion > dt > a {
+  text-decoration: none;
+}
+.accordion > dt > a:after {
+  content: " »";
+}
+.accordion > dt > a:hover {
+  text-decoration: underline;
+}
+.accordion dt, .accordion dd {
+  border: 0;
+  margin: 0;
+  overflow: auto;
+}
+.accordion dt {
+  margin-top: .25em;
+}
+.accordion dd {
+  font-size: 80%;
 }
