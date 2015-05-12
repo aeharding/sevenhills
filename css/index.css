@@ -18,6 +18,15 @@ body {
   background:         linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* W3C */
 }
 
+/*TODO: Remove*/
+.construction {
+  border-left: 5px solid #cc3300;
+  padding: 10px 0 10px 20px;
+}
+.construction .fa {
+  color: #cc3300;
+}
+
 h5 {
   font-weight: 500;
   margin-bottom: 0;
