@@ -18,13 +18,20 @@ body {
   background:         linear-gradient(90deg, #ECE9E6 10%, #FFFFFF 90%); /* W3C */
 }
 
-/*TODO: Remove*/
-.construction {
+
+.danger-alert {
   border-left: 5px solid #cc3300;
   padding: 10px 0 10px 20px;
 }
-.construction .fa {
+.danger-alert .fa {
   color: #cc3300;
+}
+.success-alert {
+  border-left: 5px solid #00cc33;
+  padding: 10px 0 10px 20px;
+}
+.success-alert .fa {
+  color: #00cc33;
 }
 
 h5 {
