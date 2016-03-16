@@ -1,0 +1,51 @@
+@import 'variables';
+
+body {
+  font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
+  font-size: 100%; 
+  line-height: 1.5;
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+h1 {
+  font-size: 2.747em;
+}
+
+h2 {
+  font-size: 1.874em;
+}
+
+h3 {
+  font-size: 1.229em;
+}
+
+a {
+  color: $primary;
+  text-decoration: none;
+
+  &:hover,
+  &:active {
+    text-decoration: underline;
+  }
+}
+
+.full-width {
+  width: 100%;
+}
+
+section {
+  margin: auto;
+  max-width: 34em;
+  padding: 0 1em;
+}
+
+@media screen and (max-width: 25em) {
+  body {
+    font-size: 90%;
+  }
+}
+
+@import 'note';
+@import 'navigation';
+@import 'title';

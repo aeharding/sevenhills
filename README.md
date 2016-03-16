@@ -1,5 +1,6 @@
-# Seven Hills Skydivers Website
 
-Available at http://sevenhillsskydivers.org/.
+# static-site
 
-This repository is pretty much plain HTML/CSS/JS. Dependencies are grabbed from CDNs.
+This example uses Metalsmith to make a static site. To test it out yourself just run:
+
+    $ make build

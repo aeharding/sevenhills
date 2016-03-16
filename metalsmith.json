@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "title": "Seven Hills Skydivers",
+    "description": "7 Hills has professional 1st jump and tandem skydives-USPA instructors. Not-for-profit parachute club, open to beginners and skydivers since 1962, located in Madison, WI."
+  },
+  "plugins": {
+    "metalsmith-markdown": {},
+    "metalsmith-permalinks": {
+      "pattern": ":pageTitle"
+    },
+    "metalsmith-layouts": {
+      "engine": "handlebars",
+      "partials": "partials"
+    },
+    "metalsmith-sass": {
+      "outputDir": "css",
+      "outputStyle": "expanded",
+      "includePaths": [
+        
+      ]
+    }
+  }
+}
