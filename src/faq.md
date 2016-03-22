@@ -1,7 +1,7 @@
 ---
 pageTitle: Frequently Asked Questions
 date: 2012-09-28
-layout: post.html
+layout: page.html
 ---
 
 <dl class="accordion">

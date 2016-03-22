@@ -6,7 +6,13 @@
   "plugins": {
     "metalsmith-markdown": {},
     "metalsmith-permalinks": {
-      "pattern": ":pageTitle"
+      "pattern": ":pageTitle",
+      "date": "YYYY",
+      "linksets": [{
+          "match": { "collection": "posts" },
+          "pattern": "posts/:date/:title",
+          "date": "mmddyy"
+      }]
     },
     "metalsmith-layouts": {
       "engine": "handlebars",

@@ -4,6 +4,13 @@ layout: index.html
 
 We are a not-for-profit, all volunteer, member owned and operated club just outside of Madison. We're in business to promote skydiving and introduce people to the sport by training students and performing demo jumps. Safety is our main priority and our record is second to none! We will make your first jump a safe and exciting adventure.
 
+<div class="note">
+  **Event: Head to the Hills Boogie!** 
+  June 16-19, 2016.
+  <p>Come join us for a weekend of Skydiving. Whether your 1st time or your 1000th, we have something for everyone. This Father's day weekend we will be having a specialty plane (PAC750XL) so you and your friends can go skydiving together.</p>
+  [More info here!](posts/head-to-the-hills-2016)
+</div>
+
 ### New jumper?
 
 We offer two training methods, and one is not necessarily better than the other. Which method you decide on depends more on your motivation, and what you’re interested in getting out of your skydiving experience.

@@ -1,7 +1,7 @@
 ---
 pageTitle: Instructor Aided Deployment
 date: 2012-12-07
-layout: post.html
+layout: page.html
 nav:
   iad: true
 ---
