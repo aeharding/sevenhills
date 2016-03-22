@@ -3,8 +3,27 @@ body {
   font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
   font-size: 100%;
   line-height: 1.5;
+  margin: 0;
+}
+
+header,
+main {
   margin: 0 auto;
   max-width: 800px;
+}
+
+header {
+  overflow: auto;
+}
+
+.header-wrapper {
+  color: white;
+  background: #00d2ff;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #00d2ff, #3a7bd5);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #00d2ff, #3a7bd5);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 h1 {
@@ -76,6 +95,7 @@ section {
 .navigation {
   text-align: center;
   font-family: 'lato', sans-serif;
+  padding-bottom: 1em;
 }
 
 .navigation a {
@@ -84,18 +104,18 @@ section {
   display: inline-block;
   line-height: 1.5;
   margin: 0 1em;
-  color: #84B1ED;
+  color: rgba(255, 255, 255, 0.75);
   position: relative;
   width: 7em;
   padding-bottom: 6px;
 }
 
 .navigation a.active {
-  color: #5895e6;
+  color: white;
 }
 
 .navigation a.active:after {
-  background-color: #5895e6;
+  background-color: white;
 }
 
 .navigation a:after {
@@ -107,7 +127,7 @@ section {
   margin: 0 auto;
   width: 0;
   height: 3px;
-  background-color: #84B1ED;
+  background-color: rgba(255, 255, 255, 0.75);
   transition: all 200ms ease;
 }
 
@@ -123,19 +143,20 @@ section {
 
 .title h1 {
   font-weight: 100;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.1em;
   margin: 0;
   line-height: 1;
+  font-size: 3em;
 }
 
 .title h1 a {
+  color: white;
   text-decoration: none;
-  color: #000;
 }
 
 .title aside {
   font-style: italic;
-  color: #aaa;
+  color: rgba(255, 255, 255, 0.75);
   font-size: 0.9em;
   letter-spacing: 0.1em;
 }
