@@ -11,7 +11,7 @@ nav:
 *The first jump*
 
  * **$150** - Training and first jump
- * +**$30** video of exit *(optional)*
+   * +**$30** video of exit *(optional)*
 
 *Following jumps*
 
@@ -23,6 +23,24 @@ nav:
 </div>
 
 ### Tandem pricing
+
+ * **$215** - Training and jump
+   * +**$75** inside video *(optional)*
+   * +**$95** outside video *(optional)*
+   * +**$150** inside and outside video *(optional)*
+
+<div class="note"><strong>Savings!</strong> After completing your first tandem skydive at Seven Hills Skydivers, we can offer you the thrill of skydiving with our solo IAD first jump course for only $125! Please call our scheduler at 608-244-5252 and mention this offer.
+</div>
+
+### Experienced pricing
+
+Experienced jumpers are always welcome! Please bring your membership card, logbook, and reserve data card (if you have your own rig).
+
+ * **$22** 10,000'
+ * **$11** 5,500'
+ * **$16** gear rental *(per jump)*
+
+*Experienced jump prices higher during Winter.*
 
 ----
 

@@ -26,7 +26,7 @@ Classes are held on various Saturdays and Sundays (reservations required), late-
 
 ### Pricing
 
-See [our current prices](../prices).
+See [our current prices](../prices#iad-pricing).
 
 ### FAQ
 

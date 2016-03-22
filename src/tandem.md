@@ -26,7 +26,7 @@ Classes are held most weekends, late-April through October. For more fun, you ca
 
 ### Pricing
 
-See [our current prices](../prices).
+See [our current prices](../prices#tandem-pricing).
 
 ### FAQ
 
