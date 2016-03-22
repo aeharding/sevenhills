@@ -5,7 +5,7 @@ layout: post.html
 collection: posts
 ---
 
-## Head the the Hills 2016
+## Head to the Hills 2016
 
 Come join us for a weekend of Skydiving whether your 1st time or your 1000th, we have something for everyone. This Father's day weekend we will be having a specialty plane (**PAC750XL**) so you and your friends can go skydiving together.
 
