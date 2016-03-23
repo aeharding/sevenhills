@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html class="no-scroll">
   <head>
     <title>{{ title }}</title>
     <meta name="robots" content="index, follow">
@@ -12,13 +12,26 @@
   </head>
 
   <body>
-    <div class="header-wrapper">
+    <div class="header-wrapper header-wrapper--video">
+      <video autoplay="autoplay" loop muted>
+        <source src="video/boom.mp4" />
+        <source src="video/boom.webm" />
+      </video>
+
+      <div class="header__lets-play">
+        <div>Let's have some fun</div>
+
+        <a href="welcome">Book your skydive today</a>
+      </div>
+
+
       <header>
         {{> title}}
 
         {{> nav }}
       </header>
     </div>
+
 
     <main>{{{ contents }}}</main>
   </body>

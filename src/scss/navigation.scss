@@ -47,7 +47,8 @@ $opaque: rgba(255, 255, 255, 0.75);
 
     &:hover,
     &:active,
-    &.active {
+    &.active,
+    &:focus {
       &:after {
         width: 100%;
       }
