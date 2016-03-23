@@ -12,10 +12,14 @@
   </head>
 
   <body>
-    {{> title}}
+    <div class="header-wrapper">
+      <header>
+        {{> title}}
 
-    {{> nav }}
+        {{> nav }}
+      </header>
+    </div>
 
-    {{{ contents }}}
+    <main>{{{ contents }}}</main>
   </body>
 </html>

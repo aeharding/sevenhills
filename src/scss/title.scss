@@ -8,19 +8,20 @@
   
   h1 {
     font-weight: 100;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.1em;
     margin: 0;
     line-height: 1;
+    font-size: 3em;
 
     a {
+      color: white;
       text-decoration: none;
-      color: #000;
     }
   }
 
   aside {
     font-style: italic;
-    color: #aaa;
+    color: rgba(255, 255, 255, 0.75);
     font-size: 0.9em;
     letter-spacing: 0.1em;
   }

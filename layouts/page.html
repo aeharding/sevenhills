@@ -13,12 +13,16 @@
   </head>
 
   <body>
-    {{> title rel='../'}}
+    <div class="header-wrapper">
+      <header>      
+        {{> title rel='../'}}
 
-    {{> nav rel='../'}}
+        {{> nav rel='../'}}
+      </header>
+    </div>
 
     <!-- <h1>{{ pageTitle }}</h1> -->
 
-    {{{ contents }}}
+    <main>{{{ contents }}}</main>
   </body>
 </html>
