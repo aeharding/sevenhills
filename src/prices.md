@@ -18,14 +18,14 @@ nav:
  * **$75** subsequent low jumps
  * **$100** subsequent high jumps
 
-<div class="note"><strong>Savings!</strong> If a student purchases their 2nd jump ticket on the day that they make their 1st jump, that student will receive $5 off their 2nd IAD student jump ticket. 
+<div class="note"><strong>Savings!</strong> If a student purchases their 2nd jump ticket on the day that they make their 1st jump, that student will receive $10 off their 2nd IAD student jump ticket. 
 <br><small>Offer only good on the day their 1st IAD jump is made and only for the 2nd IAD jump ticket. Mention this ad when purchasing your ticket.</small>
 </div>
 
 ### Tandem pricing
 
  * **$215** - Training and jump
-   * +**$75** inside video *(optional)*
+   * +**$80** inside video *(optional)*
    * +**$95** outside video *(optional)*
    * +**$150** inside and outside video *(optional)*
 
