@@ -9,6 +9,8 @@ collection: posts
 
 Come join us for a weekend of Skydiving whether your 1st time or your 1000th, we have something for everyone. This Father's day weekend we will be having a specialty plane (**PAC750XL**) so you and your friends can go skydiving together.
 
+Mail us the [pre-registration form](https://drive.google.com/file/d/0B_TxW7YtyOtIMERCYTZDRno4Mkk/view?usp=sharing) to sign up!
+
 ### New jumpers
 
 If you have never experienced the thrill of skydiving we are offering Tandem Skydives for $215 with video packages available. Groups are encouraged, bring your friends and make a day of skydiving.

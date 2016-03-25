@@ -12,7 +12,7 @@ We are a not-for-profit, all volunteer, member owned and operated club just outs
   **Event: Head to the Hills Boogie!** 
   June 16-19, 2016.
   <p>Come join us for a weekend of Skydiving. Whether your 1st time or your 1000th, we have something for everyone. This Father's day weekend we will be having a specialty plane (PAC750XL) so you and your friends can go skydiving together.</p>
-  [More info here!](../posts/head-to-the-hills-2016)
+  [More info here](../posts/head-to-the-hills-2016) | [Pre-registration form](https://drive.google.com/file/d/0B_TxW7YtyOtIMERCYTZDRno4Mkk/view?usp=sharing)
 </div>
 
 ### New jumper?
