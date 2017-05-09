@@ -13,7 +13,11 @@ body {
   margin: 0;
 }
 
-header,
+header {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
 main {
   margin: 0 auto;
   max-width: 800px;
@@ -140,6 +144,17 @@ section {
   }
 }
 
+.choose-text {
+  text-align: center;
+  font-size: 1.5em;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+.tandem-video {
+  width: 100%;
+}
+
 .note {
   margin: 0.5em;
   padding: 0.5em;
@@ -183,7 +198,7 @@ section {
   margin: 0 1em;
   color: rgba(255, 255, 255, 0.75);
   position: relative;
-  width: 7em;
+  width: 8em;
   padding-bottom: 6px;
 }
 
@@ -212,6 +227,15 @@ section {
   width: 100%;
 }
 
+.navigation__call {
+  font-size: 3em;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 100;
+  color: #d5473a;
+  line-height: 2;
+}
+
 .title {
   margin: 1em 0;
   text-align: center;
@@ -237,4 +261,59 @@ section {
   color: rgba(255, 255, 255, 0.75);
   font-size: 0.9em;
   letter-spacing: 0.1em;
+}
+
+.skydive-selector {
+  display: flex;
+}
+
+.skydive-selector__option div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 4em;
+  font-family: sans-serif;
+  font-weight: 100;
+  position: relative;
+}
+
+.skydive-selector__option a {
+  text-decoration: none;
+}
+
+.skydive-selector__option aside {
+  text-align: center;
+  font-size: 1.3em;
+}
+
+.skydive-selector__option span {
+  z-index: 2;
+}
+
+.skydive-selector__option div:before {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.3);
+  content: '';
+}
+
+.skydive-selector__option {
+  flex: 1;
+  margin: 1em;
+}
+
+.skydive-selector__option--tandem div {
+  background: url(../img/tandem.jpg);
+  background-size: cover;
+  height: 250px;
+}
+
+.skydive-selector__option--solo div {
+  background: url(../img/iad.jpg);
+  background-size: cover;
+  height: 250px;
 }

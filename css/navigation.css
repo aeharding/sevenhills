@@ -12,7 +12,7 @@
   margin: 0 1em;
   color: rgba(255, 255, 255, 0.75);
   position: relative;
-  width: 7em;
+  width: 8em;
   padding-bottom: 6px;
 }
 
@@ -39,4 +39,13 @@
 
 .navigation a:hover:after, .navigation a:active:after, .navigation a.active:after, .navigation a:focus:after {
   width: 100%;
+}
+
+.navigation__call {
+  font-size: 3em;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 100;
+  color: #d5473a;
+  line-height: 2;
 }
