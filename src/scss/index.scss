@@ -16,7 +16,11 @@ body {
   margin: 0;
 }
 
-header,
+header {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
 main {
   margin: 0 auto;
   max-width: 800px;
@@ -147,7 +151,19 @@ section {
   }
 }
 
+.choose-text {
+  text-align: center;
+  font-size: 1.5em;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+.tandem-video {
+  width: 100%;
+}
+
 @import 'note';
 @import 'accordion';
 @import 'navigation';
 @import 'title';
+@import 'skydiveSelector';

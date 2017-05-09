@@ -6,7 +6,10 @@ nav:
   tandem: true
 ---
 
-<img src="../img/tandem.jpg" alt="IAD example" class="full-width">
+<video class="tandem-video" autoplay="autoplay" loop="true" muted="">
+	<source src="../video/boom.mp4">
+	<source src="../video/boom.webm">
+</video>
 
 Jump from 10,000 feet attached to your instructor with a parachute built for two! Go along for the ride of your life! Tandem skydiving has made it easy to enjoy the exciting sport of skydiving with a fantastic introduction to the world of freefall. You will be harnessed to the front of a fully licensed, professional and friendly tandem instructor. Your instructor is in charge every step of the way, from aircraft exit, to freefall, (for about 30 seconds at 120 MPH!), to a scenic canopy ride (about 6-8 minutes), to a comfortable, accurate landing.
 
@@ -22,7 +25,6 @@ Classes are held most weekends, late-April through October. For more fun, you ca
   * Wear comfortable clothing and sneakers.
   * You must bring a valid government issued ID (Drivers License, State ID, passport).
   * A non-refundable $100 deposit is required to reserve your spot in a class or an appointment.
-  * Also, please bring your PATIENCE as we can not control the weather and other factors. Thanks.
 
 ### Pricing
 

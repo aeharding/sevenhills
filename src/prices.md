@@ -28,6 +28,7 @@ nav:
    * +**$80** inside video *(optional)*
    * +**$95** outside video *(optional)*
    * +**$150** inside and outside video *(optional)*
+ * Special group rate for groups of 5 or more.
 
 <div class="note"><strong>Savings!</strong> After completing your first tandem skydive at Seven Hills Skydivers, we can offer you the thrill of skydiving with our solo IAD first jump course for only $125! Please call our scheduler at 608-244-5252 and mention this offer.
 </div>
