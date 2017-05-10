@@ -25,7 +25,7 @@ nav:
 ### Tandem pricing
 
  * **$215** - Training and jump
-   * +**$80** inside video *(optional)*
+   * +**$75** inside video *(optional)*
    * +**$95** outside video *(optional)*
    * +**$150** inside and outside video *(optional)*
  * Special group rate for groups of 5 or more.
