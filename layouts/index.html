@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-scroll">
+<html>
   <head>
     <title>{{ title }}</title>
 
@@ -11,30 +11,28 @@
     <meta name="keywords" content="Seven Hills,skydiving,skydivers,parachute,sport parachuting,jumping,first jump,plane jumpers,What to do in Madison WI,dropzone,Madison,WI,Skydiving in Wisconsin,skydive madison wi,tandem,student training,static line,IAD,USPA,7 hills,tandum,sky diving,sevenhills,extreme sports,skydive instruction">
 
     {{> vendor}}
+
   </head>
 
   <body>
-    <div class="header-wrapper header-wrapper--video">
-      <video autoplay="autoplay" loop muted>
-        <source src="video/boom.mp4" />
-        <source src="video/boom.webm" />
-      </video>
-
-      <div class="header__lets-play">
-        <div>Let's have some fun</div>
-
-        <a href="choose-your-skydive-type">Book your skydive today</a>
-      </div>
-
-
-      <header>
+    <div class="header-wrapper">
+      <header>      
         {{> title}}
 
-        {{> nav }}
+        {{> nav}}
       </header>
     </div>
 
+    <!-- <h1>{{ pageTitle }}</h1> -->
 
-    <main>{{{ contents }}}</main>
+    <main>
+      <div class="navigation__call">
+        Call Now! (608) 244-5252
+      </div>
+      <div>{{{ contents }}}</div>
+      <div class="navigation__call">
+        Call Now! (608) 244-5252
+      </div>
+    </main>
   </body>
 </html>
