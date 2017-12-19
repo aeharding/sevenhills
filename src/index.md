@@ -19,11 +19,11 @@ layout: index.html
   </div>
 </div>
 
-### 2017 Head to the Hills Boogie
+### 2018 Head to the Hills Boogie
 
-Seven Hills Skydivers of Madison, WI is excited to once again host the Head to the Hills Boogie in 2017! Whether it is your first skydive or your thousandth, join us for a weekend of skydiving and fun.
+Seven Hills Skydivers of Madison, WI is excited to once again host the Head to the Hills Boogie in 2018! Whether it is your first skydive or your thousandth, join us for a weekend of skydiving and fun.
 
-[Click here to learn more about this exciting event!](posts/head-to-the-hills-2017)
+[Click here to learn more about this exciting event!](posts/head-to-the-hills-2018)
 
 ### New jumper?
 
