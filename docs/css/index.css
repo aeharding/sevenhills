@@ -1,0 +1,319 @@
+@charset "UTF-8";
+.no-scroll,
+.no-scroll body {
+  height: 100%;
+  min-height: 500px;
+  overflow: hidden;
+}
+
+body {
+  font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
+  font-size: 100%;
+  line-height: 1.5;
+  margin: 0;
+}
+
+header {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+main {
+  display: block;
+}
+
+header {
+  overflow: auto;
+}
+
+.header-wrapper {
+  color: white;
+  background: #00d2ff;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #00d2ff, #3a7bd5);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #00d2ff, #3a7bd5);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.header-wrapper--video {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.header-wrapper--video video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  overflow: hidden;
+}
+
+.header-wrapper--video header {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  max-width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.header__lets-play {
+  position: absolute;
+  width: 75%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.header__lets-play div {
+  font-size: 3em;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.1em;
+}
+
+.header__lets-play a {
+  display: inline-block;
+  margin: 0.5em auto 0;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  background-color: #00d2ff;
+  border-radius: 0.75em;
+  border: 0;
+  color: white;
+  padding: 1.2em 1.8em;
+  font-size: 1.2em;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  transform: scale(1);
+  transition: all 250ms ease;
+}
+
+.header__lets-play a:hover {
+  text-decoration: none;
+  transform: scale(1.1);
+  background-color: #00a8cc;
+}
+
+h1 {
+  font-size: 2.747em;
+}
+
+h2 {
+  font-size: 1.874em;
+}
+
+h3 {
+  font-size: 1.229em;
+}
+
+a {
+  color: #84B1ED;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  text-decoration: underline;
+}
+
+.full-width {
+  width: 100%;
+}
+
+section {
+  margin: auto;
+  max-width: 34em;
+  padding: 0 1em;
+}
+
+@media screen and (max-width: 25em) {
+  body {
+    font-size: 90%;
+  }
+}
+
+.choose-text {
+  text-align: center;
+  font-size: 1.5em;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+.tandem-video {
+  width: 100%;
+}
+
+.note {
+  margin: 0.5em;
+  padding: 0.5em;
+  border: 1px solid #84B1ED;
+}
+
+.accordion > dt > a {
+  text-decoration: none;
+}
+
+.accordion > dt > a:after {
+  content: ' »';
+}
+
+.accordion > dt > a:hover {
+  text-decoration: underline;
+}
+
+.accordion dt,
+.accordion dd {
+  border: 0;
+  margin: 0;
+  overflow: auto;
+}
+
+.accordion dt {
+  margin-top: .25em;
+}
+
+.navigation {
+  text-align: center;
+  font-family: sans-serif;
+  padding-bottom: 1em;
+}
+
+.navigation a {
+  text-transform: uppercase;
+  text-decoration: none;
+  display: inline-block;
+  line-height: 1.5;
+  margin: 0 1em;
+  color: rgba(255, 255, 255, 0.75);
+  position: relative;
+  width: 8em;
+  padding-bottom: 6px;
+}
+
+.navigation a.active {
+  color: white;
+}
+
+.navigation a.active:after {
+  background-color: white;
+}
+
+.navigation a:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0 auto;
+  width: 0;
+  height: 3px;
+  background-color: rgba(255, 255, 255, 0.75);
+  transition: all 200ms ease;
+}
+
+.navigation a:hover:after, .navigation a:active:after, .navigation a.active:after, .navigation a:focus:after {
+  width: 100%;
+}
+
+.navigation__call {
+  font-size: 3em;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 100;
+  color: #d5473a;
+  line-height: 2;
+}
+
+.title {
+  margin: 1em 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.title h1 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.1em;
+  margin: 0;
+  line-height: 1;
+  font-size: 3em;
+}
+
+.title h1 a {
+  color: white;
+  text-decoration: none;
+}
+
+.title aside {
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 0.9em;
+  letter-spacing: 0.1em;
+}
+
+.skydive-selector {
+  display: flex;
+}
+
+.skydive-selector__option div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 4em;
+  font-family: sans-serif;
+  font-weight: 100;
+  position: relative;
+}
+
+.skydive-selector__option a {
+  text-decoration: none;
+}
+
+.skydive-selector__option aside {
+  text-align: center;
+  font-size: 1.3em;
+}
+
+.skydive-selector__option span {
+  z-index: 2;
+}
+
+.skydive-selector__option div:before {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.3);
+  content: '';
+}
+
+.skydive-selector__option {
+  flex: 1;
+  margin: 1em;
+}
+
+.skydive-selector__option--tandem div {
+  background: url(../img/tandem.jpg);
+  background-size: cover;
+  height: 250px;
+}
+
+.skydive-selector__option--solo div {
+  background: url(../img/iad.jpg);
+  background-size: cover;
+  height: 250px;
+}
