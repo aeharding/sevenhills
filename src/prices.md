@@ -1,6 +1,6 @@
 ---
 pageTitle: Prices
-date: 2012-08-20
+date: 2017-12-31
 layout: page.html
 nav:
   prices: true
@@ -10,7 +10,7 @@ nav:
 
 *The first jump*
 
- * **<del>$150</del>** **ONLY $125 UNTIL END OF 2017!** - Training and first jump
+ * **$150** - Training and first jump
    * +**$30** video of exit *(optional)*
 
 *Following jumps*
@@ -24,7 +24,7 @@ nav:
 
 ### Tandem pricing
 
- * **<del>$215</del>** **ONLY $200 UNTIL END OF 2017!** - Training and jump
+ * **$215** - Training and jump
    * +**$75** Freefall video *(optional)*
    * +**$95** Freefall video by outside skydiver *(optional)*
    * +**$150** Premium video: freefall video from two separate cameras *(optional)*
