@@ -22,12 +22,14 @@ The SIM is available online in PDF format [here](https://uspa.org/SIM).
 
 ## Category jump videos
 
-Here are the official USPA jump videos for students. Category E and higher are the most relevant to Seven Hills.
+Here are the official USPA jump videos for students. Category F and higher are the most relevant to Seven Hills. (Below category F are for AFF students, not IAD.)
 
- * Category E
- * Category F
- * Category G
- * Category H
+ * [Category F](https://www.youtube.com/watch?v=GZjl3ObXFno)
+ * [Category G - Jump #1](https://www.youtube.com/watch?v=yGf7Z8Ksdec)
+ * [Category G - Jump #2](https://www.youtube.com/watch?v=Xte0_BqxpVM)
+ * [Category G - Jump #3](https://www.youtube.com/watch?v=jRMiTW6FFGk)
+ * [Category H](https://www.youtube.com/watch?v=PqjiqXfOvPQ)
+ * [Check Dive](https://www.youtube.com/watch?v=ERBpBwOrCOY)
 
 ## Facebook Group
 

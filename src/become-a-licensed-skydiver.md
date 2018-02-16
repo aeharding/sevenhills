@@ -23,10 +23,6 @@ We follow the [IAD student progression](../instructor-aided-deployment) for trai
  * __All the way up!__ You will conduct the rest of your jumps from __10,000 feet__ - a __45 second freefall__! You will work on freefall maneuvers until you demonstrate that you can move around safely in freefall.
  * __Check Dive!__ After you complete at least __25__ skydives demonstrating many different freefall and parachute maneuvers an instructor will take you up on your final dive as a student. Perform a timed sequence of flips, barrel rolls, docking, and tracking and earn your A-License!
 
-## The skills
-
-By the time you get your license, you will be able to:
-
 ## Take your first jump
 
 It seems like a lot - but don't worry! We will walk you through each jump, starting at #1, at your own pace. If you're interested in becoming a licensed skydiver and are interested in your first solo skydive, check out the first jump page [here](../instructor-aided-deployment). You can also call us with any questions at (608) 244 - 5252.
