@@ -36,8 +36,8 @@
           <h1><a href="../../">Seven Hills Skydivers</a></h1>
           <aside>Since 1962 | Madison, WI</aside>
         </div>
-        <div class="navigation">
-          <a href="../../welcome"
+        <!-- <div class="navigation">
+          <a href="../../about-us"
              class="">About us</a>
           <a href="../../instructor-aided-deployment"
              class="">Solo Skydive</a>
@@ -47,7 +47,60 @@
              class="">Prices</a>
           <a href="../../contact"
              class="">Contact us</a>
-        </div>      </header>
+        </div> -->
+        
+        <ul id="bar">
+          <li class="menu menu-hover">
+            <a href="../../about-us" class="button">About us</a>
+            <ul class="submenu">
+              <li><a href="../../about-us">Why jump with us?</a></li>
+              <li><a href="../../who-we-are">Who we are</a></li>
+              <li><a href="../../events">Upcoming events</a></li>
+              <li><a href="../../photos-and-videos">Photos/Videos</a></li>
+              <!-- <li><a href="../../our-history">Our history</a></li> -->
+              <li><a href="../../contact">Contact us</a></li>
+              <li><a href="../../our-facilities">Facilities</a></li>
+              <li><a href="../../members-area">Members area</a></li>
+            </ul>
+          </li>
+          <li class="menu menu-hover">
+            <a href="../../tandem-vs-solo" class="button">Learn to Skydive</a>
+            <ul class="submenu">
+              <li><a href="../../tandem">Tandem Skydive</a></li>
+              <li><a href="../../instructor-aided-deployment">Solo Skydive</a></li>
+              <li><a href="../../become-a-licensed-skydiver">Become a licensed Skydiver</a></li>
+              <li><a href="../../student-resources">Resources for students</a></li>
+              <li><a href="../../frequently-asked-questions">FAQs</a></li>
+              <li><a href="../../skydiving-history">Skydiving History</a></li>
+            </ul>
+          </li>
+          <li class="menu menu-hover">
+            <a href="../../prices" class="button">Pricing</a>
+            <ul class="submenu">
+              <li><a href="../../prices">Pricing</a></li>
+              <li><a href="../../specials">Current Specials</a></li>
+              <li><a href="../../packages">Skydiving Packages</a></li>
+            </ul>
+          </li>
+          <li class="menu menu-hover"><a href="../../book-now" class="button">Book Now</a></li>
+          <li class="menu menu-hover"><a href="../../experienced" class="button">Experienced</a></li>
+          <li class="menu menu-hover"><a href="https://blog.sevenhillsskydivers.org" class="button">Blog</a></li>
+        </ul>
+        
+        <script>
+        $('html').removeClass('no-js');
+        
+        $('.menu-click a').on('click', function () {
+          
+          var el = $(this);
+          
+          // Show submenu
+          el.parent().toggleClass('menu-active');
+          
+          // Hide other submenus
+          el.parent().siblings('.menu-click.menu-active').removeClass('menu-active');
+        });
+        </script>      </header>
     </div>
 
     <!-- <h1>Head to the Hills 2018</h1> -->

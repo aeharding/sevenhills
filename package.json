@@ -10,7 +10,7 @@
     "metalsmith-sass": "^1.3.0"
   },
   "scripts": {
-    "build": "rm -rf docs && metalsmith . && mv build docs && npm run create-cname",
+    "build": "metalsmith . && rm -rf docs && mv build docs && npm run create-cname",
     "create-cname": "echo 'sevenhillsskydivers.org' > docs/CNAME"
   }
 }

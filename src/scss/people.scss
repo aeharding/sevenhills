@@ -1,0 +1,50 @@
+.people {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+// https://gist.github.com/jamiewilson/aa98a81e0d0955fbf068
+$s-min: 80;
+$s-max: 100;
+$l-min: 10;
+$l-max: 60;
+
+
+.people__item {
+  display: flex;
+  flex-direction: column;
+
+  margin: 0;
+  padding: 0;
+
+  text-align: center;
+
+  margin-bottom: 25px;
+
+  &:not(:last-child) {
+    margin-right: 25px;
+  }
+
+  img {
+    width: 150px;
+    height: 150px;
+
+    border-radius: 150px;
+
+    object-fit: cover;
+    border: 5px solid;
+  }
+
+  @for $i from 1 through 40 {
+    &:nth-child(#{$i}) {
+      $color: hsl(random(360), $s-min+random($s-max+-$s-min),$l-min+random($l-max+-$l-min));
+  
+      color: $color;
+
+      img {
+        box-shadow: 0 0 30px rgba($color, 0.2);
+      }
+    }
+  }
+}

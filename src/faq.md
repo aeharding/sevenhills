@@ -4,6 +4,8 @@ date: 2012-09-28
 layout: page.html
 ---
 
+## Frequently asked questions
+
 <dl class="accordion">
 
 <dt><a href="">Who makes the rules that you follow?</a></dt>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ title }}</title>
+    <title>{{ pageTitle }} - {{ title }}</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="index, follow">
@@ -26,13 +26,19 @@
     <!-- <h1>{{ pageTitle }}</h1> -->
 
     <main>
+      {{#unless disableCall}}
+      {{#unless disableTopCall}}
       <div class="navigation__call">
         Questions? Give us a call (608) 244-5252
       </div>
+      {{/unless}}
+      {{/unless}}
       <div>{{{ contents }}}</div>
+      {{#unless disableCall}}
       <div class="navigation__call">
         Questions? Give us a call (608) 244-5252
       </div>
+      {{/unless}}
     </main>
   </body>
 </html>

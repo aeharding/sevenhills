@@ -8,24 +8,28 @@ nav:
 
 <img src="../img/iad.jpg" alt="IAD example" class="full-width">
 
-Instructor Assisted Deployment (IAD) is a training method that opens your parachute almost immediately upon leaving the aircraft (about 3-4 seconds of freefall). You are never attached to the plane (like static-line) and the deployment sequence is identical to the way experienced skydivers open their own parachutes. This thrilling, solo, 'do it by yourself' method is also a way to train to become a licensed skydiver. Well over half of our students choose the IAD jump, even if they want to only jump once.
+__Instructor Assisted Deployment__ (IAD) is a training method that opens your parachute almost immediately upon leaving the aircraft _(about 3-4 seconds of freefall)_. You are never attached to the plane _(like static-line)_ and the deployment sequence is identical to the way experienced skydivers open their own parachutes. This thrilling, solo, 'do it by yourself' method is also a way to train to [become a licensed skydiver](../become-a-licensed-skydiver). Well over half of our students choose the IAD jump, __even if they want to only jump once__.
 
-Classes are held on various Saturdays (reservations required), late-April through early-October. The class starts at 8 a.m., rain or shine. You'll be jumping in the afternoon (from 4000 feet!), weather permitting, so plan on spending the whole day. Radio contact assists you in landing your parachute safely (about 4-6 minute canopy ride). A HD digital color video of your exit is available for purchase so that you can remember your jump for years to come. Train and jump on the same day.
+Classes are held on various Saturdays (reservations required), __late-April__ through __early-October__. The class starts at __8 a.m.__, __rain or shine__. You'll be jumping in the afternoon _(from 4000 feet!)_, weather permitting, so __plan on spending the whole day__. Radio contact assists you in landing your parachute safely _(about 4-6 minute canopy ride)_. GoPro video footage of your exit is available for purchase so that you can remember your jump for years to come. Train and jump on the same day.
 
 ### Requirements
 
-  * 18 or over
-  * Want to have fun
+  * At least __18__ years old
+  * __Want to have fun__
   * Be in good health
-  * IAD limits are 220 pounds.
-  * Please refrain from alcohol for at least 12 hours before the course.
-  * Wear comfortable clothing and sneakers.
-  * You must bring a valid government issued ID (Drivers License, State ID, passport).
-  * A non-refundable $100 deposit is required to reserve your spot in a class or an appointment.
+  * IAD limits are __220 pounds__.
+  * Please __refrain from alcohol__ for at least 12 hours before the course.
+  * Wear __comfortable clothing and sneakers__.
+  * You must bring a __valid government issued ID__ (Drivers License, State ID, passport).
+  * A non-refundable __$100 deposit__ is required to reserve your spot in a class or an appointment.
 
 ### Pricing
 
-See [our current prices](../prices#iad-pricing).
+Solo skydives start at $150 for your first jump and training. You can purchase video of your skydive exit for an additional $30.
+
+We also offer gift certificates!
+
+For more information, please see [our current prices](../prices#iad-pricing).
 
 ### FAQ
 

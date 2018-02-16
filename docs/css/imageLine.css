@@ -1,0 +1,15 @@
+.image-line {
+  display: flex;
+}
+
+.image-line img {
+  width: 100%;
+}
+
+.image-line > * {
+  min-width: 0;
+}
+
+.image-line > *:not(:last-child) {
+  margin-right: 1em;
+}
