@@ -22,6 +22,8 @@ Looking for a unique gift?  If you're still wondering what to get a loved one, s
  * **$75** subsequent low jumps
  * **$100** subsequent high jumps
 
+We also offer [jump packages](../packages) for solo students.
+
 <div class="note"><strong>Savings!</strong> If a student purchases their 2nd jump ticket on the day that they make their 1st jump, that student will receive $10 off their 2nd solo student jump ticket. 
 <br><small>Offer only good on the day their 1st solo jump is made and only for the 2nd solo jump ticket. Mention this ad when purchasing your ticket.</small>
 </div>

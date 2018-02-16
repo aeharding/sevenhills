@@ -15,12 +15,12 @@ __To book, call us at (608) 244 - 5252.__
 
 ## Weather Policy
 
-Don't worry too much about the forecast 24+ hours from your jump appointment. Weather in Wisconsin changes quickly and forecasts are often incorrect.
+Don't worry too much about the forecast 24+ hours from your jump appointment. __Weather in Wisconsin changes quickly__ and forecasts are often incorrect.
 
-If you wake up the day of your jump and think the weather may not be right, give us a call before you drive out.  Weather differs greatly even within a distance of 30 miles, so although it may be bad weather where you are, we may have perfect weather.  Do not expect to jump if it's raining, snowing, extremely windy or if there are very low clouds.  We can discuss delaying your jump for later that day, or rescheduling for a different date.
+If you wake up the day of your jump and think the weather may not be right, __give us a call before you drive out__.  Weather differs greatly even within a distance of 30 miles, so although it may be bad weather where you are, we may have perfect weather.  Do not expect to jump if it's raining, snowing, extremely windy or if there are very low clouds.  We can discuss delaying your jump for later that day, or rescheduling for a different date.
 
-If we reschedule, you will not lose your deposit.  It will be transferred to the next available date of your choice.
+If we reschedule, you will __not__ lose your deposit.  It will be transferred to the next available date of your choice.
 
 ## Weight Limit
 
-Please note that our weight limit for Tandem skydives is 225 pounds, and for our solo skydive is 220 pounds.
+Please note that our weight limit for Tandem skydives is __225 pounds__, and for our solo skydive is __220 pounds__.

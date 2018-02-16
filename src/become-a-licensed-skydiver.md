@@ -6,7 +6,7 @@ layout: page.html
 
 ## Become a licensed skydiver
 
-Making your first skydive is a life-changing experience. Chances are, if you're here, then you're asking yourself _"But what now?!"_ Well, Seven Hills has you covered! We offer a __comprehensive__, __affordable__ student program to get you all the way to your A-License. An A-License will grant you the freedom to jump _anywhere in the world_!
+Making your first skydive is a life-changing experience. Chances are, if you're here, then you're asking yourself _"But what now?!"_ Well, Seven Hills has you covered! We offer a __comprehensive__, __affordable__ student program to get you all the way to your A-License. An A-License will grant you the freedom to jump _anywhere in the world!_
 
 ## The IAD Student Program
 

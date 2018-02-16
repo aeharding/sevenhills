@@ -22,4 +22,17 @@ Just as well, many of our instructors started as students here. It's up to you h
 
 _There is absolutely nothing like the feeling you get when you make your first skydive!_ Skydiving at 7 Hills in Madison, Wisconsin is more than jumping out of an airplane. _It's stepping out into a different world_, a world of human flight, where you can actually __FLY__! Cars and houses disappear and plots of land make a giant checkerboard on the earth below looking like part of a vast oil painting. Try it once and you will never be the same! Whenever you look skyward, you'll want to be up there. Come jump with the skydivers that do it for the love of the sport! __Go for it!__ We look forward to seeing you at Seven Hills - blue skies! 😁
 
+## Testimonials
+
+ * _Absolutely loved the experience and was happier than ever that my mother and I went to Seven Hills to skydive for the first time. The workers there were very understanding and explained everything in great detail. I would highly recommend going there to skydive. Also want to give a shoutout to Bad Andy for making my experience great! Thank you so much Seven Hills!_ __- Tiff Whitt__
+ * _My first skydiving experience was incredible! I am so filled with gratitude and bliss after this amazing experience! Everyone I encountered at Seven Hills were friendly, encouraging, and professional. The perfect balance of light-hearted and serious to help you feel at ease. 
+My tandem instructor, Dewey, explained things so thoroughly, going over the procedures until he sensed I was comfortable and showed me all of the amazing safety features on the parachute. He was informative, professional, and the perfect balance of confidence. I had total trust in the experience! 
+I would recommend Seven Hills Skydivers without reservation to anyone!_ __- Fearn Rebecca__
+ * _I can't say enough about the Seven Hills crew. I've been to their Head to the Hills event for a few years now and am never disappointed. This year they hosted a special event for veterans and I was grateful to be able to witness the tandem jumpers reactions. 
+This is an amazing place for your first jump, or just to spectate. It's a family atmosphere and they will treat you like family.
+And after you make that first jump...you ARE family!!_ __- Missy School-Keough__
+ * _Something I've always wanted to do and it was a great experience at Seven Hills! Everything was explained very thoroughly, so I knew what to expect every step of the way. Beautiful view! Everyone was very friendly and fun to be around! This is definitely the place to go!_ __- Donna Bucalo Cox__
+ * _Extremely happy we chose Seven Hills for our first skydive! Couldn't have found a better group of guys to work with! They were professional, fun, and made sure that we felt both safe and comfortable the entire time. Definitely, a five star experience from start to end!_ __- Amanda Lillie__
+
+<br>
 <img src="../img/boogie.jpg" alt="2012 Boogie" class="full-width">
