@@ -1,6 +1,6 @@
 ---
 pageTitle: About us
-date: 2012-09-28
+date: 2018-02-16
 layout: page.html
 nav:
   about: true

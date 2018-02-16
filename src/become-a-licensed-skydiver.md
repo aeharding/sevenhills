@@ -10,7 +10,7 @@ Making your first skydive is a life-changing experience. Chances are, if you're 
 
 ## The IAD Student Program
 
-We follow the [IAD student progression](../instructor-aided-deployment) for training students at Seven Hills (at Seven Hills, it's also called the ["solo" progression](../instructor-aided-deployment)). This is an "ease you into it" type of progression, meaning you start at lower altitudes while you practice deploying your parachute. Once you demonstrate that you can deploy your own parachute safely, then we work our way up to __10,000 feet__ where you will learn freefall maneuvers like __turns__, __flips__, __barrel-rolls__, and __formation skydiving__.
+We follow the [IAD student progression](../instructor-aided-deployment) for training students (at Seven Hills, it's also called the ["solo" progression](../instructor-aided-deployment)). This is an "ease you into it" type of progression, meaning you start at lower altitudes while you practice deploying your parachute. Once you demonstrate that you can deploy your own parachute safely, then we work our way up to __10,000 feet__ where you will learn freefall maneuvers like __turns__, __flips__, __barrel-rolls__, and __formation skydiving__.
 
 ## The Jumps
 
@@ -19,7 +19,7 @@ We follow the [IAD student progression](../instructor-aided-deployment) for trai
  * __One clear and pull__ - deploy your parachute yourself without any instructor help!
  * __2 10 second freefalls__ - experience your first extended freefall as you work on maintaining a heading in freefall and demonstrate a safe deployment
  * __2 15 second freefalls__ - from here on out you will jump with a coach next to you in freefall while you work on turns and other freefall maneuvers
- * __2 30 second freefalls__ - continue freefall amneuvers
+ * __2 30 second freefalls__ - continue freefall maneuvers
  * __All the way up!__ You will conduct the rest of your jumps from __10,000 feet__ - a __45 second freefall__! You will work on freefall maneuvers until you demonstrate that you can move around safely in freefall.
  * __Check Dive!__ After you complete at least __25__ skydives demonstrating many different freefall and parachute maneuvers an instructor will take you up on your final dive as a student. Perform a timed sequence of flips, barrel rolls, docking, and tracking and earn your A-License!
 

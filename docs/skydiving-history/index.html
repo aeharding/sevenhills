@@ -36,9 +36,14 @@
     <div class="header-wrapper">
       <header>      
         <div class="title">
-          <h1><a href="../">Seven Hills Skydivers</a></h1>
-          <aside>Since 1962 | Madison, WI</aside>
+          <div>
+            <h1><a href="../">Seven Hills Skydivers</a></h1>
+            <aside>Since 1962 | Madison, WI</aside>
+          </div>
+        
+          <i class="fa fa-bars open-menu"></i>
         </div>
+
         <!-- <div class="navigation">
           <a href="../about-us"
              class="">About us</a>
@@ -54,37 +59,39 @@
         
         <ul id="bar">
           <li class="menu menu-hover">
-            <a href="../about-us" class="button">About us</a>
+            <a href="#" class="button">About us <i class="fa fa-caret-down" aria-hidden="true"></i></a>
             <ul class="submenu">
               <li><a href="../about-us">Why jump with us?</a></li>
+              <li><a href="../contact">Contact us</a></li>
+              <li><a href="../location">Location</a></li>
               <li><a href="../who-we-are">Who we are</a></li>
               <li><a href="../events">Upcoming events</a></li>
               <li><a href="../photos-and-videos">Photos/Videos</a></li>
               <!-- <li><a href="../our-history">Our history</a></li> -->
-              <li><a href="../contact">Contact us</a></li>
               <li><a href="../our-facilities">Facilities</a></li>
-              <li><a href="../members-area">Members area</a></li>
             </ul>
           </li>
           <li class="menu menu-hover">
-            <a href="../tandem-or-solo" class="button">Learn to Skydive</a>
+            <a href="#" class="button">Learn to Skydive <i class="fa fa-caret-down" aria-hidden="true"></i>
+        </a>
             <ul class="submenu">
-              <li><a href="../tandem">Tandem Skydive</a></li>
-              <li><a href="../instructor-aided-deployment">Solo Skydive</a></li>
-              <li><a href="../become-a-licensed-skydiver">Become a licensed Skydiver</a></li>
+              <li><a href="../tandem">Tandem skydive</a></li>
+              <li><a href="../instructor-aided-deployment">Solo skydive</a></li>
+              <li><a href="../become-a-licensed-skydiver">Become a licensed skydiver</a></li>
               <li><a href="../student-resources">Resources for students</a></li>
               <li><a href="../frequently-asked-questions">FAQs</a></li>
-              <li><a href="../skydiving-history">Skydiving History</a></li>
-              <li><a href="../skydiving-terms">Skydiving Terms</a></li>
+              <li><a href="../skydiving-history">Skydiving history</a></li>
+              <li><a href="../skydiving-terms">Skydiving terms</a></li>
             </ul>
           </li>
           <li class="menu menu-hover"><a href="../experienced" class="button">Experienced</a></li>
           <li class="menu menu-hover">
-            <a href="../prices" class="button">Pricing</a>
+            <a href="#" class="button">Pricing <i class="fa fa-caret-down" aria-hidden="true"></i>
+        </a>
             <ul class="submenu">
               <li><a href="../prices">Pricing</a></li>
-              <li><a href="../specials">Current Specials</a></li>
-              <li><a href="../packages">Skydiving Packages</a></li>
+              <li><a href="../specials">Current specials</a></li>
+              <li><a href="../packages">Solo skydive packages</a></li>
             </ul>
           </li>
           <li class="menu menu-hover"><a href="../book-now" class="button">Book Now</a></li>
@@ -93,17 +100,29 @@
         <script>
         $('html').removeClass('no-js');
         
-        $('.menu-click a').on('click', function () {
-          
+        $('.open-menu').on('click', function (e) {
+          $('#bar').toggleClass('bar-active');
+        });
+        
+        $('.menu-hover > a').on('click', function (e) {
           var el = $(this);
-          
-          // Show submenu
-          el.parent().toggleClass('menu-active');
+        
+          if ($(window).width() <= 720) {
+        
+            // Show submenu
+            el.parent().toggleClass('menu-active');
+          }
+        
+          if (el.attr('href') === '#') {
+            e.preventDefault();
+          }
+        
           
           // Hide other submenus
-          el.parent().siblings('.menu-click.menu-active').removeClass('menu-active');
+          // el.parent().siblings('.menu-hover.menu-active').removeClass('menu-active');
         });
-        </script>      </header>
+        </script>
+      </header>
     </div>
 
     <!-- <h1>Skydiving History</h1> -->
@@ -112,7 +131,7 @@
       <div class="navigation__call">
         Questions? Give us a call (608) 244-5252
       </div>
-      <div><h2 id="a-history-of-skydiving">A history of skydiving</h2>
+      <div><h2 id="a-brief-history-of-skydiving">A brief history of skydiving</h2>
 <p>Parachuting or skydiving has an interesting history that can take up a whole volume, but this article will attempt to give a brief synopsis of that history. Most people consider skydiving a product of the twentieth century, but its history actually goes way further back than that.
 A parachute is a device used to slow the motion of an object through an atmosphere by creating drag. Parachutes are normally used to slow the descent of a person or object to Earth or another <a href="https://en.wikipedia.org/wiki/Celestial_body">celestial body</a> within an <a href="https://en.wikipedia.org/wiki/Celestial_body_atmosphere">atmosphere</a>. <a href="https://en.wikipedia.org/wiki/Drogue_parachute">Drogue parachutes</a> are also sometimes used to aid horizontal deceleration of a vehicle (a <a href="https://en.wikipedia.org/wiki/Fixed-wing_aircraft">fixed-wing aircraft</a>, or a <a href="https://en.wikipedia.org/wiki/Drag_racing">drag racer</a>), or to provide stability (tandem free-fall, or <a href="https://en.wikipedia.org/wiki/Space_shuttle">space shuttle</a> after touchdown). The word &quot;parachute&quot; comes from a French word with a Latin root: &quot;para&quot;, meaning &quot;against&quot; or &quot;counter&quot; in Latin, and &quot;chute&quot;, the French word for &quot;fall&quot;. Therefore &quot;parachute&quot; actually means &quot;against the fall&quot;. Many modern parachutes are classified as semi-rigid wings, which are quite maneuverable, and can facilitate a controlled descent similar to that of a glider. But older style parachutes were little more than cloth and sticks. The design has changed considerably over the years from roughly cut shapes to aerodynamic ram parachutes. Parachutes were once made from silk but now they are almost always constructed from more durable woven nylon fabric, sometimes coated with silicone to improve performance and consistency over time.</p>
 <p>When square (also called ram-air) parachutes were introduced, manufacturers switched to low-stretch materials like <a href="https://en.wikipedia.org/wiki/Dacron">Dacron</a> or zero-stretch materials like <a href="https://en.wikipedia.org/wiki/Ultra-high-molecular-weight_polyethylene#Fiber">Spectra</a>, <a href="https://en.wikipedia.org/wiki/Kevlar">Kevlar</a>, <a href="https://en.wikipedia.org/wiki/Vectran">Vectran</a> and high-modulus <a href="https://en.wikipedia.org/wiki/Aramid">aramids</a>.</p>

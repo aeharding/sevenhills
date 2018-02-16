@@ -13,37 +13,39 @@
 
 <ul id="bar">
   <li class="menu menu-hover">
-    <a href="{{rel}}about-us" class="button">About us</a>
+    <a href="#" class="button">About us <i class="fa fa-caret-down" aria-hidden="true"></i></a>
     <ul class="submenu">
       <li><a href="{{rel}}about-us">Why jump with us?</a></li>
+      <li><a href="{{rel}}contact">Contact us</a></li>
+      <li><a href="{{rel}}location">Location</a></li>
       <li><a href="{{rel}}who-we-are">Who we are</a></li>
       <li><a href="{{rel}}events">Upcoming events</a></li>
       <li><a href="{{rel}}photos-and-videos">Photos/Videos</a></li>
       <!-- <li><a href="{{rel}}our-history">Our history</a></li> -->
-      <li><a href="{{rel}}contact">Contact us</a></li>
       <li><a href="{{rel}}our-facilities">Facilities</a></li>
-      <li><a href="{{rel}}members-area">Members area</a></li>
     </ul>
   </li>
   <li class="menu menu-hover">
-    <a href="{{rel}}tandem-or-solo" class="button">Learn to Skydive</a>
+    <a href="#" class="button">Learn to Skydive <i class="fa fa-caret-down" aria-hidden="true"></i>
+</a>
     <ul class="submenu">
-      <li><a href="{{rel}}tandem">Tandem Skydive</a></li>
-      <li><a href="{{rel}}instructor-aided-deployment">Solo Skydive</a></li>
-      <li><a href="{{rel}}become-a-licensed-skydiver">Become a licensed Skydiver</a></li>
+      <li><a href="{{rel}}tandem">Tandem skydive</a></li>
+      <li><a href="{{rel}}instructor-aided-deployment">Solo skydive</a></li>
+      <li><a href="{{rel}}become-a-licensed-skydiver">Become a licensed skydiver</a></li>
       <li><a href="{{rel}}student-resources">Resources for students</a></li>
       <li><a href="{{rel}}frequently-asked-questions">FAQs</a></li>
-      <li><a href="{{rel}}skydiving-history">Skydiving History</a></li>
-      <li><a href="{{rel}}skydiving-terms">Skydiving Terms</a></li>
+      <li><a href="{{rel}}skydiving-history">Skydiving history</a></li>
+      <li><a href="{{rel}}skydiving-terms">Skydiving terms</a></li>
     </ul>
   </li>
   <li class="menu menu-hover"><a href="{{rel}}experienced" class="button">Experienced</a></li>
   <li class="menu menu-hover">
-    <a href="{{rel}}prices" class="button">Pricing</a>
+    <a href="#" class="button">Pricing <i class="fa fa-caret-down" aria-hidden="true"></i>
+</a>
     <ul class="submenu">
       <li><a href="{{rel}}prices">Pricing</a></li>
-      <li><a href="{{rel}}specials">Current Specials</a></li>
-      <li><a href="{{rel}}packages">Skydiving Packages</a></li>
+      <li><a href="{{rel}}specials">Current specials</a></li>
+      <li><a href="{{rel}}packages">Solo skydive packages</a></li>
     </ul>
   </li>
   <li class="menu menu-hover"><a href="{{rel}}book-now" class="button">Book Now</a></li>
@@ -52,14 +54,25 @@
 <script>
 $('html').removeClass('no-js');
 
-$('.menu-click a').on('click', function () {
-  
+$('.open-menu').on('click', function (e) {
+  $('#bar').toggleClass('bar-active');
+});
+
+$('.menu-hover > a').on('click', function (e) {
   var el = $(this);
-  
-  // Show submenu
-  el.parent().toggleClass('menu-active');
+
+  if ($(window).width() <= 720) {
+
+    // Show submenu
+    el.parent().toggleClass('menu-active');
+  }
+
+  if (el.attr('href') === '#') {
+    e.preventDefault();
+  }
+
   
   // Hide other submenus
-  el.parent().siblings('.menu-click.menu-active').removeClass('menu-active');
+  // el.parent().siblings('.menu-hover.menu-active').removeClass('menu-active');
 });
 </script>

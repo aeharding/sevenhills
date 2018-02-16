@@ -5,7 +5,7 @@ layout: page.html
 disableCall: true
 ---
 
-## Resources for current IAD students
+## Resources for current IAD students 📚
 
 Below are some useful resources for students working to obtain their A-license.
 
@@ -13,7 +13,7 @@ Below are some useful resources for students working to obtain their A-license.
 
 The SIM is available online in PDF format [here](https://uspa.org/SIM).
 
-## Current weather information
+## Current weather information 🌤
 
  * [Winds Aloft by Mark Schulze](https://www.markschulze.net/winds/) - Shows winds aloft at various altitudes AGL
  * [Weather Underground](https://www.wunderground.com/weather/us/wi/marshall/53559)

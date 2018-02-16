@@ -13,6 +13,10 @@
           "match": { "collection": "posts" },
           "pattern": "posts/:date/:title",
           "date": "mmddyy"
+      }, {
+          "match": { "collection": "city" },
+          "pattern": "city/:title",
+          "date": "mmddyy"
       }]
     },
     "metalsmith-layouts": {

@@ -31,4 +31,4 @@ We offer two training methods, and one is not necessarily better than the other.
 
 The **Tandem** method is popular today, but if you’re interested in 'doing by yourself' or pursuing your skydiving license you will need to take our **Instructor Assisted Deployment** (IAD) first jump course. The decision is like, do you want to take a ride in a car or drive it. Read through the [Tandem](../tandem) and [IAD](../instructor-aided-deployment) pages for a detailed description of the two training options.
 
-<img src="img/bob-thumbs-up.jpg" alt="Bob thumbs up" class="full-width">
+<img src="img/head-to-hills.jpg" alt="Bob thumbs up" class="full-width">

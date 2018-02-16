@@ -36,9 +36,14 @@
     <div class="header-wrapper">
       <header>
         <div class="title">
-          <h1><a href="../../">Seven Hills Skydivers</a></h1>
-          <aside>Since 1962 | Madison, WI</aside>
+          <div>
+            <h1><a href="../../">Seven Hills Skydivers</a></h1>
+            <aside>Since 1962 | Madison, WI</aside>
+          </div>
+        
+          <i class="fa fa-bars open-menu"></i>
         </div>
+
         <!-- <div class="navigation">
           <a href="../../about-us"
              class="">About us</a>
@@ -54,37 +59,39 @@
         
         <ul id="bar">
           <li class="menu menu-hover">
-            <a href="../../about-us" class="button">About us</a>
+            <a href="#" class="button">About us <i class="fa fa-caret-down" aria-hidden="true"></i></a>
             <ul class="submenu">
               <li><a href="../../about-us">Why jump with us?</a></li>
+              <li><a href="../../contact">Contact us</a></li>
+              <li><a href="../../location">Location</a></li>
               <li><a href="../../who-we-are">Who we are</a></li>
               <li><a href="../../events">Upcoming events</a></li>
               <li><a href="../../photos-and-videos">Photos/Videos</a></li>
               <!-- <li><a href="../../our-history">Our history</a></li> -->
-              <li><a href="../../contact">Contact us</a></li>
               <li><a href="../../our-facilities">Facilities</a></li>
-              <li><a href="../../members-area">Members area</a></li>
             </ul>
           </li>
           <li class="menu menu-hover">
-            <a href="../../tandem-or-solo" class="button">Learn to Skydive</a>
+            <a href="#" class="button">Learn to Skydive <i class="fa fa-caret-down" aria-hidden="true"></i>
+        </a>
             <ul class="submenu">
-              <li><a href="../../tandem">Tandem Skydive</a></li>
-              <li><a href="../../instructor-aided-deployment">Solo Skydive</a></li>
-              <li><a href="../../become-a-licensed-skydiver">Become a licensed Skydiver</a></li>
+              <li><a href="../../tandem">Tandem skydive</a></li>
+              <li><a href="../../instructor-aided-deployment">Solo skydive</a></li>
+              <li><a href="../../become-a-licensed-skydiver">Become a licensed skydiver</a></li>
               <li><a href="../../student-resources">Resources for students</a></li>
               <li><a href="../../frequently-asked-questions">FAQs</a></li>
-              <li><a href="../../skydiving-history">Skydiving History</a></li>
-              <li><a href="../../skydiving-terms">Skydiving Terms</a></li>
+              <li><a href="../../skydiving-history">Skydiving history</a></li>
+              <li><a href="../../skydiving-terms">Skydiving terms</a></li>
             </ul>
           </li>
           <li class="menu menu-hover"><a href="../../experienced" class="button">Experienced</a></li>
           <li class="menu menu-hover">
-            <a href="../../prices" class="button">Pricing</a>
+            <a href="#" class="button">Pricing <i class="fa fa-caret-down" aria-hidden="true"></i>
+        </a>
             <ul class="submenu">
               <li><a href="../../prices">Pricing</a></li>
-              <li><a href="../../specials">Current Specials</a></li>
-              <li><a href="../../packages">Skydiving Packages</a></li>
+              <li><a href="../../specials">Current specials</a></li>
+              <li><a href="../../packages">Solo skydive packages</a></li>
             </ul>
           </li>
           <li class="menu menu-hover"><a href="../../book-now" class="button">Book Now</a></li>
@@ -93,17 +100,29 @@
         <script>
         $('html').removeClass('no-js');
         
-        $('.menu-click a').on('click', function () {
-          
+        $('.open-menu').on('click', function (e) {
+          $('#bar').toggleClass('bar-active');
+        });
+        
+        $('.menu-hover > a').on('click', function (e) {
           var el = $(this);
-          
-          // Show submenu
-          el.parent().toggleClass('menu-active');
+        
+          if ($(window).width() <= 720) {
+        
+            // Show submenu
+            el.parent().toggleClass('menu-active');
+          }
+        
+          if (el.attr('href') === '#') {
+            e.preventDefault();
+          }
+        
           
           // Hide other submenus
-          el.parent().siblings('.menu-click.menu-active').removeClass('menu-active');
+          // el.parent().siblings('.menu-hover.menu-active').removeClass('menu-active');
         });
-        </script>      </header>
+        </script>
+      </header>
     </div>
 
     <!-- <h1>Head to the Hills 2018</h1> -->

@@ -49,3 +49,9 @@
   color: #d5473a;
   line-height: 2;
 }
+
+@media (max-width: 720px) {
+  .navigation__call {
+    font-size: 5vw;
+  }
+}

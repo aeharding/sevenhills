@@ -36,6 +36,14 @@ At Seven Hills, not only do we have state-of-the-art, well maintained skydiving 
 		<div class="people__item-name">Dewey Morrison</div>
 	</li>
 	<li class="people__item">
+		<img src="../img/people/john-grenzow.jpg" alt="">
+		<div class="people__item-name">John Grenzow</div>
+	</li>
+	<li class="people__item">
+		<img src="../img/people/jason-greener.jpg" alt="">
+		<div class="people__item-name">Jason Greener</div>
+	</li>
+	<li class="people__item">
 		<img src="../img/people/greg-porter.jpg" alt="">
 		<div class="people__item-name">Greg Porter</div>
 	</li>

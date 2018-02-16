@@ -1,6 +1,6 @@
 ---
 pageTitle: Instructor Aided Deployment
-date: 2012-12-07
+date: 2018-02-16
 layout: page.html
 nav:
   iad: true
@@ -25,9 +25,9 @@ Classes are held on various Saturdays (reservations required), __late-April__ th
 
 ### Pricing
 
-Solo skydives start at $150 for your first jump and training. You can purchase video of your skydive exit for an additional $30.
+Solo skydives start at __$150__ for your first jump and training. You can purchase video of your skydive exit for an additional __$30__.
 
-We also offer gift certificates!
+We also offer gift certificates! 🎁
 
 For more information, please see [our current prices](../prices#iad-pricing).
 

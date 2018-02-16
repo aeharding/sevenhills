@@ -6,4 +6,4 @@ layout: page.html
 
 ## Special offers 💰🎟
 
-We currently don't have any special offers! Please check back regularly for some sweet deals.
+We currently don't have any special offers! Please check back regularly for some great deals.
