@@ -7,9 +7,26 @@ disableCall: true
 
 ## Experienced jumpers 😎
 
-As a nonprofit, volunteer dropzone, experienced jumpers are the lifeblood of Seven Hills! We welcome jumpers to come for a day or every weekend!
+As a nonprofit, volunteer dropzone, experienced jumpers are the lifeblood of Seven Hills! We welcome jumpers to come out to jump, socialize, and have fun.
 
 Read more about [our facilities](../our-facilities) to see more of what we offer.
+
+See you in the air up there!
+
+## Our Safety and Training Advisors
+
+The two people below are our awesome Safety and Training advisors. Most weekends, you can find one (or both) of them at the dropzone. __Please don't hesistate__ to talk with them if you have any questions or concerns.
+
+<ul class="people">
+	<li class="people__item">
+		<img src="../img/people/andy-van-handel.jpg" alt="">
+		<div class="people__item-name">Andy Van Handel</div>
+	</li>
+	<li class="people__item">
+		<img src="../img/people/russ-haas.jpg" alt="">
+		<div class="people__item-name">Russ Haas</div>
+	</li>
+</ul>
 
 ## Stay in the loop
 
@@ -17,7 +34,7 @@ Weather updates, information, and pictures are all shared on our Facebook group,
 
 ## Our pricing
 
-You can find experienced jump prices [here](../prices).
+You can find our experienced jump prices [here](../prices).
 
 <div class="image-line">
   <div><img src="../img/two-plane-load.jpg" alt="Two plane load"></div>

@@ -59,7 +59,7 @@
         
         <ul id="bar">
           <li class="menu menu-hover">
-            <a href="#" class="button">About us <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+            <a href="#">About us <i class="fa fa-caret-down" aria-hidden="true"></i></a>
             <ul class="submenu">
               <li><a href="about-us">Why jump with us?</a></li>
               <li><a href="contact">Contact us</a></li>
@@ -72,21 +72,28 @@
             </ul>
           </li>
           <li class="menu menu-hover">
-            <a href="#" class="button">Learn to Skydive <i class="fa fa-caret-down" aria-hidden="true"></i>
+            <a href="#">First Jump <i class="fa fa-caret-down" aria-hidden="true"></i>
         </a>
             <ul class="submenu">
               <li><a href="tandem">Tandem skydive</a></li>
               <li><a href="instructor-aided-deployment">Solo skydive</a></li>
+            </ul>
+          </li>
+          <li class="menu menu-hover">
+            <a href="#">Learn <i class="fa fa-caret-down" aria-hidden="true"></i>
+        </a>
+            <ul class="submenu">
               <li><a href="become-a-licensed-skydiver">Become a licensed skydiver</a></li>
               <li><a href="student-resources">Resources for students</a></li>
+              <li><a href="solo-rates">Rates</a></li>
               <li><a href="frequently-asked-questions">FAQs</a></li>
               <li><a href="skydiving-history">Skydiving history</a></li>
               <li><a href="skydiving-terms">Skydiving terms</a></li>
             </ul>
           </li>
-          <li class="menu menu-hover"><a href="experienced" class="button">Experienced</a></li>
+          <li class="menu menu-hover"><a href="experienced">Experienced</a></li>
           <li class="menu menu-hover">
-            <a href="#" class="button">Pricing <i class="fa fa-caret-down" aria-hidden="true"></i>
+            <a href="#">Pricing <i class="fa fa-caret-down" aria-hidden="true"></i>
         </a>
             <ul class="submenu">
               <li><a href="prices">Pricing</a></li>
@@ -94,14 +101,20 @@
               <li><a href="packages">Solo skydive packages</a></li>
             </ul>
           </li>
-          <li class="menu menu-hover"><a href="book-now" class="button">Book Now</a></li>
+          <li class="menu menu-hover"><a href="book-now">Book Now</a></li>
         </ul>
+        
+        <div class="bar-backdrop"></div>
         
         <script>
         $('html').removeClass('no-js');
         
         $('.open-menu').on('click', function (e) {
           $('#bar').toggleClass('bar-active');
+        });
+        
+        $('.bar-backdrop').on('click', function (e) {
+          $('#bar').removeClass('bar-active');
         });
         
         $('.menu-hover > a').on('click', function (e) {

@@ -2,6 +2,12 @@
   display: flex;
 }
 
+@media (max-width: 720px) {
+  .skydive-selector {
+    flex-direction: column;
+  }
+}
+
 .skydive-selector__option div {
   display: flex;
   align-items: center;

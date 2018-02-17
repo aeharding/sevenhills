@@ -8,7 +8,9 @@ rel: ../../
 
 ## Skydiving in Janesville, WI
 
-Skydiving in Janesville is just a quick drive North on I-90 and US-151!
+Skydiving in "Wisconsin's Park Place" is just a quick drive North on I-90 and US-151!
+
+<img src="../../img/janesville.jpg" alt="Janesville Downtown" class="full-width">
 
 ## Why jump with Seven Hills Skydivers
 
@@ -17,6 +19,10 @@ Seven Hills is a nonprofit, volunteer owned and operated skydiving center locate
 We offer both [Tandem skydiving](../../tandem) and [solo skydiving](../../instructor-aided-deployment), and we have the expertise for an unforgettable, safe, fun experience.
 
 Booking your skydive is easy - just [click here](../../book-now) and you'll be on your way! We hope to see you at Seven Hills soon! 😄
+
+<div style="text-align: center;padding-top:2em">
+	<a href="../../book-now" class="button button--primary">Book your skydive now <i class="fa fa-angle-double-right"></i></a>
+</div>
 
 ## Directions to Seven Hills Skydivers from Janesville, WI
 

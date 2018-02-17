@@ -79,6 +79,27 @@ main {
   @media (max-width: 720px) {
     padding: 0 10px;
   }
+
+  table {
+    width: 100%;
+
+    td {
+      padding: 5px 10px;
+    }
+
+    thead {
+      tr {
+        background: #00d2ff;
+        color: white;
+        font-weight: 400;
+      }
+    }
+    tbody {
+      tr:nth-child(odd) {
+        background: rgba(0, 0, 0, 0.05);
+      }
+    }
+  }
 }
 
 main {
@@ -208,5 +229,8 @@ section {
 @import 'imageLine';
 @import 'people';
 @import 'peopleText';
+@import 'jumpRateTable';
+@import 'button';
 @import 'bar';
+@import 'figure';
 @import 'skydiveSelector';

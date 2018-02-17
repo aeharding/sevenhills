@@ -6,4 +6,8 @@ layout: page.html
 
 ## Special offers 💰🎟
 
-We currently don't have any special offers! Please check back regularly for some great deals.
+We currently don't have any special offers! Please check back regularly. That being said, we feel like we owe you something for reading this... so, we leave you with the following:
+
+> I want a sweet deal<br>
+> To skydive at Seven Hills<br>
+> Not this lame hauki

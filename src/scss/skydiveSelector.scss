@@ -1,5 +1,9 @@
 .skydive-selector {
 	display: flex;
+
+	@media (max-width: 720px) {
+		flex-direction: column;
+	}
 }
 
 .skydive-selector__option div {
@@ -12,6 +16,7 @@
     font-weight: 100;
     position: relative;
 }
+
 
 .skydive-selector__option a {
 	text-decoration: none;

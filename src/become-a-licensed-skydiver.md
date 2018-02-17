@@ -4,15 +4,17 @@ date: 2018-02-15
 layout: page.html
 ---
 
-## Become a licensed skydiver
+## Become a licensed skydiver! 😲
 
-Making your first skydive is a life-changing experience. Chances are, if you're here, then you're asking yourself _"But what now?!"_ Well, Seven Hills has you covered! We offer a __comprehensive__, __affordable__ student program to get you all the way to your A-License. An A-License will grant you the freedom to jump _anywhere in the world!_
+Making your first skydive is a life-changing experience. Chances are, if you're here, then you're asking yourself _"But what now?!"_ Well, Seven Hills has you covered!<img src="../img/a-stamp.png" style="float:right" alt="USPA A license stamp"> We offer a __comprehensive__, __affordable__ student program to get you all the way to your A-License. An A-License will grant you the freedom to jump _anywhere in the world!_ 🌎
 
 ## The IAD Student Program
 
 We follow the [IAD student progression](../instructor-aided-deployment) for training students (at Seven Hills, it's also called the ["solo" progression](../instructor-aided-deployment)). This is an "ease you into it" type of progression, meaning you start at lower altitudes while you practice deploying your parachute. Once you demonstrate that you can deploy your own parachute safely, then we work our way up to __10,000 feet__ where you will learn freefall maneuvers like __turns__, __flips__, __barrel-rolls__, and __formation skydiving__.
 
 ## The Jumps
+
+Below is a summary of the skydives you can expect on your way to earning your "A" license. We have a page [detailing the rates you can expect](../solo-rates).
 
  * __2 IAD deployments__ where you focus on good body position and control (your first IAD jump counts for one of these!)
  * At least __three practice pilot chute throws__ (PPCTs). PPCTs build your muscle memory for deploying a parachute safely
@@ -30,6 +32,8 @@ It seems like a lot - but don't worry! We will walk you through each jump, start
 ## Beyond the A-license
 
 Once you become an A-licensed skydiver, you have the opportunity to jump almost anywhere. However, we will work with you to refine your skills, earn more advanced licenses (B, C, and D), enter skydiving specialties (like wingsuiting, freeflying, etc) and help you throughout your skydiving career.
+
+Below are a few pictures of Rebecca &mdash; a student that has recently graduated!
 
 <div class="image-line">
   <div><img src="../img/reba-check-dive.jpg" alt="Reba check dive"></div>

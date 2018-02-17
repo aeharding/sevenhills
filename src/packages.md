@@ -4,7 +4,7 @@ date: 2018-02-15
 layout: page.html
 ---
 
-## Skydive packages
+## Solo skydiving packages
 
 If you're interested in becoming a licensed skydiver, we offer packages to get you from no experience to a certain milestone. See below for more:
 
@@ -12,9 +12,9 @@ If you're interested in becoming a licensed skydiver, we offer packages to get y
 
 Includes the following:
 
- * The First Jump Course and jump
- * 2nd jump ticket
- * 3 Practice Pilot Chute Pull (PPCP) tickets
+ * The First Jump Course training and jump
+ * 2<sup>nd</sup> jump ticket
+ * 3 Practice Pilot Chute Throw (PPCT) tickets
  * 1 Clear and Pull (C&P) ticket
  * 2 ten second delay tickets
  * 2 fifteen second delay tickets
@@ -23,33 +23,46 @@ Includes the following:
  * No refunds and repeat tickets (if needed) must be purchased separately
  * Does NOT include licensing fees or USPA membership (required)
 
-__Price: $1425__
+(1 first jump course, 5 low altitude tickets, and 19 higher altitude tickets.)
+
+__Price: $2,300__
 
 ### Get your Skydiving "A" License Package (excluding first jump)
 
 Includes all of the above except the First Jump Course.
 
-__Price: $1375__
+(5 low altitude tickets, and 19 higher altitude tickets.)
+
+__Price: $2,155__
 
 ### Get to Freefall Package
 
-Includes the following:
-
- * 3 Practice Pilot Chute Pull (PPCP) tickets
+This package is perfect for someone that wants to get to the milestone of deploying their own parachute after taking the first jump course. Includes the following:
+ 
+ * 1 2<sup>nd</sup> jump ticket
+ * 3 Practice Pilot Chute Throw (PPCT) tickets
  * 1 Clear and Pull (C&P) ticket
  * No refunds and repeat tickets (if needed) must be purchased separately
  * Does NOT include USPA membership (required)
 
-__Price: $200__
+(4 low altitude tickets.)
+
+__Price: $350__
+
+### Get to Freefall Package (excluding 2<sup>nd</sup> jump)
+
+This includes the above, minus the 2<sup>nd</sup> jump ticket. This package is great if you completed your first two solo IAD jumps and you want to move on to deploy your own parachute!
+
+__Price: $280__
 
 ### Freefall Package
 
-Includes the following:
+This package is perfect for the continuing student that needs at least 5 more high altitude jump tickets before getting their "A" license. Includes the following:
 
  * 5 ten second and higher jump tickets
  * No refunds and repeat tickets (if needed) must be purchased separately
 
-__Price: $300__
+__Price: $475__
 
 ## The fine print
 

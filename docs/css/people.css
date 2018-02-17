@@ -3,6 +3,8 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
+  margin: 0;
+  padding: 0;
 }
 
 .people__item {
@@ -12,10 +14,8 @@
   padding: 0;
   text-align: center;
   margin-bottom: 25px;
-}
-
-.people__item:not(:last-child) {
-  margin-right: 25px;
+  margin-left: 12.5px;
+  margin-right: 12.5px;
 }
 
 .people__item img {
@@ -27,321 +27,321 @@
 }
 
 .people__item:nth-child(1) {
-  color: #099592;
+  color: #7e0801;
 }
 
 .people__item:nth-child(1) img {
-  box-shadow: 0 0 30px rgba(9, 149, 146, 0.2);
+  box-shadow: 0 0 30px rgba(126, 8, 1, 0.2);
 }
 
 .people__item:nth-child(2) {
-  color: #ad0011;
+  color: #655206;
 }
 
 .people__item:nth-child(2) img {
-  box-shadow: 0 0 30px rgba(173, 0, 17, 0.2);
+  box-shadow: 0 0 30px rgba(101, 82, 6, 0.2);
 }
 
 .people__item:nth-child(3) {
-  color: #e6143a;
+  color: #296df5;
 }
 
 .people__item:nth-child(3) img {
-  box-shadow: 0 0 30px rgba(230, 20, 58, 0.2);
+  box-shadow: 0 0 30px rgba(41, 109, 245, 0.2);
 }
 
 .people__item:nth-child(4) {
-  color: #c60c15;
+  color: #76fa0a;
 }
 
 .people__item:nth-child(4) img {
-  box-shadow: 0 0 30px rgba(198, 12, 21, 0.2);
+  box-shadow: 0 0 30px rgba(118, 250, 10, 0.2);
 }
 
 .people__item:nth-child(5) {
-  color: #586808;
+  color: #510990;
 }
 
 .people__item:nth-child(5) img {
-  box-shadow: 0 0 30px rgba(88, 104, 8, 0.2);
+  box-shadow: 0 0 30px rgba(81, 9, 144, 0.2);
 }
 
 .people__item:nth-child(6) {
-  color: #450198;
+  color: #0a64eb;
 }
 
 .people__item:nth-child(6) img {
-  box-shadow: 0 0 30px rgba(69, 1, 152, 0.2);
+  box-shadow: 0 0 30px rgba(10, 100, 235, 0.2);
 }
 
 .people__item:nth-child(7) {
-  color: #510529;
+  color: #e302ab;
 }
 
 .people__item:nth-child(7) img {
-  box-shadow: 0 0 30px rgba(81, 5, 41, 0.2);
+  box-shadow: 0 0 30px rgba(227, 2, 171, 0.2);
 }
 
 .people__item:nth-child(8) {
-  color: #053d05;
+  color: #386907;
 }
 
 .people__item:nth-child(8) img {
-  box-shadow: 0 0 30px rgba(5, 61, 5, 0.2);
+  box-shadow: 0 0 30px rgba(56, 105, 7, 0.2);
 }
 
 .people__item:nth-child(9) {
-  color: #720297;
+  color: #062b38;
 }
 
 .people__item:nth-child(9) img {
-  box-shadow: 0 0 30px rgba(114, 2, 151, 0.2);
+  box-shadow: 0 0 30px rgba(6, 43, 56, 0.2);
 }
 
 .people__item:nth-child(10) {
-  color: #2f3d00;
+  color: #05d62c;
 }
 
 .people__item:nth-child(10) img {
-  box-shadow: 0 0 30px rgba(47, 61, 0, 0.2);
+  box-shadow: 0 0 30px rgba(5, 214, 44, 0.2);
 }
 
 .people__item:nth-child(11) {
-  color: #0d44c5;
+  color: #61330a;
 }
 
 .people__item:nth-child(11) img {
-  box-shadow: 0 0 30px rgba(13, 68, 197, 0.2);
+  box-shadow: 0 0 30px rgba(97, 51, 10, 0.2);
 }
 
 .people__item:nth-child(12) {
-  color: #ba0312;
+  color: #a607a1;
 }
 
 .people__item:nth-child(12) img {
-  box-shadow: 0 0 30px rgba(186, 3, 18, 0.2);
+  box-shadow: 0 0 30px rgba(166, 7, 161, 0.2);
 }
 
 .people__item:nth-child(13) {
-  color: #512701;
+  color: #1b3904;
 }
 
 .people__item:nth-child(13) img {
-  box-shadow: 0 0 30px rgba(81, 39, 1, 0.2);
+  box-shadow: 0 0 30px rgba(27, 57, 4, 0.2);
 }
 
 .people__item:nth-child(14) {
-  color: #cd0bef;
+  color: #3c0606;
 }
 
 .people__item:nth-child(14) img {
-  box-shadow: 0 0 30px rgba(205, 11, 239, 0.2);
+  box-shadow: 0 0 30px rgba(60, 6, 6, 0.2);
 }
 
 .people__item:nth-child(15) {
-  color: #64047c;
+  color: #066b10;
 }
 
 .people__item:nth-child(15) img {
-  box-shadow: 0 0 30px rgba(100, 4, 124, 0.2);
+  box-shadow: 0 0 30px rgba(6, 107, 16, 0.2);
 }
 
 .people__item:nth-child(16) {
-  color: #65d001;
+  color: #372b01;
 }
 
 .people__item:nth-child(16) img {
-  box-shadow: 0 0 30px rgba(101, 208, 1, 0.2);
+  box-shadow: 0 0 30px rgba(55, 43, 1, 0.2);
 }
 
 .people__item:nth-child(17) {
-  color: #4b1f01;
+  color: #63eb28;
 }
 
 .people__item:nth-child(17) img {
-  box-shadow: 0 0 30px rgba(75, 31, 1, 0.2);
+  box-shadow: 0 0 30px rgba(99, 235, 40, 0.2);
 }
 
 .people__item:nth-child(18) {
-  color: #991c00;
+  color: #459e0a;
 }
 
 .people__item:nth-child(18) img {
-  box-shadow: 0 0 30px rgba(153, 28, 0, 0.2);
+  box-shadow: 0 0 30px rgba(69, 158, 10, 0.2);
 }
 
 .people__item:nth-child(19) {
-  color: #4f0747;
+  color: #473c00;
 }
 
 .people__item:nth-child(19) img {
-  box-shadow: 0 0 30px rgba(79, 7, 71, 0.2);
+  box-shadow: 0 0 30px rgba(71, 60, 0, 0.2);
 }
 
 .people__item:nth-child(20) {
-  color: #eb1414;
+  color: #117a06;
 }
 
 .people__item:nth-child(20) img {
-  box-shadow: 0 0 30px rgba(235, 20, 20, 0.2);
+  box-shadow: 0 0 30px rgba(17, 122, 6, 0.2);
 }
 
 .people__item:nth-child(21) {
-  color: #65060a;
+  color: #032253;
 }
 
 .people__item:nth-child(21) img {
-  box-shadow: 0 0 30px rgba(101, 6, 10, 0.2);
+  box-shadow: 0 0 30px rgba(3, 34, 83, 0.2);
 }
 
 .people__item:nth-child(22) {
-  color: #3fd411;
+  color: #0a7708;
 }
 
 .people__item:nth-child(22) img {
-  box-shadow: 0 0 30px rgba(63, 212, 17, 0.2);
+  box-shadow: 0 0 30px rgba(10, 119, 8, 0.2);
 }
 
 .people__item:nth-child(23) {
-  color: #810e3e;
+  color: #fb28b1;
 }
 
 .people__item:nth-child(23) img {
-  box-shadow: 0 0 30px rgba(129, 14, 62, 0.2);
+  box-shadow: 0 0 30px rgba(251, 40, 177, 0.2);
 }
 
 .people__item:nth-child(24) {
-  color: #8016e3;
+  color: #756606;
 }
 
 .people__item:nth-child(24) img {
-  box-shadow: 0 0 30px rgba(128, 22, 227, 0.2);
+  box-shadow: 0 0 30px rgba(117, 102, 6, 0.2);
 }
 
 .people__item:nth-child(25) {
-  color: #051133;
+  color: #037d05;
 }
 
 .people__item:nth-child(25) img {
-  box-shadow: 0 0 30px rgba(5, 17, 51, 0.2);
+  box-shadow: 0 0 30px rgba(3, 125, 5, 0.2);
 }
 
 .people__item:nth-child(26) {
-  color: #054c2e;
+  color: #c0116e;
 }
 
 .people__item:nth-child(26) img {
-  box-shadow: 0 0 30px rgba(5, 76, 46, 0.2);
+  box-shadow: 0 0 30px rgba(192, 17, 110, 0.2);
 }
 
 .people__item:nth-child(27) {
-  color: #49750a;
+  color: #255408;
 }
 
 .people__item:nth-child(27) img {
-  box-shadow: 0 0 30px rgba(73, 117, 10, 0.2);
+  box-shadow: 0 0 30px rgba(37, 84, 8, 0.2);
 }
 
 .people__item:nth-child(28) {
-  color: #2a0656;
+  color: #b59a03;
 }
 
 .people__item:nth-child(28) img {
-  box-shadow: 0 0 30px rgba(42, 6, 86, 0.2);
+  box-shadow: 0 0 30px rgba(181, 154, 3, 0.2);
 }
 
 .people__item:nth-child(29) {
-  color: #0bb190;
+  color: #f98124;
 }
 
 .people__item:nth-child(29) img {
-  box-shadow: 0 0 30px rgba(11, 177, 144, 0.2);
+  box-shadow: 0 0 30px rgba(249, 129, 36, 0.2);
 }
 
 .people__item:nth-child(30) {
-  color: #3662f2;
+  color: #6b4c0b;
 }
 
 .people__item:nth-child(30) img {
-  box-shadow: 0 0 30px rgba(54, 98, 242, 0.2);
+  box-shadow: 0 0 30px rgba(107, 76, 11, 0.2);
 }
 
 .people__item:nth-child(31) {
-  color: #075a12;
+  color: #66bb11;
 }
 
 .people__item:nth-child(31) img {
-  box-shadow: 0 0 30px rgba(7, 90, 18, 0.2);
+  box-shadow: 0 0 30px rgba(102, 187, 17, 0.2);
 }
 
 .people__item:nth-child(32) {
-  color: #4d9410;
+  color: #9e0552;
 }
 
 .people__item:nth-child(32) img {
-  box-shadow: 0 0 30px rgba(77, 148, 16, 0.2);
+  box-shadow: 0 0 30px rgba(158, 5, 82, 0.2);
 }
 
 .people__item:nth-child(33) {
-  color: #42f059;
+  color: #08a66c;
 }
 
 .people__item:nth-child(33) img {
-  box-shadow: 0 0 30px rgba(66, 240, 89, 0.2);
+  box-shadow: 0 0 30px rgba(8, 166, 108, 0.2);
 }
 
 .people__item:nth-child(34) {
-  color: #05fafa;
+  color: #49005b;
 }
 
 .people__item:nth-child(34) img {
-  box-shadow: 0 0 30px rgba(5, 250, 250, 0.2);
+  box-shadow: 0 0 30px rgba(73, 0, 91, 0.2);
 }
 
 .people__item:nth-child(35) {
-  color: #5610c6;
+  color: #648a0a;
 }
 
 .people__item:nth-child(35) img {
-  box-shadow: 0 0 30px rgba(86, 16, 198, 0.2);
+  box-shadow: 0 0 30px rgba(100, 138, 10, 0.2);
 }
 
 .people__item:nth-child(36) {
-  color: #10b1c6;
+  color: #fc03be;
 }
 
 .people__item:nth-child(36) img {
-  box-shadow: 0 0 30px rgba(16, 177, 198, 0.2);
+  box-shadow: 0 0 30px rgba(252, 3, 190, 0.2);
 }
 
 .people__item:nth-child(37) {
-  color: #0a802d;
+  color: #6b2cf2;
 }
 
 .people__item:nth-child(37) img {
-  box-shadow: 0 0 30px rgba(10, 128, 45, 0.2);
+  box-shadow: 0 0 30px rgba(107, 44, 242, 0.2);
 }
 
 .people__item:nth-child(38) {
-  color: #5e0841;
+  color: #b48113;
 }
 
 .people__item:nth-child(38) img {
-  box-shadow: 0 0 30px rgba(94, 8, 65, 0.2);
+  box-shadow: 0 0 30px rgba(180, 129, 19, 0.2);
 }
 
 .people__item:nth-child(39) {
-  color: #6c040d;
+  color: #5a2402;
 }
 
 .people__item:nth-child(39) img {
-  box-shadow: 0 0 30px rgba(108, 4, 13, 0.2);
+  box-shadow: 0 0 30px rgba(90, 36, 2, 0.2);
 }
 
 .people__item:nth-child(40) {
-  color: #8d0174;
+  color: #130051;
 }
 
 .people__item:nth-child(40) img {
-  box-shadow: 0 0 30px rgba(141, 1, 116, 0.2);
+  box-shadow: 0 0 30px rgba(19, 0, 81, 0.2);
 }

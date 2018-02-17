@@ -24,5 +24,5 @@ We're the __top skydive center__ for many other cities, as well! Check out the b
  * [Directions from Appleton, WI](../city/skydiving-appleton-wi)
  * [Directions from Janesville, WI](../city/skydiving-janesville-wi)
  * [Directions from La Crosse, WI](../city/skydiving-la-crosse-wi)
- * [Directions from Milwaukee](../city/skydiving-milwaukee-wi)
- * [Directions from Wisconsin Dells](../city/skydiving-wisconsin-dells-wi)
+ * [Directions from Milwaukee](../city/skydiving-milwaukee)
+ * [Directions from Wisconsin Dells](../city/skydiving-wisconsin-dells)

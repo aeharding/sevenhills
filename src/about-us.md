@@ -6,7 +6,7 @@ nav:
   about: true
 ---
 
-## The Seven Hills Difference
+## The Seven Hills Difference<img src="../img/logo.jpg" alt="The Seven Hills Skydivers logo" style="float: right;width:200px">
 
 We at Seven Hills take an active interest in each and every one of our students' safety and learning. You will quickly become a part of our Seven Hills family as you enter what may be the greatest sport in the world.
 

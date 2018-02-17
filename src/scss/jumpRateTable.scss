@@ -1,0 +1,10 @@
+.jump-rate-table {
+  td {
+  	&:nth-child(1) {
+  		width: 20%;
+  	}
+  	&:nth-child(3) {
+  		width: 20%;
+  	}
+  }
+}

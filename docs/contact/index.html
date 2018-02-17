@@ -59,7 +59,7 @@
         
         <ul id="bar">
           <li class="menu menu-hover">
-            <a href="#" class="button">About us <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+            <a href="#">About us <i class="fa fa-caret-down" aria-hidden="true"></i></a>
             <ul class="submenu">
               <li><a href="../about-us">Why jump with us?</a></li>
               <li><a href="../contact">Contact us</a></li>
@@ -72,21 +72,28 @@
             </ul>
           </li>
           <li class="menu menu-hover">
-            <a href="#" class="button">Learn to Skydive <i class="fa fa-caret-down" aria-hidden="true"></i>
+            <a href="#">First Jump <i class="fa fa-caret-down" aria-hidden="true"></i>
         </a>
             <ul class="submenu">
               <li><a href="../tandem">Tandem skydive</a></li>
               <li><a href="../instructor-aided-deployment">Solo skydive</a></li>
+            </ul>
+          </li>
+          <li class="menu menu-hover">
+            <a href="#">Learn <i class="fa fa-caret-down" aria-hidden="true"></i>
+        </a>
+            <ul class="submenu">
               <li><a href="../become-a-licensed-skydiver">Become a licensed skydiver</a></li>
               <li><a href="../student-resources">Resources for students</a></li>
+              <li><a href="../solo-rates">Rates</a></li>
               <li><a href="../frequently-asked-questions">FAQs</a></li>
               <li><a href="../skydiving-history">Skydiving history</a></li>
               <li><a href="../skydiving-terms">Skydiving terms</a></li>
             </ul>
           </li>
-          <li class="menu menu-hover"><a href="../experienced" class="button">Experienced</a></li>
+          <li class="menu menu-hover"><a href="../experienced">Experienced</a></li>
           <li class="menu menu-hover">
-            <a href="#" class="button">Pricing <i class="fa fa-caret-down" aria-hidden="true"></i>
+            <a href="#">Pricing <i class="fa fa-caret-down" aria-hidden="true"></i>
         </a>
             <ul class="submenu">
               <li><a href="../prices">Pricing</a></li>
@@ -94,14 +101,20 @@
               <li><a href="../packages">Solo skydive packages</a></li>
             </ul>
           </li>
-          <li class="menu menu-hover"><a href="../book-now" class="button">Book Now</a></li>
+          <li class="menu menu-hover"><a href="../book-now">Book Now</a></li>
         </ul>
+        
+        <div class="bar-backdrop"></div>
         
         <script>
         $('html').removeClass('no-js');
         
         $('.open-menu').on('click', function (e) {
           $('#bar').toggleClass('bar-active');
+        });
+        
+        $('.bar-backdrop').on('click', function (e) {
+          $('#bar').removeClass('bar-active');
         });
         
         $('.menu-hover > a').on('click', function (e) {
@@ -131,17 +144,32 @@
       <div class="navigation__call">
         Questions? Give us a call (608) 244-5252
       </div>
-      <div><p>Feel free to reach out to us with any questions you have.</p>
-<h4 id="phone">Phone</h4>
-<p>(608) 244-5252 <em>(for scheduling)</em></p>
-<p>(920) 623-2838 <em>(dropzone phone)</em></p>
-<h4 id="email">Email</h4>
-<p>jump@sevenhillsskydivers.org</p>
-<h4 id="links">Links</h4>
-<ol>
-<li>Facebook <a href="https://www.facebook.com/Seven.Hills.Skydivers/">Seven.Hills.Skydivers</a></li>
-<li><a href="http://thinfi.com/yyg">Members area</a></li>
-</ol>
+      <div><h2 id="contact-us">Contact us</h2>
+<p>Feel free to reach out to us with any questions you have, we&#39;d love to answer any questions you may have. Our phone scheduler also happens to be a skydive instructor and can answer any specific questions you have about your skydive experience.</p>
+<h3 id="phone">Phone</h3>
+<p>If you want to <strong>schedule a skydive</strong> or ask us a question, call <strong>(608) 244 - 5252</strong>.</p>
+<p>If you want to <strong>reach the dropzone</strong> during jump operations, call <strong>(920) 623 - 2838</strong>.</p>
+<h3 id="email">Email</h3>
+<p>You can send us an email at any time and we will get back to you as soon as we can. Our email address for general inquiries is <a href="mailto:jump@sevenhillsskydivers.org">jump@sevenhillsskydivers.org</a>.</p>
+<h3 id="hours-of-operation">Hours of Operation</h3>
+<p>You can call our scheduler 8am - 10pm, seven days a week.</p>
+<p>Our dropzone is generally open to students <strong>late-April</strong> through <strong>October</strong>.</p>
+<p>Experienced jumpers: We have limited jumping year-round. Please <a href="../experienced">read this</a> and call before coming out.</p>
+<ul>
+<li><strong>Weekends</strong>, <strong>9am - 8:30pm</strong></li>
+<li><strong>Wednesday evenings</strong> (for continuing solo students and experienced jumpers), 3pm-8:30pm</li>
+<li><strong>Friday evenings</strong> <em>(Occasionally)</em> During the summer for experienced jumpers and continuing solo students</li>
+</ul>
+<h3 id="facebook">Facebook</h3>
+<p>You can reach out to us on Facebook by sending us a message. <a href="https://www.facebook.com/Seven.Hills.Skydivers/">Click here</a> to go to our Facebook page.</p>
+<h3 id="our-location">Our Location</h3>
+<p>7530 State Highway 73<br>
+York Center, WI</p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2905.553065658285!2d-89.07006538475002!3d43.26078787913667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88068c905a73806f%3A0x23161a6f3ddc1fe9!2sSeven+Hills+Skydivers+Inc!5e0!3m2!1sen!2sus!4v1458674716300" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<h3 id="seven-hills-members">Seven Hills Members</h3>
+<p><em>This link is for Seven Hills Skydiver members. Thanks!</em></p>
+<p><a href="http://thinfi.com/yyg">Members area</a></p>
 </div>
       <div class="navigation__call">
         Questions? Give us a call (608) 244-5252

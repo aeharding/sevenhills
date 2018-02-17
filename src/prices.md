@@ -12,24 +12,6 @@ nav:
 
 Looking for a unique gift?  If you're still wondering what to get a loved one, someone special, snowman, witch, turkey, or a friend, then look no further.  Give them the thrill of a lifetime and memories that will be shared for years to come.  Give them the adrenaline rush of a skydive!  Seven Hills Gift Certificates make a wonderful stocking stuffer or other occasion gift.  Certificates can be bought for any dollar amount and can be purchased by calling 608-244-5252.
 
-### Solo pricing 
-
-*The first jump*
-
- * **$150** - Training and first jump
-   * +**$30** video of exit *(optional)*
-
-*Following jumps*
-
- * **$75** subsequent low jumps
- * **$100** subsequent high jumps
-
-We also offer [jump packages](../packages) for solo students.
-
-<div class="note"><strong>Savings!</strong> If a student purchases their 2nd jump ticket on the day that they make their 1st jump, that student will receive $10 off their 2nd solo student jump ticket. 
-<br><small>Offer only good on the day their 1st solo jump is made and only for the 2nd solo jump ticket. Mention this ad when purchasing your ticket.</small>
-</div>
-
 ### Tandem pricing
 
  * **$215** - Training and jump
@@ -39,6 +21,24 @@ We also offer [jump packages](../packages) for solo students.
  * Special group rate for groups of 5 or more.
 
 <div class="note"><strong>Savings!</strong> After completing your first tandem skydive at Seven Hills Skydivers, we can offer you the thrill of skydiving with our solo first jump course for only $125! Please call our scheduler at 608-244-5252 and mention this offer.
+</div>
+
+### Solo pricing
+
+*The first jump*
+
+ * **$150** - Training and first jump
+   * +**$30** video of exit *(optional)*
+
+*Following jumps (pay-as-you-go)*
+
+ * **$75** subsequent low jump
+ * **$100** subsequent high jump
+
+For more on continuing solo student pricing, [click here](../solo-rates). We also offer [jump packages](../packages) for continuing solo students.
+
+<div class="note"><strong>Savings!</strong> If a student purchases their 2nd jump ticket on the day that they make their 1st jump, that student will receive $10 off their 2nd solo student jump ticket. 
+<br><small>Offer only good on the day their 1st solo jump is made and only for the 2nd solo jump ticket. Mention this ad when purchasing your ticket.</small>
 </div>
 
 ### Experienced pricing

@@ -5,7 +5,7 @@ layout: page.html
 disableCall: true
 ---
 
-## Resources for current IAD students 📚
+## Resources for continuing IAD students 📚
 
 Below are some useful resources for students working to obtain their A-license.
 
