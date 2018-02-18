@@ -40,7 +40,7 @@ Our instructional staff includes skydivers with __thousands of jumps__ holding _
 		<div class="people__item-name">Dewey Morrison</div>
 	</li>
 	<li class="people__item">
-		<img src="../img/people/john-grenzow.jpg" alt="">
+		<img src="../img/people/john-grenzow.png" alt="">
 		<div class="people__item-name">John Grenzow</div>
 	</li>
 	<li class="people__item">
