@@ -2,6 +2,18 @@
 
 @import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
 
+html {
+  box-sizing: border-box;
+}
+
+* {
+  &,
+  &:before,
+  &:after {
+    box-sizing: inherit;
+  }
+}
+
 body {
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 }
@@ -114,6 +126,25 @@ main {
 
 main {
   display: block;
+}
+
+.video-responsive-container {
+  max-width: 640px;
+}
+
+.video-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+
+  iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  }
 }
 
 .header-wrapper {

@@ -37,7 +37,11 @@ See [our dedicated FAQ](../frequently-asked-questions). For more, call us or sho
 
 ### Videos
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/gRG8zh7J0w0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-responsive-container">
+	<div class="video-responsive">
+		<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/gRG8zh7J0w0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+	</div>
+</div>
 
 ### Schedule
 
