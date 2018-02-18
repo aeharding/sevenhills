@@ -67,7 +67,7 @@ Our instructional staff includes skydivers with __thousands of jumps__ holding _
 
 ## Our members
 
-Our AWESOME members that make Seven Hills possible:
+Our AWESOME members that volunteer their time to make Seven Hills possible:
 
 <ul class="people-text">
 	<li class="people-text__item">Aaron Campbell</li>

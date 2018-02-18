@@ -46,7 +46,7 @@ For more on continuing solo student pricing, [click here](../solo-rates). We als
 Experienced jumpers are always welcome! Please bring your membership card, logbook, and reserve data card (if you have your own rig).
 
  * **$22** 10,000'
- * **$11** 5,500'
+ * **$11** 5,000'
  * **$16** gear rental *(per jump)*
 
 *Experienced jump prices higher during Winter.*

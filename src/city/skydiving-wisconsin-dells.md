@@ -20,7 +20,7 @@ If you're on vacation and only have time for a quick afternoon or morning visit 
 	<a href="../../book-now" class="button button--primary">Book your skydive now <i class="fa fa-angle-double-right"></i></a>
 </div>
 
-## Directions to Seven Hills Skydivers from Milwaukee
+## Directions to Seven Hills Skydivers from the Wisconsin Dells
 
  * Take WI-16 E
  * Turn right to merge onto I-39 South towards WI-78/I-90/Merrimac

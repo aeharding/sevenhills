@@ -12,7 +12,7 @@ Making your first skydive is a life-changing experience. Chances are, if you're 
 
 You will quickly become a part of our skydive family in an open, friendly, and approachable environment where __safety is the highest priority__.
 
-We have [highly qualified instructors and coaches](../../who-we-are), and we will equip you with state-of-the-art, comfortable, and safe skydiving gear with [Aerodyne](https://www.flyaerodyne.com/icons/icon-student/) containers and [Performance Designs](http://www.performancedesigns.com/products/navigator/) canopies, leading manufacturers in the industry. Our Aerodyne skydive containers are all fitted with __Skyhooks__, a proven safety feature that not all dropzones offer.
+We have [highly qualified instructors and coaches](../../who-we-are), and we will equip you with state-of-the-art, comfortable, and safe skydiving gear with [Aerodyne](https://www.flyaerodyne.com/icons/icon-student/) containers and [Performance Designs](http://www.performancedesigns.com/products/navigator/) canopies, leading manufacturers in the industry.
 
 Once you complete the first jump course, your jumps to get your "A" license will be one-on-one with an instructor or coach.
 
@@ -41,7 +41,7 @@ It seems like a lot - but don't worry! We will walk you through each jump, start
 
 Once you become an A-licensed skydiver, you have the opportunity to jump almost anywhere. However, we will work with you to refine your skills, earn more advanced licenses (B, C, and D), enter skydiving specialties (like wingsuiting, freeflying, etc) and help you throughout your skydiving career.
 
-Below are a few pictures of Rebecca &mdash; a student that has recently graduated!
+Below are a few pictures of students that have received their "A" license recently!
 
 <div class="image-line">
   <div><img src="../img/reba-check-dive.jpg" alt="Reba check dive"></div>
