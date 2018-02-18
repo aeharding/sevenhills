@@ -14,7 +14,7 @@ Skydiving in "Wisconsin's Park Place" is just a quick drive North on I-90 and US
 
 ## Why jump with Seven Hills Skydivers
 
-Seven Hills is a nonprofit, volunteer owned and operated skydiving center located Northeast of Madison, WI. We've been in business for __over 60 years__! We have a very experienced [staff](../../who-we-are), and we have an excellent safety record. If you want to learn a bit more about us, [click here](../../about-us).
+Seven Hills is a nonprofit, volunteer owned and operated skydiving center located Northeast of Madison, WI. We've been in business for __over 55 years__! We have a very experienced [staff](../../who-we-are), and we have an excellent safety record. If you want to learn a bit more about us, [click here](../../about-us).
 
 We offer both [Tandem skydiving](../../tandem) and [solo skydiving](../../instructor-assisted-deployment), and we have the expertise for an unforgettable, safe, fun experience.
 

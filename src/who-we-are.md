@@ -8,7 +8,7 @@ nav:
 
 ## Who we are
 
-At Seven Hills, not only do we have state-of-the-art, well maintained skydiving equipment, but we have extremely well qualified instructors and coaches that put safety above all else. Don't take our word for it: We have been in business [for over 60 years](../about-us) with a consistent safety record.
+At Seven Hills, not only do we have state-of-the-art, well maintained skydiving equipment, but we have extremely well qualified instructors and coaches that put safety above all else. Don't take our word for it: We have been in business [for over 55 years](../about-us) with a consistent safety record.
 
 Our instructional staff includes skydivers with __thousands of jumps__ holding __multiple world records__ with __decades__ of experience. __At Seven Hills, _you're in the best hands_.__
 

@@ -16,7 +16,7 @@ We're 2 hours and 20 minutes East of La Crosse. However, once you do a skydive a
 
 ## Why jump with Seven Hills Skydivers
 
-At Seven Hills, we have very talented, __world-record holding__ instructors with __decades of experience__. Seven Hills is a __nonprofit__, volunteer owned and operated dropzone that's been around for over __60 years__! Our instructors are here because they're passionate about skydiving and want to share the sport with you.
+At Seven Hills, we have very talented, __world-record holding__ instructors with __decades of experience__. Seven Hills is a __nonprofit__, volunteer owned and operated dropzone that's been around for over __55 years__! Our instructors are here because they're passionate about skydiving and want to share the sport with you.
 
 At Seven Hills, we offer __two methods__ for your first skydive. The first method, [a tandem skydive](../../tandem) is an excellent option for those that want their skydive instructor to be in control during the skydive.
 
