@@ -1,37 +1,118 @@
 @import 'variables';
 
-.no-scroll {
-  &,
-  body {
-    height: 100%;
-    min-height: 500px;
-    overflow: hidden;
-  }
+@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
+
+body {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 }
 
 body {
-  font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
-  font-size: 100%;
-  line-height: 1.5;
   margin: 0;
+  line-height: 1.6;
+  color: #566b78;
+
+  // sticky footer
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
+
+main {
+  flex: 1; // sticky footer
+}
+
+h1,
+h2,
+h3,
+strong {
+  color: #333;
+}
+
+h2,
+h3 {
+  margin-top: 1em;
+  padding-top: 1em;
+}
+
+code,
+pre {
+  background: #f5f7f9;
+  border-bottom: 1px solid #d8dee9;
+  color: #a7adba;
+}
+
+pre {
+  border-left: 2px solid #69c;
+}
+
+a {
+  color: #e81c4f;
+}
+
+code,
+pre {
+  background: #eee;
+}
+
+code {
+  padding: 2px 4px;
+  vertical-align: text-bottom;
+}
+
+pre {
+  padding: 1em;
+}
+
+// body {
+//   font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
+//   font-size: 100%;
+//   line-height: 1.5;
+//   margin: 0;
+// }
 
 header {
   max-width: 1000px;
   margin: 0 auto;
+
+  &::after {
+    content: '';
+    display: table;
+    clear: both;
+  }
 }
 
 main {
   margin: 0 auto;
   max-width: 800px;
+
+  @media (max-width: 720px) {
+    padding: 0 10px;
+  }
+
+  table {
+    width: 100%;
+
+    td {
+      padding: 5px 10px;
+    }
+
+    thead {
+      tr {
+        background: #00d2ff;
+        color: white;
+        font-weight: 400;
+      }
+    }
+    tbody {
+      tr:nth-child(odd) {
+        background: rgba(0, 0, 0, 0.05);
+      }
+    }
+  }
 }
 
 main {
   display: block;
-}
-
-header {
-  overflow: auto;
 }
 
 .header-wrapper {
@@ -113,27 +194,15 @@ header {
   }
 }
 
-h1 {
-  font-size: 2.747em;
-}
+// a {
+//   color: $primary;
+//   text-decoration: none;
 
-h2 {
-  font-size: 1.874em;
-}
-
-h3 {
-  font-size: 1.229em;
-}
-
-a {
-  color: $primary;
-  text-decoration: none;
-
-  &:hover,
-  &:active {
-    text-decoration: underline;
-  }
-}
+//   &:hover,
+//   &:active {
+//     text-decoration: underline;
+//   }
+// }
 
 .full-width {
   width: 100%;
@@ -166,4 +235,12 @@ section {
 @import 'accordion';
 @import 'navigation';
 @import 'title';
+@import 'imageLine';
+@import 'people';
+@import 'peopleText';
+@import 'jumpRateTable';
+@import 'button';
+@import 'bar';
+@import 'footer';
+@import 'figure';
 @import 'skydiveSelector';

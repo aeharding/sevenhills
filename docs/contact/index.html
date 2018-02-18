@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Seven Hills Skydivers of Madison, WI</title>
+    <title>Contact - Seven Hills Skydivers of Madison, WI</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="index, follow">
@@ -19,6 +19,9 @@
     <!-- JS -->
     <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
     
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.6.3/js/jquery.justifiedGallery.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.6.3/css/justifiedGallery.min.css" rel="stylesheet" type="text/css">
+    
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -33,48 +36,161 @@
     <div class="header-wrapper">
       <header>      
         <div class="title">
-          <h1><a href="../">Seven Hills Skydivers</a></h1>
-          <aside>Since 1962 | Madison, WI</aside>
+          <div>
+            <h1><a href="../">Seven Hills Skydivers</a></h1>
+            <aside>Since 1962 | Madison, WI</aside>
+          </div>
+        
+          <i class="fa fa-bars open-menu"></i>
         </div>
-        <div class="navigation">
-          <a href="../welcome"
-             class="">About us</a>
-          <a href="../instructor-aided-deployment"
-             class="">Solo Skydive</a>
-          <a href="../tandem"
-             class="">Tandem</a>
-          <a href="../prices"
-             class="">Prices</a>
-          <a href="../contact"
-             class="active">Contact us</a>
-        </div>      </header>
+
+        <ul id="bar">
+          <li class="menu menu-hover">
+            <a href="#">About us <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+            <ul class="submenu">
+              <li><a class="" href="../about-us">Why jump with us?</a></li>
+              <li><a class="active" href="../contact">Contact us</a></li>
+              <li><a class="" href="../location">Location</a></li>
+              <li><a class="" href="../who-we-are">Who we are</a></li>
+              <li><a class="" href="../events">Upcoming events</a></li>
+              <li><a class="" href="../photos-and-videos">Photos/Videos</a></li>
+              <!-- <li><a class="" href="../our-history">Our history</a></li> -->
+              <li><a class="" href="../our-facilities">Facilities</a></li>
+            </ul>
+          </li>
+          <li class="menu menu-hover">
+            <a href="#">First Jump <i class="fa fa-caret-down" aria-hidden="true"></i>
+        </a>
+            <ul class="submenu">
+              <li><a class="" href="../tandem">Tandem skydive</a></li>
+              <li><a class="" href="../instructor-assisted-deployment">Solo skydive</a></li>
+            </ul>
+          </li>
+          <li class="menu menu-hover">
+            <a href="#">Learn <i class="fa fa-caret-down" aria-hidden="true"></i>
+        </a>
+            <ul class="submenu">
+              <li><a class="" href="../become-a-licensed-skydiver">Become a licensed skydiver</a></li>
+              <li><a class="" href="../student-resources">Resources for students</a></li>
+              <li><a class="" href="../solo-rates">Rates</a></li>
+              <li><a class="" href="../frequently-asked-questions">FAQs</a></li>
+              <li><a class="" href="../skydiving-history">Skydiving history</a></li>
+              <li><a class="" href="../skydiving-terms">Skydiving terms</a></li>
+            </ul>
+          </li>
+          <li class="menu menu-hover"><a class="" href="../experienced">Experienced</a></li>
+          <li class="menu menu-hover">
+            <a href="#">Pricing <i class="fa fa-caret-down" aria-hidden="true"></i>
+        </a>
+            <ul class="submenu">
+              <li><a class="" href="../prices">Pricing</a></li>
+              <li><a class="" href="../specials">Current specials</a></li>
+              <li><a class="" href="../packages">Solo skydive packages</a></li>
+            </ul>
+          </li>
+          <li class="menu menu-hover"><a class="" href="../book-now">Book Now</a></li>
+        </ul>
+        
+        <div class="bar-backdrop"></div>
+        
+        <script>
+        $('html').removeClass('no-js');
+        
+        $('.open-menu').on('click', function (e) {
+          $('#bar').toggleClass('bar-active');
+        });
+        
+        $('.bar-backdrop').on('click', function (e) {
+          $('#bar').removeClass('bar-active');
+        });
+        
+        $('.menu-hover > a').on('click', function (e) {
+          var el = $(this);
+        
+          if ($(window).width() <= 720) {
+        
+            // Show submenu
+            el.parent().toggleClass('menu-active');
+          }
+        
+          if (el.attr('href') === '#') {
+            e.preventDefault();
+          }
+          
+          // Hide other submenus
+          // el.parent().siblings('.menu-hover.menu-active').removeClass('menu-active');
+        });
+        
+        console.log('Twenty years from now you will be more disappointed by the things that you didn\'t do than by the ones you did do. Some throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover. - Mark Twain');
+        </script>
+      </header>
     </div>
 
     <!-- <h1>Contact</h1> -->
 
     <main>
       <div class="navigation__call">
-        Call Now! (608) 244-5252
+        Questions? Give us a call (608) 244-5252
       </div>
-      <div><p>Feel free to reach out to us with any questions you have.</p>
-<h4 id="phone">Phone</h4>
-<p>(608) 244-5252 <em>(for scheduling)</em></p>
-<p>(920) 623-2838 <em>(dropzone phone)</em></p>
-<h4 id="email">Email</h4>
-<p>jump@sevenhillsskydivers.org</p>
-<h4 id="links">Links</h4>
-<ol>
-<li>Facebook <a href="https://www.facebook.com/Seven.Hills.Skydivers/">Seven.Hills.Skydivers</a></li>
-<li><a href="http://thinfi.com/yyg">Members area</a></li>
-</ol>
-<h4 id="address">Address</h4>
+      <div><h2 id="contact-us">Contact us</h2>
+<p>Feel free to reach out to us with any questions you have, we&#39;d love to answer any questions you may have. Our phone scheduler is also a skydive instructor and can answer any specific questions you have about your skydive experience.</p>
+<h3 id="phone">Phone</h3>
+<p>If you want to <strong>schedule a skydive</strong> or ask us a question, call <strong>(608) 244 - 5252</strong>.</p>
+<p>If you want to <strong>reach the dropzone</strong> during jump operations, call <strong>(920) 623 - 2838</strong>.</p>
+<h3 id="email">Email</h3>
+<p>You can send us an email at any time and we will get back to you as soon as we can. Our email address for general inquiries is <a href="mailto:jump@sevenhillsskydivers.org">jump@sevenhillsskydivers.org</a>.</p>
+<h3 id="hours-of-operation">Hours of Operation</h3>
+<p>You can call our scheduler 8am - 10pm, seven days a week.</p>
+<p>Our dropzone is generally open to students <strong>late-April</strong> through <strong>October</strong>.</p>
+<p>Experienced jumpers: We have limited jumping year-round. Please <a href="../experienced">read this</a> and call before coming out.</p>
+<ul>
+<li><strong>Weekends</strong>, <strong>9am - 8:30pm</strong></li>
+<li><strong>Wednesday evenings</strong> (for continuing solo students and experienced jumpers), 3pm-8:30pm</li>
+<li><strong>Friday evenings</strong> <em>(Occasionally)</em> During the summer for experienced jumpers and continuing solo students</li>
+</ul>
+<h3 id="facebook">Facebook</h3>
+<p>You can reach out to us on Facebook by sending us a message. <a href="https://www.facebook.com/Seven.Hills.Skydivers/">Click here</a> to go to our Facebook page.</p>
+<h3 id="our-location">Our Location</h3>
 <p>7530 State Highway 73<br>
 York Center, WI</p>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2905.553065658285!2d-89.07006538475002!3d43.26078787913667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88068c905a73806f%3A0x23161a6f3ddc1fe9!2sSeven+Hills+Skydivers+Inc!5e0!3m2!1sen!2sus!4v1458674716300" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d374279.5091384703!2d-89.4506881!3d42.8716059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88068c905a73806f%3A0x23161a6f3ddc1fe9!2sSkydive+Madison-+Seven+Hills+Skydivers+Inc!5e0!3m2!1sen!2sus!4v1518891262921" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<h3 id="seven-hills-members">Seven Hills Members</h3>
+<p><em>This link is for Seven Hills Skydiver members. Thanks!</em></p>
+<p><a href="http://thinfi.com/yyg">Members area</a></p>
 </div>
-      <div class="navigation__call">
-        Call Now! (608) 244-5252
-      </div>
     </main>
+
+    <div class="navigation__call">
+      Questions? Give us a call (608) 244-5252
+    </div>
+
+    <div class="footer-wrapper">
+      <footer>
+        <div class="footer__details-col">
+        	<div class="footer__business-name">Seven Hills Skydivers of Madison, WI</div>
+        
+        	<div class="footer__address">
+        		7530 State Highway 73<br>
+        		York Center, WI<br>
+        		(608) 244 - 5252
+        	</div>
+        </div>
+        <div class="footer__quick-links-col">
+        	<a href="../about-us">Why jump with us?</a>
+        	<a href="../tandem">Tandem</a>
+        	<a href="../instructor-assisted-deployment">Solo</a>
+        	<a href="../events">Events</a>
+        	<a href="../become-a-licensed-skydiver">Become a licensed skydiver</a>
+        	<a href="../prices">Pricing</a>
+        </div>
+        <div class="footer__cities-col">
+        	<a href="../city/skydiving-appleton-wi">Skydiving Appleton</a>
+        	<a href="../city/skydiving-janesville-wi">Skydiving Janesville</a>
+        	<a href="../city/skydiving-la-crosse-wi">Skydiving La Crosse</a>
+        	<a href="../city/skydiving-milwaukee">Skydiving Milwaukee</a>
+        	<a href="../city/skydiving-wisconsin-dells">Skydiving Wisconsin Dells</a>
+        </div>      </footer>
+    </div>
   </body>
 </html>

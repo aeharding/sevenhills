@@ -1,8 +1,12 @@
 ---
 pageTitle: Frequently Asked Questions
-date: 2012-09-28
+date: 2018-02-16
 layout: page.html
+nav:
+  frequentlyAskedQuestions: true
 ---
+
+## Frequently asked questions
 
 <dl class="accordion">
 
@@ -30,18 +34,17 @@ Tandem: An hour of instruction, 30 second free fall, you jump with an instructor
 <dd><p>Yes, a $100 NON REFUNDABLE deposit is required to schedule a skydive. This deposit is not refundable unless you cancel 10 days prior to your jump.  It can be rescheduled.</p></dd>
 
 <dt><a href="">Who do I call to sign up?</a></dt>
-<dd><p>To sign up for a class or to schedule a tandem jump, call us at (608) 244-5252. You will talk to a real person most of the time. We are generally available to take your call seven days a week and all daylong. At times, you will get voice mail if we are unavailable, please leave a message and we will do our best to return your call in a timely manner.
-Go to our Sign-Up page.</p></dd>
+<dd><p>To sign up for a class or to schedule a tandem jump, call us at (608) 244-5252. You will talk to a real person most of the time. We are generally available to take your call seven days a week all day long. At times, you will get voice mail if we are unavailable.  Please leave a message and we will do our best to return your call in a timely manner.</p></dd>
 
 <dt><a href="">Do you have GIFT CERTIFICATES available?</a></dt>
 <dd><p>Yes, we offer gift certificates! Call our scheduling phone.</p></dd>
 
 <dt><a href="">What do I need to bring or wear for my first jump?</a></dt>
 <dd><p>You must bring an ID that has your photo and your birthdate on it, like a driver's license.  Wear tennis shoes, not sandals and not boots.  Make sure your clothing is comfortable, and when in doubt, bring extra.  If you are making a jump in the cold weather, it is best to wear multiple layers of thinner clothing, instead of one layer of bulky clothing.</p>
-<p>Our training room and airplane are heated, but your jump will obviously be outside.  We provide jumpsuits and gloves, although you may want to bring your own gloves for comfort.  Any other time of year, just dress for what you are comfortable wearing outside for that particular temperature.</p></dd>
+<p>Our training room and airplane are heated, but your jump will obviously be outside.  We provide jumpsuits.  Any other time of year, just dress for what you are comfortable wearing outside for that particular temperature.</p></dd>
 
-<dt><a href="">Do you have any weigh limits?</a></dt>
-<dd><p>IAD weight limit is 220 pounds.  Tandem limits are 220 pounds, NO Exceptions. The safety of you and our staff is our number one concern.  We weigh EVERYONE.  We WILL weigh you.   A good resource for this question or for other further research would be United States Parachute Association, at www.uspa.org.</p></dd>
+<dt><a href="">Is there a weight limit?</a></dt>
+<dd><p>Our IAD weight limit is 220 pounds.  Our Tandem limit is 225 pounds, NO Exceptions. The safety of you and our staff is our number one concern.  We weigh EVERYONE.  We WILL weigh you.   A good resource for this question or for other further research would be United States Parachute Association, at www.uspa.org.</p></dd>
 
 <dt><a href="">What if I'm sixteen?  Can I have my parents sign for me?</a></dt>
 <dd><p>Sorry, but everyone who skydives signs a waiver, which is a legally binding contract, specifically a release of liability and assumption of risk agreement.   Minors are not allowed to enter into legal contracts regardless of who signs on their behalf.  Call us on your 18th birthday!  Everyone who skydives with us is required to bring identification with a photo and birthdate.  We WILL card you.</p></dd>
@@ -63,7 +66,7 @@ Go to our Sign-Up page.</p></dd>
 <dt><a href="">What will the skydive feel like?</a></dt>
 <dd><p>The sensation of freefall is more like flying than falling, and is intensely exciting and liberating. The canopy flight is peaceful and relaxing.</p></dd>
 
-<dt><a href="">How fast do you fall?</a></dt>
+<dt><a href="">How fast do you fall during freefall?</a></dt>
 <dd><p>The average human body falls approximately 120 miles per hour.</p></dd>
 
 <dt><a href="">What's the landing like?</a></dt>

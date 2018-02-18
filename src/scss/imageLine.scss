@@ -1,0 +1,18 @@
+.image-line {
+	display: flex;
+	margin-bottom: 1em;
+
+	img {
+		width: 100%;
+		height: auto;
+		vertical-align: middle;
+	}
+
+	> * {
+		min-width: 0;
+
+		&:not(:last-child) {
+			margin-right: 1em;
+		}
+	}
+}

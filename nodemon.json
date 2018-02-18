@@ -1,0 +1,6 @@
+{
+  "verbose": false,
+  "ignore": ["docs/*", "build/*"],
+  "exec": "npm run build",
+  "ext": "md,scss,html"
+}

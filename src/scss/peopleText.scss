@@ -1,0 +1,28 @@
+.people-text {
+  margin: 0 0 1em;
+  padding: 0;
+
+  text-align: center;
+}
+
+// https://gist.github.com/jamiewilson/aa98a81e0d0955fbf068
+$s-min: 80;
+$s-max: 100;
+$l-min: 10;
+$l-max: 60;
+
+.people-text__item {
+  display: inline-block;
+
+  margin: 0 10px;
+
+  @for $i from 1 through 60 {
+    &:nth-child(#{$i}) {
+      $color: hsl(random(360), $s-min+random($s-max+-$s-min),$l-min+random($l-max+-$l-min));
+  
+      color: $color;
+
+      filter: drop-shadow(0 0 20px rgba($color, 0.3));
+    }
+  }
+}

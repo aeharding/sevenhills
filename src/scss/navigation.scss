@@ -15,7 +15,7 @@ $opaque: rgba(255, 255, 255, 0.75);
     line-height: 1.5;
     margin: 0 1em;
     color: $opaque;
-  
+
     position: relative;
     width: 8em;
 
@@ -57,10 +57,14 @@ $opaque: rgba(255, 255, 255, 0.75);
 }
 
 .navigation__call {
-    font-size: 3em;
+    font-size: 2em;
     text-align: center;
     font-family: sans-serif;
     font-weight: 100;
     color: #d5473a;
     line-height: 2;
+
+    @media (max-width: 720px) {
+      font-size: 5vw;
+    }
 }
