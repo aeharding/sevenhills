@@ -1,0 +1,59 @@
+.footer-wrapper {
+  background: linear-gradient(to left, #7BD53A, #62b527);
+  color: white;
+}
+
+footer {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1em 0;
+  display: flex;
+}
+
+footer::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+.footer__details-col {
+  flex: 1;
+  align-self: center;
+  text-align: center;
+}
+
+.footer__cities-col,
+.footer__quick-links-col {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 720px) {
+  .footer__cities-col,
+  .footer__quick-links-col {
+    display: none;
+  }
+}
+
+.footer__cities-col a,
+.footer__quick-links-col a {
+  margin: 5px 1em;
+}
+
+.footer__business-name {
+  font-size: 1.2em;
+  margin-bottom: 1em;
+}
+
+.footer__address {
+  font-size: 0.9em;
+}

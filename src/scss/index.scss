@@ -10,6 +10,15 @@ body {
   margin: 0;
   line-height: 1.6;
   color: #566b78;
+
+  // sticky footer
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1; // sticky footer
 }
 
 h1,
@@ -232,5 +241,6 @@ section {
 @import 'jumpRateTable';
 @import 'button';
 @import 'bar';
+@import 'footer';
 @import 'figure';
 @import 'skydiveSelector';

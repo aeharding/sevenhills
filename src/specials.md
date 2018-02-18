@@ -2,6 +2,8 @@
 pageTitle: Specials
 date: 2018-02-15
 layout: page.html
+nav:
+  specials: true
 ---
 
 ## Special offers 💰🎟
@@ -10,4 +12,4 @@ We currently don't have any special offers! Please check back regularly. That be
 
 > I want a sweet deal<br>
 > To skydive at Seven Hills<br>
-> Not this lame hauki
+> Not this lame haiku

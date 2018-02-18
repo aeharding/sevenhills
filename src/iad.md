@@ -1,14 +1,14 @@
 ---
-pageTitle: Instructor Aided Deployment
+pageTitle: Instructor Assisted Deployment
 date: 2018-02-16
 layout: page.html
 nav:
-  iad: true
+  instructorAssistedDeployment: true
 ---
 
 <img src="../img/iad.jpg" alt="IAD example" class="full-width">
 
-__Instructor Assisted Deployment__ (IAD) is a __Solo__ training method that opens your parachute almost immediately upon leaving the aircraft _(about 3-4 seconds of freefall)_. You are never attached to the plane _(like static-line)_ and the deployment sequence is identical to the way experienced skydivers open their own parachutes. This thrilling, solo, __'do it by yourself'__ method is also a way to train to [become a licensed skydiver](../become-a-licensed-skydiver). Well over half of our students choose the IAD jump, __even if they want to only jump once__.
+__Instructor Assisted Deployment__ (IAD) is a __Solo__ training method that opens your parachute almost immediately upon leaving the aircraft _(about 3-4 seconds of freefall)_. You are never attached to the plane _(unlike static-line)_ and the deployment sequence is identical to the way experienced skydivers open their own parachutes. This thrilling, solo, __'do it by yourself'__ method is also a way to train to [become a licensed skydiver](../become-a-licensed-skydiver). Well over half of our students choose the IAD jump, __even if they want to only jump once__.
 
 Classes are held on various Saturdays (reservations required), __late-April__ through __early-October__. The class starts at __8 a.m.__, __rain or shine__. You'll be jumping in the afternoon _(from 4000 feet!)_, weather permitting, so __plan on spending the whole day__. Radio contact assists you in landing your parachute safely _(about 4-6 minute canopy ride)_. GoPro video footage of your exit is available for purchase so that you can remember your jump for years to come. Train and jump on the same day.
 
@@ -17,7 +17,7 @@ Classes are held on various Saturdays (reservations required), __late-April__ th
   * At least __18__ years old
   * __Want to have fun__
   * Be in good health
-  * IAD limits are __220 pounds__.
+  * IAD weight limit is __220 pounds__.
   * Please __refrain from alcohol__ for at least 12 hours before the course.
   * Wear __comfortable clothing and sneakers__.
   * You must bring a __valid government issued ID__ (Drivers License, State ID, passport).

@@ -2,6 +2,8 @@
 pageTitle: Events
 date: 2018-02-15
 layout: page.html
+nav:
+  events: true
 ---
 
 ## Upcoming events 🗓

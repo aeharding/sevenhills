@@ -2,11 +2,13 @@
 pageTitle: Packages
 date: 2018-02-15
 layout: page.html
+nav:
+  packages: true
 ---
 
 ## Solo skydiving packages
 
-If you're interested in becoming a licensed skydiver, we offer packages to get you from no experience to a certain milestone. See below for more:
+If you're interested in [becoming a licensed skydiver](../become-a-licensed-skydiver), we offer packages to pay up front to save on the price per jump. We also offer [purchasing each jump separately](../solo-rates). See below for our package offers:
 
 ###  Get your Skydiving "A" Licence Package
 

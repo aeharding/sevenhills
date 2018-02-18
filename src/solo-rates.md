@@ -2,13 +2,15 @@
 pageTitle: Solo rates
 date: 2018-02-16
 layout: page.html
+nav:
+  soloRates: true
 ---
 
 ## Solo (IAD) Skydive rates to get your "A" license
 
-One of the benefits of the [IAD](../instructor-aided-deployment) instructional method for obtaining an "A" license is how __cost effective__ it is, especially as you're first starting out. Because your first six jumps are done at a lower altitude, the plane consumes less fuel and runs for shorter times which allows us to pass the savings on to you. This allows you to get a feel for the sport without spending a lot of money relative to other methods.
+One of the benefits of the [IAD](../instructor-assisted-deployment) instructional method for obtaining an "A" license is how __cost effective__ it is, especially as you're first starting out. Because your first six jumps are done at a lower altitude, the plane consumes less fuel and runs for shorter times which allows us to pass the savings on to you. This allows you to get a feel for the sport without spending a lot of money compared to other methods.
 
-The [IAD training method](../instructor-aided-deployment) is a __unique__, __special__, __proven__ and __very effective__ method that's not taught at many dropzones. It's an __excellent__ way to get your "A" license and begin your skydiving career! To learn more about becoming a licensed skydiver, [click here](../become-a-licensed-skydiver).
+The [IAD training method](../instructor-assisted-deployment) is a __unique__, __special__, __proven__ and __very effective__ method that's not taught at many dropzones. It's an __excellent__ way to get your "A" license and begin your skydiving career! To learn more about becoming a licensed skydiver, [click here](../become-a-licensed-skydiver).
 
 ## Package rates
 
@@ -20,7 +22,7 @@ If you're sure you want to get your "A" license, we offer packages to save signi
 [Click here](../packages) to learn more about our package rates.
 
 ## Example pay-as-you-go rates
-Below is a sample of our rates for the minimum amount of jumps required to get your "A" license. Please remember that __these rates are if you purchase each jump separately__. [We offer packages](../packages) for a lower per-jump cost.
+Below is a sample of our rates for the minimum amount of jumps required to get your "A" license. Please remember that __these rates apply if you purchase each jump separately__. [We offer packages](../packages) for a lower per-jump cost.
 
 <table class="jump-rate-table">
 <thead>
@@ -159,6 +161,6 @@ Below is a sample of our rates for the minimum amount of jumps required to get y
 </tbody>
 </table>
 
-Please note that the above rates are if you buy each jump separately (which would end up totalling $2425). __However, you can save significantly__ [by purchasing a package](../packages).
+Please note that the above rates apply if you buy each jump separately (which would end up totalling $2425). __However, you can save significantly__ [by purchasing a package](../packages).
 
-__Note:__ The above table is an example of costs to get your "A" license. Various factors, such as long breaks in training, can require repeat jumps.
+__Note:__ The above table is an example of estimated costs to get your "A" license. Various factors, such as long breaks in training, can require repeat jumps.

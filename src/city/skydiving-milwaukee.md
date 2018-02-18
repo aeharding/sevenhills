@@ -8,13 +8,13 @@ rel: ../../
 
 ## Skydiving close to Milwaukee
 
-We're going to be honest. There's other dropzones close to Milwaukee. _Why would you want to go with Seven Hills?_ Well... Seven Hills offers a smaller dropzone atmosphere that's __less busy__ and __less intimidating__. Seven Hills has a [beautiful grass runway](../../our-facilities) closely surrounded by corn and bean fields away from any busy highway. We urge you to not just skydive, but to come out and socialize, enjoy the outdoors, and watch the jumpers.
+We're going to be honest. There are other dropzones closer to Milwaukee. Seven Hills is just over an hour long drive from downtown. _Why would you want to go with Seven Hills?_ Well... Seven Hills offers a smaller dropzone atmosphere that's __less busy__ and __less intimidating__. Seven Hills has a [beautiful grass runway](../../our-facilities) closely surrounded by corn and bean fields away from any busy highway. We urge you to not just skydive, but to come out and socialize, enjoy the outdoors, and watch the jumpers.
 
-[Our instructors](../../who-we-are) are __extremely qualified__, with thousands of jumps and some holding world records, and are volunteers in it because they're passionate about the sport. We have an __excellent safety culture__, and our safety record is __second to none__. Seven Hills is a 501(c)(3) nonprofit, volunteer owned and operated dropzone in business for over __60 years__. [Click here](../../about-us) to learn more about us.
+[Our instructors](../../who-we-are) are __extremely qualified__, including some with thousands of jumps holding __world records__. All instructors are volunteers in it because they're passionate about the sport. We have an __excellent safety culture__, and our safety record is __second to none__. Seven Hills is a 501(c)(3) nonprofit, volunteer owned and operated dropzone in business for over __60 years__. [Click here](../../about-us) to learn more about us.
 
 For our [tandem skydives](../../tandem), our instructors take as much time as needed to make sure that you're comfortable, confident and ready to experience this unique, breathtaking sport.
 
-If you want to do a [solo skydive](../../instructor-aided-deployment), our program teaches a __unique__ and __special__ method called __instructor aided deployment (IAD)__. It's an excellent, safe, and proven method to begin your skydiving career that's also very cost effective relative to other methods.
+If you want to do a [solo skydive](../../instructor-assisted-deployment), our program teaches a __unique__ and __special__ method called __Instructor Assisted Deployment (IAD)__. It's an excellent, safe, and proven method to begin your skydiving career that's also very cost effective relative to other methods.
 
 If you're ready to continue (or just want to chat on the phone), [click here to book your skydive](../../book-now). Please feel free to browse the rest of the site to learn more about us.
 

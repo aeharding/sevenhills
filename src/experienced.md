@@ -3,6 +3,8 @@ pageTitle: Experienced
 date: 2018-02-15
 layout: page.html
 disableCall: true
+nav:
+  experienced: true
 ---
 
 ## Experienced jumpers 😎
@@ -46,5 +48,5 @@ You can find our experienced jump prices [here](../prices).
 </div>
 
 <div class="image-line">
-  <div><img src="../img/experienced-landing.jpg" alt="Sliding landing!"></div>
+  <div><img src="../img/canopy-throw.jpg" alt="Throwing canopies in the air"></div>
 </div>

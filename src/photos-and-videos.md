@@ -2,6 +2,8 @@
 pageTitle: Photos and Videos
 date: 2018-02-15
 layout: page.html
+nav:
+  photosAndVideos: true
 ---
 
 ## Photos

@@ -2,6 +2,8 @@
 pageTitle: Skydiving History
 date: 2018-02-15
 layout: page.html
+nav:
+  skydivingHistory: true
 ---
 
 ## A brief history of skydiving

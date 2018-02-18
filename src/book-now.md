@@ -3,6 +3,8 @@ pageTitle: Book Now
 date: 2018-02-15
 layout: page.html
 disableTopCall: true
+nav:
+  bookNow: true
 ---
 
 ## Ready to take the leap?
@@ -11,7 +13,7 @@ You can book your skydive, get information, and much more by calling our schedul
 
 __To book, call us at (608) 244 - 5252.__
 
-<img src="../img/tandem-leap.jpg" alt="Tandem exit" class="full-width">
+<img src="../img/inside-canopy.jpg" alt="Inside canopy" class="full-width">
 
 ## Weather Policy
 

@@ -44,64 +44,51 @@
           <i class="fa fa-bars open-menu"></i>
         </div>
 
-        <!-- <div class="navigation">
-          <a href="../about-us"
-             class="">About us</a>
-          <a href="../instructor-aided-deployment"
-             class="">Solo Skydive</a>
-          <a href="../tandem"
-             class="">Tandem</a>
-          <a href="../prices"
-             class="">Prices</a>
-          <a href="../contact"
-             class="">Contact us</a>
-        </div> -->
-        
         <ul id="bar">
           <li class="menu menu-hover">
             <a href="#">About us <i class="fa fa-caret-down" aria-hidden="true"></i></a>
             <ul class="submenu">
-              <li><a href="../about-us">Why jump with us?</a></li>
-              <li><a href="../contact">Contact us</a></li>
-              <li><a href="../location">Location</a></li>
-              <li><a href="../who-we-are">Who we are</a></li>
-              <li><a href="../events">Upcoming events</a></li>
-              <li><a href="../photos-and-videos">Photos/Videos</a></li>
-              <!-- <li><a href="../our-history">Our history</a></li> -->
-              <li><a href="../our-facilities">Facilities</a></li>
+              <li><a class="" href="../about-us">Why jump with us?</a></li>
+              <li><a class="" href="../contact">Contact us</a></li>
+              <li><a class="" href="../location">Location</a></li>
+              <li><a class="active" href="../who-we-are">Who we are</a></li>
+              <li><a class="" href="../events">Upcoming events</a></li>
+              <li><a class="" href="../photos-and-videos">Photos/Videos</a></li>
+              <!-- <li><a class="" href="../our-history">Our history</a></li> -->
+              <li><a class="" href="../our-facilities">Facilities</a></li>
             </ul>
           </li>
           <li class="menu menu-hover">
             <a href="#">First Jump <i class="fa fa-caret-down" aria-hidden="true"></i>
         </a>
             <ul class="submenu">
-              <li><a href="../tandem">Tandem skydive</a></li>
-              <li><a href="../instructor-aided-deployment">Solo skydive</a></li>
+              <li><a class="" href="../tandem">Tandem skydive</a></li>
+              <li><a class="" href="../instructor-assisted-deployment">Solo skydive</a></li>
             </ul>
           </li>
           <li class="menu menu-hover">
             <a href="#">Learn <i class="fa fa-caret-down" aria-hidden="true"></i>
         </a>
             <ul class="submenu">
-              <li><a href="../become-a-licensed-skydiver">Become a licensed skydiver</a></li>
-              <li><a href="../student-resources">Resources for students</a></li>
-              <li><a href="../solo-rates">Rates</a></li>
-              <li><a href="../frequently-asked-questions">FAQs</a></li>
-              <li><a href="../skydiving-history">Skydiving history</a></li>
-              <li><a href="../skydiving-terms">Skydiving terms</a></li>
+              <li><a class="" href="../become-a-licensed-skydiver">Become a licensed skydiver</a></li>
+              <li><a class="" href="../student-resources">Resources for students</a></li>
+              <li><a class="" href="../solo-rates">Rates</a></li>
+              <li><a class="" href="../frequently-asked-questions">FAQs</a></li>
+              <li><a class="" href="../skydiving-history">Skydiving history</a></li>
+              <li><a class="" href="../skydiving-terms">Skydiving terms</a></li>
             </ul>
           </li>
-          <li class="menu menu-hover"><a href="../experienced">Experienced</a></li>
+          <li class="menu menu-hover"><a class="" href="../experienced">Experienced</a></li>
           <li class="menu menu-hover">
             <a href="#">Pricing <i class="fa fa-caret-down" aria-hidden="true"></i>
         </a>
             <ul class="submenu">
-              <li><a href="../prices">Pricing</a></li>
-              <li><a href="../specials">Current specials</a></li>
-              <li><a href="../packages">Solo skydive packages</a></li>
+              <li><a class="" href="../prices">Pricing</a></li>
+              <li><a class="" href="../specials">Current specials</a></li>
+              <li><a class="" href="../packages">Solo skydive packages</a></li>
             </ul>
           </li>
-          <li class="menu menu-hover"><a href="../book-now">Book Now</a></li>
+          <li class="menu menu-hover"><a class="" href="../book-now">Book Now</a></li>
         </ul>
         
         <div class="bar-backdrop"></div>
@@ -129,11 +116,12 @@
           if (el.attr('href') === '#') {
             e.preventDefault();
           }
-        
           
           // Hide other submenus
           // el.parent().siblings('.menu-hover.menu-active').removeClass('menu-active');
         });
+        
+        console.log('Twenty years from now you will be more disappointed by the things that you didn\'t do than by the ones you did do. Some throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover. - Mark Twain');
         </script>
       </header>
     </div>
@@ -145,7 +133,8 @@
         Questions? Give us a call (608) 244-5252
       </div>
       <div><h2 id="who-we-are">Who we are</h2>
-<p>At Seven Hills, not only do we have state-of-the-art, well maintained skydiving equipment, but we have extremely well qualified instructors and coaches that put safety above all else. Don&#39;t take our word for it: We have been in business <a href="../about-us">for over 60 years</a> with a consistent safety record. <strong>At Seven Hills, <em>you&#39;re in the best hands</em>.</strong></p>
+<p>At Seven Hills, not only do we have state-of-the-art, well maintained skydiving equipment, but we have extremely well qualified instructors and coaches that put safety above all else. Don&#39;t take our word for it: We have been in business <a href="../about-us">for over 60 years</a> with a consistent safety record.</p>
+<p>Our instructional staff includes skydivers with <strong>thousands of jumps</strong> holding <strong>multiple world records</strong> with <strong>decades</strong> of experience. <strong>At Seven Hills, <em>you&#39;re in the best hands</em>.</strong></p>
 <h2 id="our-instructors-and-coaches">Our instructors and coaches</h2>
 <ul class="people">
     <li class="people__item">
@@ -254,10 +243,43 @@
     <li class="people-text__item">Sumanth Viswanatha</li>
     <li class="people-text__item">Victoria Homner</li>
 </ul>
+
+<p><br></p>
+<p><img src="../img/boogie.jpg" alt="2012 Boogie" class="full-width"></p>
+<p><img src="../img/some-members.jpg" alt="Some members" class="full-width"></p>
 </div>
-      <div class="navigation__call">
-        Questions? Give us a call (608) 244-5252
-      </div>
     </main>
+
+    <div class="navigation__call">
+      Questions? Give us a call (608) 244-5252
+    </div>
+
+    <div class="footer-wrapper">
+      <footer>
+        <div class="footer__details-col">
+        	<div class="footer__business-name">Seven Hills Skydivers of Madison, WI</div>
+        
+        	<div class="footer__address">
+        		7530 State Highway 73<br>
+        		York Center, WI<br>
+        		(608) 244 - 5252
+        	</div>
+        </div>
+        <div class="footer__quick-links-col">
+        	<a href="../about-us">Why jump with us?</a>
+        	<a href="../tandem">Tandem</a>
+        	<a href="../instructor-assisted-deployment">Solo</a>
+        	<a href="../events">Events</a>
+        	<a href="../become-a-licensed-skydiver">Become a licensed skydiver</a>
+        	<a href="../prices">Pricing</a>
+        </div>
+        <div class="footer__cities-col">
+        	<a href="../city/skydiving-appleton-wi">Skydiving Appleton</a>
+        	<a href="../city/skydiving-janesville-wi">Skydiving Janesville</a>
+        	<a href="../city/skydiving-la-crosse-wi">Skydiving La Crosse</a>
+        	<a href="../city/skydiving-milwaukee">Skydiving Milwaukee</a>
+        	<a href="../city/skydiving-wisconsin-dells">Skydiving Wisconsin Dells</a>
+        </div>      </footer>
+    </div>
   </body>
 </html>

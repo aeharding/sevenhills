@@ -3,6 +3,8 @@ pageTitle: Student Resources
 date: 2018-02-15
 layout: page.html
 disableCall: true
+nav:
+  studentResources: true
 ---
 
 ## Resources for continuing IAD students 📚

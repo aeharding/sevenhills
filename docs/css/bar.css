@@ -58,7 +58,6 @@
   margin-right: 0;
   padding: 15px 0;
   text-decoration: none;
-  -webkit-transition: all 0.25s;
   color: #3a7bd5;
 }
 
@@ -170,4 +169,12 @@
 .menu-right .submenu::before {
   left: auto;
   right: 24px;
+}
+
+#bar a.active {
+  font-weight: 800;
+}
+
+#bar .submenu a.active {
+  color: black;
 }

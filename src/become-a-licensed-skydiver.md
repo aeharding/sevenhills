@@ -2,15 +2,23 @@
 pageTitle: Become a licensed skydiver
 date: 2018-02-15
 layout: page.html
+nav:
+  becomeALicensedSkydiver: true
 ---
 
 ## Become a licensed skydiver! 😲
 
 Making your first skydive is a life-changing experience. Chances are, if you're here, then you're asking yourself _"But what now?!"_ Well, Seven Hills has you covered!<img src="../img/a-stamp.png" style="float:right" alt="USPA A license stamp"> We offer a __comprehensive__, __affordable__ student program to get you all the way to your A-License. An A-License will grant you the freedom to jump _anywhere in the world!_ 🌎
 
+You will quickly become a part of our skydive family in an open, friendly, and approachable environment where __safety is the highest priority__.
+
+We have [highly qualified instructors and coaches](../../who-we-are), and we will equip you with state-of-the-art, comfortable, and safe skydiving gear with [Aerodyne](https://www.flyaerodyne.com/icons/icon-student/) containers and [Performance Designs](http://www.performancedesigns.com/products/navigator/) canopies, leading manufacturers in the industry. Our Aerodyne skydive containers are all fitted with __Skyhooks__, a proven safety feature that not all dropzones offer.
+
+Once you complete the first jump course, your jumps to get your "A" license will be one-on-one with an instructor or coach.
+
 ## The IAD Student Program
 
-We follow the [IAD student progression](../instructor-aided-deployment) for training students (at Seven Hills, it's also called the ["solo" progression](../instructor-aided-deployment)). This is an "ease you into it" type of progression, meaning you start at lower altitudes while you practice deploying your parachute. Once you demonstrate that you can deploy your own parachute safely, then we work our way up to __10,000 feet__ where you will learn freefall maneuvers like __turns__, __flips__, __barrel-rolls__, and __formation skydiving__.
+We follow the [IAD student progression](../instructor-assisted-deployment) for training students (at Seven Hills, it's also called the ["solo" progression](../instructor-assisted-deployment)). This is an "ease you into it" type of progression, meaning you start at lower altitudes while you practice deploying your parachute. Once you demonstrate that you can deploy your own parachute safely, then we work our way up to __10,000 feet__ where you will learn freefall maneuvers like __turns__, __flips__, __barrel-rolls__, and __formation skydiving__.
 
 ## The Jumps
 
@@ -27,7 +35,7 @@ Below is a summary of the skydives you can expect on your way to earning your "A
 
 ## Take your first jump
 
-It seems like a lot - but don't worry! We will walk you through each jump, starting at #1, at your own pace. If you're interested in becoming a licensed skydiver and are interested in your first solo skydive, check out the first jump page [here](../instructor-aided-deployment). You can also call us with any questions at (608) 244 - 5252.
+It seems like a lot - but don't worry! We will walk you through each jump, starting at #1, __at your own pace__. If you're interested in becoming a licensed skydiver and are interested in your first solo skydive, check out the first jump page [here](../instructor-assisted-deployment). You can also call us with any questions at (608) 244 - 5252.
 
 ## Beyond the A-license
 
@@ -42,4 +50,16 @@ Below are a few pictures of Rebecca &mdash; a student that has recently graduate
 <div class="image-line">
   <div><img src="../img/reba-logbook.jpg" alt="Reba logbook"></div>
   <div><img src="../img/reba-stamp.jpg" alt="Reba stamped"></div>
+</div>
+
+<div class="image-line">
+  <div><img src="../img/dustin-a-license.jpg" alt="Reba check dive"></div>
+</div>
+
+<div class="image-line">
+  <div><img src="../img/suman-a-license.jpg" alt="Reba check dive"></div>
+</div>
+
+<div class="image-line">
+  <div><img src="../img/jake-a-license.jpg" alt="Reba check dive"></div>
 </div>

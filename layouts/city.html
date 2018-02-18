@@ -34,11 +34,18 @@
       {{/unless}}
       {{/unless}}
       <div>{{{ contents }}}</div>
-      {{#unless disableCall}}
-      <div class="navigation__call">
-        Questions? Give us a call (608) 244-5252
-      </div>
-      {{/unless}}
     </main>
+
+    {{#unless disableCall}}
+    <div class="navigation__call">
+      Questions? Give us a call (608) 244-5252
+    </div>
+    {{/unless}}
+
+    <div class="footer-wrapper">
+      <footer>
+        {{> footer rel='../../'}}
+      </footer>
+    </div>
   </body>
 </html>

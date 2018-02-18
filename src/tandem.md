@@ -20,7 +20,7 @@ Classes are held most weekends, __late-April__ through __October__. For more fun
   * At least __18__ years old
   * __Want to have fun__
   * Be in good health
-  * Tandem limits are __225 pounds__.
+  * Tandem weight limit is __225 pounds__.
   * Please __refrain from alcohol__ for at least 12 hours before the course.
   * Wear __comfortable clothing and sneakers__.
   * You must bring a __valid government issued ID__ (Drivers License, State ID, passport).
@@ -32,7 +32,7 @@ Tandem jumps are __$215__ for your training and jump. We also have video package
 
 We also offer gift certificates!
 
-After completing your Seven Hills tandem skydive, we also offer a $25 discount to schedule a [solo](../instructor-aided-deployment) jump. (Discount only available if solo jump purchased the same day of your tandem jump.)
+After completing your Seven Hills tandem skydive, we also offer a $25 discount to schedule a [solo](../instructor-assisted-deployment) jump. (Discount only available if solo jump purchased the same day of your tandem jump.)
 
 See [our complete list of prices](../prices#tandem-pricing) for more detailed information, and call us with any questions you have (608) 244-5252.
 

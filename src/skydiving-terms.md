@@ -2,6 +2,8 @@
 pageTitle: Skydiving Terms
 date: 2018-02-15
 layout: page.html
+nav:
+  skydivingTerms: true
 ---
 
 ## Skydiving terms glossary
