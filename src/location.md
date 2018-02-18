@@ -23,9 +23,9 @@ Simply get on __East Washington__ going away from the Capitol, continue as it tu
 
 We're the __top skydive center__ for many other cities, as well! Check out the below links for how to get to Seven Hills Skydivers from your city.
 
- * [Directions from Appleton, WI](../city/skydiving-appleton-wi)
  * [Directions from Janesville, WI](../city/skydiving-janesville-wi)
  * [Directions from La Crosse, WI](../city/skydiving-la-crosse-wi)
+ * [Directions from Appleton, WI](../city/skydiving-appleton-wi)
  * [Directions from Milwaukee](../city/skydiving-milwaukee)
  * [Directions from Wisconsin Dells](../city/skydiving-wisconsin-dells)
 
