@@ -121,22 +121,22 @@ Below is a sample of our rates for the minimum amount of jumps required to get y
 <tr>
 <td>Jump 18</td>
 <td>Practice/makeup high jump (10,000 feet) #1</td>
-<td>$75</td>
+<td>$100</td>
 </tr>
 <tr>
 <td>Jump 19</td>
 <td>Practice/makeup high jump (10,000 feet) #2</td>
-<td>$75</td>
+<td>$100</td>
 </tr>
 <tr>
 <td>Jump 20</td>
 <td>Practice/makeup high jump (10,000 feet) #3</td>
-<td>$75</td>
+<td>$100</td>
 </tr>
 <tr>
 <td>Jump 21</td>
 <td>Practice/makeup high jump (10,000 feet) #4</td>
-<td>$75</td>
+<td>$100</td>
 </tr>
 <tr>
 <td>Jump 22</td>
