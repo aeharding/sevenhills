@@ -30,7 +30,7 @@ Classes are held on various Saturdays (reservations required), __late-April__ th
 
 Solo skydives start at ~~$150~~ __$125 <span style="color:#62b527">(Spring Special!)</span>__ for your first jump and training. You can purchase video of your skydive exit for an additional __$30__.
 
-Note: On sale due to our [Spring special](../specials).  price applies to classes taken in __April__ or __May__ of this year.
+Note: On sale due to our [Spring special](../specials).  price applies to classes taken in __May__ of this year.
 
 We also offer gift certificates! 🎁
 

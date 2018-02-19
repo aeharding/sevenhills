@@ -19,7 +19,7 @@ If you're looking to save on skydiving, you're on the right page!
 
 ### 2018 Solo Spring Special
 
-This deal is your chance to take your solo skydive at the __lowest price of the year - only $125!__ Book now to take the class in __April__ or __May__ to get this great price.
+This deal is your chance to take your solo skydive at the __lowest price of the year - only $125!__ Book now to take the class in __May__ to get this great price.
 
 Call (608) 244 - 5252 to sign up!
 
