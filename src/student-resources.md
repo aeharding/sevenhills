@@ -5,6 +5,7 @@ layout: page.html
 disableCall: true
 nav:
   studentResources: true
+description: Useful information and resources for continuing Instructor Assisted Deployment skydive students at Seven Hills.
 ---
 
 ## Resources for continuing IAD students 📚

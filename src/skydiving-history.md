@@ -4,6 +4,7 @@ date: 2018-02-15
 layout: page.html
 nav:
   skydivingHistory: true
+description: Parachuting or skydiving has an interesting history that can take up a whole volume, but this article will attempt to give a brief synopsis of that history. Most people consider skydiving a product of the twentieth century, but its history actually goes way further back than that.
 ---
 
 ## A brief history of skydiving

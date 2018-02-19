@@ -4,6 +4,7 @@ date: 2018-02-16
 layout: page.html
 nav:
   soloRates: true
+description: A list of our rates per jump to learn to skydive. We offer the IAD program which is a unique, proven, and cost effective way to obtain your A license.
 ---
 
 ## Solo (IAD) Skydive rates to get your "A" license

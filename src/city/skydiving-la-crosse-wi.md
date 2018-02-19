@@ -4,6 +4,7 @@ date: 2018-02-15
 layout: city.html
 collection: city
 rel: ../../
+description: Seven Hills offers tandem and solo skydiving close to La Crosse - an easy drive East on I-90. We're a nonprofit, member owned and operated dropzone in business for over 55 years.
 ---
 
 ## Skydiving close to La Crosse, WI

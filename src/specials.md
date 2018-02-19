@@ -4,6 +4,7 @@ date: 2018-02-15
 layout: page.html
 nav:
   specials: true
+description: Our current specials for skydiving at Seven Hills. Check back regularly as this page is updated with new offers.
 ---
 
 ## Special offers 💰🎟

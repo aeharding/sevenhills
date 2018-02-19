@@ -4,6 +4,7 @@ date: 2017-12-31
 layout: page.html
 nav:
   prices: true
+description: Curious how much it costs to skydive? Here is our complete list of prices for Seven Hills. Pricing for tandem skydiving, solo skydiving, video, experienced skydivers, and more.
 ---
 
 ## Our pricing

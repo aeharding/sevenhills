@@ -33,7 +33,7 @@ Classes are held most weekends, __late-April__ through __October__. For more fun
 
 Tandem jumps are __$215__ for your training and jump. We also have video packages available starting at __$60__. We also offer discount pricing for groups of 5+.
 
-We also offer gift certificates!
+We also offer gift certificates! 🎁
 
 After completing your Seven Hills tandem skydive, we also offer a $25 discount to schedule a [solo](../solo-skydiving-wisconsin) jump.
 

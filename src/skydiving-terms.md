@@ -4,6 +4,7 @@ date: 2018-02-15
 layout: page.html
 nav:
   skydivingTerms: true
+description: What does dropzone, A license, IAD, AGL, or BOC mean? This glossary lists much of the common skydiving terms and jargon.
 ---
 
 ## Skydiving terms glossary

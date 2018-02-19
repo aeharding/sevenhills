@@ -4,6 +4,7 @@ date: 2018-02-15
 layout: page.html
 nav:
   packages: true
+description: Are you interested in becoming a licensed skydiver? We offer solo skydiving packages to get your A license and save on the price per jump.
 ---
 
 ## Solo skydiving packages

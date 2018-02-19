@@ -4,6 +4,7 @@ date: 2018-02-16
 layout: page.html
 nav:
   aboutUs: true
+description: We are a not-for-profit, all volunteer, member owned and operated club around since 1962. Only 15 minutes outside of Madison. We're here to promote skydiving and introduce people to the sport by training students and performing demo jumps.
 ---
 
 ## The Seven Hills Difference<img src="../img/logo.jpg" alt="The Seven Hills Skydivers logo" style="float: right;width:200px">

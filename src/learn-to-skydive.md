@@ -11,7 +11,7 @@ description: Become a licensed skydiver! Are you up to the challenge? We offer a
 
 Skydiving can be a life-changing event, and it gets even better when you become a licensed skydiver! Are you up to the challenge? _Do you have what it takes?_ <img src="../img/a-stamp.png" style="float:right" alt="USPA A license stamp"> We offer a __comprehensive__, __affordable__ student program to obtain your A-License. An A-License will grant you the freedom to jump _anywhere in the world!_ 🌎
 
-During your training, you will quickly become a part of our skydive family in an open, friendly, and approachable environment where __safety is the highest priority__. You will work with instructors and coaches one-on-one with training tailored to you.
+During your training, you will quickly become a part of our skydive family in an open, friendly, and approachable environment where __safety is the highest priority__. You will work with instructors and coaches __one-on-one with training tailored to you__.
 
 Our [highly qualified instructors and coaches](../../who-we-are) will equip you with state-of-the-art, comfortable, and safe [Aerodyne](https://www.flyaerodyne.com/icons/icon-student/) containers and [Performance Designs](http://www.performancedesigns.com/products/navigator/) canopies, leading manufacturers in the industry.
 
@@ -23,7 +23,7 @@ It might not be easy, __but the journey will be worth it__.
 
 ## The IAD Student Program
 
-We follow the [IAD student progression](../solo-skydiving-wisconsin) for training students (at Seven Hills, it's also called the ["solo" progression](../solo-skydiving-wisconsin)). This is an "ease you into it" type of progression, meaning you start at lower altitudes while you practice deploying your parachute. Once you demonstrate that you can deploy your own parachute safely, then we work our way up to __10,000 feet__ where you will learn freefall maneuvers like __turns__, __flips__, __barrel-rolls__, and __formation skydiving__.
+We follow the [IAD student progression](../solo-skydiving-wisconsin) for training students (at Seven Hills, it's also called the ["solo" progression](../solo-skydiving-wisconsin)). This is an "ease you into it" type of progression, meaning you start at lower altitudes while you practice deploying your parachute. Once you demonstrate that you can deploy your own parachute safely, then we work our way up to __10,000 feet__ where you will learn freefall maneuvers such as __turns__, __flips__, __barrel-rolls__, and __formation skydiving__.
 
 ## The Jumps
 
@@ -44,7 +44,7 @@ It seems like a lot - but don't worry! We will walk you through each jump, start
 
 ## Beyond the A-license
 
-Once you become an A-licensed skydiver, you have the opportunity to jump almost anywhere. However, we will work with you to refine your skills, earn more advanced licenses (B, C, and D), enter skydiving specialties (like wingsuiting, freeflying, etc) and help you throughout your skydiving career.
+Once you become an A-licensed skydiver, you have the opportunity to jump almost anywhere. However, we will continue to work with you to refine your skills, earn more advanced licenses (B, C, and D), enter skydiving specialties (like wingsuiting, freeflying, etc) and help you throughout your skydiving career.
 
 Below are a few pictures of students that have received their "A" license recently!
 

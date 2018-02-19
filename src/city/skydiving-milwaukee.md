@@ -4,6 +4,7 @@ date: 2018-02-15
 layout: city.html
 collection: city
 rel: ../../
+description: See why Seven Hills Skydivers is the best option for skydiving in Milwaukee. Seven Hills is a small, family friendly dropzone with a strong safety culture located on a beautiful grass runway. Offering tandem and solo skydives. Nonprofit, member owned and operated dropzone around for over 55 years.
 ---
 
 ## Skydiving close to Milwaukee

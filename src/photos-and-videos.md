@@ -4,6 +4,7 @@ date: 2018-02-15
 layout: page.html
 nav:
   photosAndVideos: true
+description: Recent skydive videos and photos from Seven Hills showing some of the jumps and fun we've been having!
 ---
 
 ## Photos

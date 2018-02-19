@@ -4,6 +4,7 @@ date: 2018-02-15
 layout: city.html
 collection: city
 rel: ../../
+description: Seven Hills is the #1 closest skydiving center to the Wisconsin Dells. We're a nonprofit, member owned and operated dropzone in business for over 55 years offering tandem and solo skydives. Family friendly and strong safety culture. Add an exhilarating experience to your vacation!
 ---
 
 ## Skydiving close to the Wisconsin Dells

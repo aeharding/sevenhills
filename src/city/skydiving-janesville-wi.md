@@ -4,6 +4,7 @@ date: 2018-02-15
 layout: city.html
 collection: city
 rel: ../../
+description: Seven Hills is Janesvilles's #1 skydiving center. We're located close to Madison, WI - just a quick drive North on I-90 and US-151. We're a nonprofit, member owned and operated dropzone in business for over 55 years offering tandem and solo skydives.
 ---
 
 ## Skydiving in Janesville, WI

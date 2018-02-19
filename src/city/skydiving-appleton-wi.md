@@ -4,6 +4,7 @@ date: 2018-02-15
 layout: city.html
 collection: city
 rel: ../../
+description: Seven Hills is Appleton's #1 closest skydiving center. Located close to Madison, WI. A simple, quick drive down I-41 and US-151. We're a nonprofit, member owned and operated dropzone in business for over 55 years offering tandem and solo skydives.
 ---
 
 ## Skydiving in Appleton, WI

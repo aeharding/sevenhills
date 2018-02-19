@@ -4,6 +4,7 @@ date: 2018-02-15
 layout: page.html
 nav:
   events: true
+description: Seven Hills regularly has events planned throughout the year. Details on our boogie, refreshers, safety day, fall festival and more!
 ---
 
 ## Upcoming events 🗓

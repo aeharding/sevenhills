@@ -4,6 +4,7 @@ date: 2018-02-15
 layout: page.html
 nav:
   whoWeAre: true
+description: At Seven Hills, not only do we have state-of-the-art, well maintained skydiving equipment, but we have extremely well qualified instructors and coaches that put safety above all else. Don't take our word for it: We have been in business for over 55 years with a consistent safety record.
 ---
 
 ## Who we are
@@ -57,7 +58,7 @@ Our instructional staff includes skydivers with __thousands of jumps__ holding _
 	</li>
 	<li class="people__item">
 		<img src="../img/people/alexander-harding.jpg" alt="">
-		<div class="people__item-name">Alexander Harding</div>
+		<div class="people__item-name">Alex Harding</div>
 	</li>
 	<li class="people__item">
 		<img src="../img/people/griffin-davis.jpg" alt="">
@@ -72,7 +73,7 @@ Our AWESOME members that volunteer their time to make Seven Hills possible:
 <ul class="people-text">
 	<li class="people-text__item">Aaron Campbell</li>
 	<li class="people-text__item">Al Wedeward</li>
-	<li class="people-text__item">Alexander Harding</li>
+	<li class="people-text__item">Alex Harding</li>
 	<li class="people-text__item">Andy Van Handel</li>
 	<li class="people-text__item">April Shuldt</li>
 	<li class="people-text__item">Bill Grace</li>

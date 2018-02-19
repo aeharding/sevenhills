@@ -4,6 +4,7 @@ date: 2018-02-16
 layout: page.html
 nav:
   frequentlyAskedQuestions: true
+description: Have a question about skydiving? Here are answers to some of our most frequently asked questions.
 ---
 
 ## Frequently asked questions
