@@ -21,11 +21,13 @@ Classes are held on various Saturdays (reservations required), __late-April__ th
   * Please __refrain from alcohol__ for at least 12 hours before the course.
   * Wear __comfortable clothing and sneakers__.
   * You must bring a __valid government issued ID__ (Drivers License, State ID, passport).
-  * A non-refundable __$100 deposit__ is required to reserve your spot in a class or an appointment.
+  * A __$100 deposit__ is required to reserve your spot in a class or an appointment.
 
 ### Pricing
 
-Solo skydives start at __$150__ for your first jump and training. You can purchase video of your skydive exit for an additional __$30__.
+Solo skydives start at ~~$150~~ __$125 <span style="color:#62b527">(Spring Special!)</span>__ for your first jump and training. You can purchase video of your skydive exit for an additional __$30__.
+
+Note: On sale due to our [Spring special](../specials).  price applies to classes taken in __April__ or __May__ of this year.
 
 We also offer gift certificates! 🎁
 
@@ -43,6 +45,10 @@ See [our dedicated FAQ](../frequently-asked-questions). For more, call us or sho
 	</div>
 </div>
 
-### Schedule
+<br>
 
-Call us any time at (608) 244-5252.
+<div style="text-align: center;padding-top:2em">
+  <a href="../../book-now" class="button button--primary">Book your skydive now <i class="fa fa-angle-double-right"></i></a>
+</div>
+
+<br>

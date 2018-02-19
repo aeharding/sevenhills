@@ -1,0 +1,22 @@
+.spring-special-banner {
+  padding: 2em;
+  background: linear-gradient(to left, darken(#7BD53A, 15%), darken(#7BD53A, 7%));
+  color: white;
+
+  box-shadow: 0 0 3em rgba(0, 0, 0, 0.3);
+
+  border-radius: 1em;
+
+  margin-top: 1em;
+
+  h2 {
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  strong,
+  a,
+  h2 {
+    color: white;
+  }
+}

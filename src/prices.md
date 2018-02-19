@@ -15,19 +15,19 @@ Looking for a unique gift?  If you're still wondering what to get a loved one, s
 ### Tandem pricing
 
  * **$215** - Training and jump
-   * +**$75** Freefall video *(optional)*
-   * +**$95** Freefall video by outside skydiver *(optional)*
-   * +**$150** Premium video: freefall video from two separate cameras *(optional)*
+   * +**$60** Freefall video *(add $15 edited)*
+   * +**$80** Freefall video by outside skydiver *(optional, add $15 edited)*
+   * +**$130** Premium video: freefall video from two separate cameras *(optional, add $20 edited)*
  * Special group rate for groups of 5 or more.
 
-<div class="note"><strong>Savings!</strong> After completing your first tandem skydive at Seven Hills Skydivers, we can offer you the thrill of skydiving with our solo first jump course for only $125! Please call our scheduler at 608-244-5252 and mention this offer.
+<div class="note"><strong>Savings!</strong> After completing your first tandem skydive at Seven Hills Skydivers, we can offer you the thrill of skydiving with our solo first jump course for only $125!
 </div>
 
 ### Solo pricing
 
 *The first jump*
 
- * **$150** - Training and first jump
+ * ~~$150~~ __$125 [Spring Special](../specials)__ - Training and first jump
    * +**$30** video of exit *(optional)*
 
 *Following jumps (pay-as-you-go)*
@@ -47,7 +47,7 @@ Experienced jumpers are always welcome! Please bring your membership card, logbo
 
  * **$22** 10,000'
  * **$11** 5,000'
- * **$16** gear rental *(per jump)*
+ * **$20** gear rental *(per jump)*
 
 *Experienced jump prices higher during Winter.*
 

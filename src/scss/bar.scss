@@ -7,6 +7,16 @@
   font-size: 1.1em;
 }
 
+.bar__on-sale {
+  background: red;
+  color: white;
+  border-radius: 5px;
+  font-size: 0.8em;
+  padding: 0 5px;
+  text-transform: uppercase;
+  vertical-align: center;
+}
+
 @media (max-width: 720px) {
   #bar {
     position: absolute;

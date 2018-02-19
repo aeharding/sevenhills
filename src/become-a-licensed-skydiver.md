@@ -8,13 +8,17 @@ nav:
 
 ## Become a licensed skydiver! 😲
 
-Making your first skydive is a life-changing experience. Chances are, if you're here, then you're asking yourself _"But what now?!"_ Well, Seven Hills has you covered!<img src="../img/a-stamp.png" style="float:right" alt="USPA A license stamp"> We offer a __comprehensive__, __affordable__ student program to get you all the way to your A-License. An A-License will grant you the freedom to jump _anywhere in the world!_ 🌎
+Skydiving can be a life-changing event, and it gets even better when you become a licensed skydiver! Are you up to the challenge? _Do you have what it takes?_ <img src="../img/a-stamp.png" style="float:right" alt="USPA A license stamp"> We offer a __comprehensive__, __affordable__ student program to obtain your A-License. An A-License will grant you the freedom to jump _anywhere in the world!_ 🌎
 
-You will quickly become a part of our skydive family in an open, friendly, and approachable environment where __safety is the highest priority__.
+During your training, you will quickly become a part of our skydive family in an open, friendly, and approachable environment where __safety is the highest priority__. You will work with instructors and coaches one-on-one with training tailored to you.
 
-We have [highly qualified instructors and coaches](../../who-we-are), and we will equip you with state-of-the-art, comfortable, and safe skydiving gear with [Aerodyne](https://www.flyaerodyne.com/icons/icon-student/) containers and [Performance Designs](http://www.performancedesigns.com/products/navigator/) canopies, leading manufacturers in the industry.
+Our [highly qualified instructors and coaches](../../who-we-are) will equip you with state-of-the-art, comfortable, and safe [Aerodyne](https://www.flyaerodyne.com/icons/icon-student/) containers and [Performance Designs](http://www.performancedesigns.com/products/navigator/) canopies, leading manufacturers in the industry.
 
-Once you complete the first jump course, your jumps to get your "A" license will be one-on-one with an instructor or coach.
+It might not be easy, __but the journey will be worth it__.
+
+<div class="image-line">
+  <div><img src="../img/dustin-a-license.jpg" alt="Reba check dive"></div>
+</div>
 
 ## The IAD Student Program
 
@@ -50,10 +54,6 @@ Below are a few pictures of students that have received their "A" license recent
 <div class="image-line">
   <div><img src="../img/reba-logbook.jpg" alt="Reba logbook"></div>
   <div><img src="../img/reba-stamp.jpg" alt="Reba stamped"></div>
-</div>
-
-<div class="image-line">
-  <div><img src="../img/dustin-a-license.jpg" alt="Reba check dive"></div>
 </div>
 
 <div class="image-line">

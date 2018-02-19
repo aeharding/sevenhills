@@ -35,127 +35,127 @@ Below is a sample of our rates for the minimum amount of jumps required to get y
 <tbody>
 <tr>
 <td>Jump 1</td>
-<td>IAD Deployment #1 - Your very first jump! Plan on spending most of the day learning.</td>
+<td>__IAD Deployment #1__ (4,000 feet) Your very first jump! Plan on spending most of the day learning.</td>
 <td>$150</td>
 </tr>
 <tr>
 <td>Jump 2</td>
-<td>IAD Deployment #2 - Working on improving body position and climbout of your first jump.</td>
+<td>__IAD Deployment #2__ (4,000 feet) Working on improving body position and climbout of your first jump.</td>
 <td>$75</td>
 </tr>
 <tr>
 <td>Jump 3</td>
-<td>Practice pilot chute throw #1 - Build muscle memory for deploying your parachute. Three good ones in a row needed to proceed to clear and pull.</td>
+<td>__Practice pilot chute throw #1__ (4,000 feet) Build muscle memory for deploying your parachute. Three good ones in a row needed to proceed to clear and pull.</td>
 <td>$75</td>
 </tr>
 <tr>
 <td>Jump 4</td>
-<td>Practice pilot chute throw #2</td>
+<td>__Practice pilot chute throw #2__ (4,000 feet)</td>
 <td>$75</td>
 </tr>
 <tr>
 <td>Jump 5</td>
-<td>Practice pilot chute throw #3</td>
+<td>__Practice pilot chute throw #3__ (4,000 feet)</td>
 <td>$75</td>
 </tr>
 <tr>
 <td>Jump 6</td>
-<td>Clear and Pull - Deploy your own parachute! Must by done within 24 hours of PPCT #3.</td>
+<td>__Clear and Pull__ (4,500 feet) Deploy your own parachute! Must by done within 24 hours of PPCT #3.</td>
 <td>$75</td>
 </tr>
 <tr>
 <td>Jump 7</td>
-<td>10 second delay #1</td>
+<td>__10 second delay #1__ (5,500 feet)</td>
 <td>$100</td>
 </tr>
 <tr>
 <td>Jump 8</td>
-<td>10 second delay #2</td>
+<td>__10 second delay #2__ (5,500 feet)</td>
 <td>$100</td>
 </tr>
 <tr>
 <td>Jump 9</td>
-<td>15 second delay #1</td>
+<td>__15 second delay #1__ (6,500 feet)</td>
 <td>$100</td>
 </tr>
 <tr>
 <td>Jump 10</td>
-<td>15 second delay #2</td>
+<td>__15 second delay #2__ (6,500 feet)</td>
 <td>$100</td>
 </tr>
 <tr>
 <td>Jump 11</td>
-<td>30 second delay #1</td>
+<td>__30 second delay #1__ (8,000 feet)</td>
 <td>$100</td>
 </tr>
 <tr>
 <td>Jump 12</td>
-<td>30 second delay #2</td>
+<td>__30 second delay #2__ (8,000 feet)</td>
 <td>$100</td>
 </tr>
 <tr>
 <td>Jump 13</td>
-<td>Full altitude jump #1</td>
+<td>__Full altitude jump #1__ (10,000 feet)</td>
 <td>$100</td>
 </tr>
 <tr>
 <td>Jump 14</td>
-<td>Full altitude jump #2</td>
+<td>__Full altitude jump #2__ (10,000 feet)</td>
 <td>$100</td>
 </tr>
 <tr>
 <td>Jump 15</td>
-<td>Full altitude jump #3</td>
+<td>__Full altitude jump #3__ (10,000 feet)</td>
 <td>$100</td>
 </tr>
 <tr>
 <td>Jump 16</td>
-<td>Full altitude jump #4</td>
+<td>__Full altitude jump #4__ (10,000 feet)</td>
 <td>$100</td>
 </tr>
 <tr>
 <td>Jump 17</td>
-<td>Full altitude jump #5</td>
+<td>__Full altitude jump #5__ (10,000 feet)</td>
 <td>$100</td>
 </tr>
 <tr>
 <td>Jump 18</td>
-<td>Practice/makeup high jump (10,000 feet) #1</td>
+<td>__Practice/makeup high jump__ (10,000 feet) #1</td>
 <td>$100</td>
 </tr>
 <tr>
 <td>Jump 19</td>
-<td>Practice/makeup high jump (10,000 feet) #2</td>
+<td>__Practice/makeup high jump__ (10,000 feet) #2</td>
 <td>$100</td>
 </tr>
 <tr>
 <td>Jump 20</td>
-<td>Practice/makeup high jump (10,000 feet) #3</td>
+<td>__Practice/makeup high jump__ (10,000 feet) #3</td>
 <td>$100</td>
 </tr>
 <tr>
 <td>Jump 21</td>
-<td>Practice/makeup high jump (10,000 feet) #4</td>
+<td>__Practice/makeup high jump__ (10,000 feet) #4</td>
 <td>$100</td>
 </tr>
 <tr>
 <td>Jump 22</td>
-<td>Practice/makeup high jump (10,000 feet) #5</td>
+<td>__Practice/makeup high jump__ (10,000 feet) #5</td>
 <td>$100</td>
 </tr>
 <tr>
 <td>Jump 23</td>
-<td>Practice/makeup high jump (10,000 feet) #6</td>
+<td>__Practice/makeup high jump__ (10,000 feet) #6</td>
 <td>$100</td>
 </tr>
 <tr>
 <td>Jump 24</td>
-<td>Practice/makeup high jump (10,000 feet) #7</td>
+<td>__Practice/makeup high jump__ (10,000 feet) #7</td>
 <td>$100</td>
 </tr>
 <tr>
 <td>Jump 25</td>
-<td>Practice/makeup high jump (10,000 feet) #8</td>
+<td>__Practice/makeup high jump__ (10,000 feet) #8</td>
 <td>$100</td>
 </tr>
 </tbody>

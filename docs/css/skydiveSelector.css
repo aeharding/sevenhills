@@ -1,5 +1,7 @@
 .skydive-selector {
   display: flex;
+  margin: -1em;
+  padding: 1em 0;
 }
 
 @media (max-width: 720px) {

@@ -2,12 +2,12 @@
   <li class="menu menu-hover">
     <a href="#">About us <i class="fa fa-caret-down" aria-hidden="true"></i></a>
     <ul class="submenu">
+      <li><a class="{{#if nav.location}}active{{/if}}" href="{{rel}}location">Location &amp; Directions</a></li>
       <li><a class="{{#if nav.aboutUs}}active{{/if}}" href="{{rel}}about-us">Why jump with us?</a></li>
       <li><a class="{{#if nav.contact}}active{{/if}}" href="{{rel}}contact">Contact us</a></li>
-      <li><a class="{{#if nav.location}}active{{/if}}" href="{{rel}}location">Location</a></li>
       <li><a class="{{#if nav.whoWeAre}}active{{/if}}" href="{{rel}}who-we-are">Who we are</a></li>
       <li><a class="{{#if nav.events}}active{{/if}}" href="{{rel}}events">Upcoming events</a></li>
-      <li><a class="{{#if nav.photosAndVideos}}active{{/if}}" href="{{rel}}photos-and-videos">Photos/Videos</a></li>
+      <li><a class="{{#if nav.photosAndVideos}}active{{/if}}" href="{{rel}}photos-and-videos">Photos &amp; Videos</a></li>
       <!-- <li><a class="{{#if nav.prices}}active{{/if}}" href="{{rel}}our-history">Our history</a></li> -->
       <li><a class="{{#if nav.ourFacilities}}active{{/if}}" href="{{rel}}our-facilities">Facilities</a></li>
     </ul>
@@ -17,7 +17,7 @@
 </a>
     <ul class="submenu">
       <li><a class="{{#if nav.tandem}}active{{/if}}" href="{{rel}}tandem">Tandem skydive</a></li>
-      <li><a class="{{#if nav.instructorAssistedDeployment}}active{{/if}}" href="{{rel}}instructor-assisted-deployment">Solo skydive</a></li>
+      <li><a class="{{#if nav.instructorAssistedDeployment}}active{{/if}}" href="{{rel}}instructor-assisted-deployment">Solo skydive <span class="bar__on-sale">On Sale</span></a></li>
     </ul>
   </li>
   <li class="menu menu-hover">

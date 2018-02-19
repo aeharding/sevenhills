@@ -4,11 +4,14 @@ date: 2018-02-16
 layout: page.html
 nav:
   contact: true
+disableCall: true
 ---
 
 ## Contact us
 
-Feel free to reach out to us with any questions you have, we'd love to answer any questions you may have. Our phone scheduler is also a skydive instructor and can answer any specific questions you have about your skydive experience.
+Thanks for your interest in skydiving with Seven Hills. Our dropzone is located just outside of Madison, WI &mdash; a short drive from Milwaukee, the Wisconsin Dells, Janesville and Appleton. We frequently see people from all over Wisconsin and Illinois.
+
+Our experienced crew of instructors and members are always ready to answer any questions you may have. If you need assistance, please give us a call. We look forward to hearing from you and hope to see you at the DZ very soon!
 
 ### Phone
 
@@ -28,8 +31,8 @@ Our dropzone is generally open to students __late-April__ through __October__.
 
 Experienced jumpers: We have limited jumping year-round. Please [read this](../experienced) and call before coming out.
 
- * __Weekends__, __9am - 8:30pm__
- * __Wednesday evenings__ (for continuing solo students and experienced jumpers), 3pm-8:30pm
+ * __Weekends__, __9am - sunset__
+ * __Wednesday evenings__ (for continuing solo students and experienced jumpers), 3pm-sunset
  * __Friday evenings__ _(Occasionally)_ During the summer for experienced jumpers and continuing solo students
 
 ### Facebook

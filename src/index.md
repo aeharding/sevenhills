@@ -19,6 +19,14 @@ layout: index.html
   </div>
 </div>
 
+<div class="spring-special-banner">
+  <h2>Solo Skydive $125 Spring Special!</h2>
+
+  Your chance to take your solo skydive at the __lowest price of the year!__ Book now to take the class in __April__ or __May__ to get this great price. Call (608) 244 - 5252 to sign up! Subject to availability, classes fill up quickly.
+  <br><br>
+  [Click here to learn more](../instructor-assisted-deployment)
+</div>
+
 ### 2018 Head to the Hills Boogie
 
 Seven Hills Skydivers of Madison, WI is excited to once again host the Head to the Hills Boogie in 2018! Whether it is your first skydive or your thousandth, join us for a weekend of skydiving and fun.
