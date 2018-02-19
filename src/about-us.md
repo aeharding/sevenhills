@@ -12,7 +12,7 @@ We at Seven Hills take an active interest in each and every one of our students'
 
 ## More about us
 
-Since 1962, Seven Hills Skydivers has been jumping out of airplanes. We are a __not-for-profit__, all __volunteer__, __member owned and operated__ club only __30 minutes outside of Madison__. We're here to promote skydiving and introduce people to the sport by training students and performing demo jumps. __Safety is our main priority__ and our record is second to none!
+Since 1962, Seven Hills Skydivers has been jumping out of airplanes. We are a __not-for-profit__, all __volunteer__, __member owned and operated__ club only __15 minutes outside of Madison__. We're here to promote skydiving and introduce people to the sport by training students and performing demo jumps. __Safety is our main priority__ and our record is second to none!
 
 Seven Hills is much more than skydiving - at Seven Hills, you're part of our sky family. Any licensed skydiver has the opportunity to become a Seven Hills member and to __make a real impact on the club__ by voting on club business and volunteering. All of our members are passionate about skydiving and volunteer their time to share the excitement of skydiving with others.
 

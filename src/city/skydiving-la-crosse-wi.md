@@ -18,9 +18,9 @@ We're 2 hours and 20 minutes East of La Crosse. However, once you do a skydive a
 
 At Seven Hills, we have very talented, __world-record holding__ instructors with __decades of experience__. Seven Hills is a __nonprofit__, volunteer owned and operated dropzone that's been around for over __55 years__! Our instructors are here because they're passionate about skydiving and want to share the sport with you.
 
-At Seven Hills, we offer __two methods__ for your first skydive. The first method, [a tandem skydive](../../tandem) is an excellent option for those that want their skydive instructor to be in control during the skydive.
+At Seven Hills, we offer __two methods__ for your first skydive. The first method, [a tandem skydive](../../tandem-skydiving-wisconsin) is an excellent option for those that want their skydive instructor to be in control during the skydive.
 
-For those that want to enjoy skydiving by themself or want to work towards [earning their skydive "A" license](../../become-a-licensed-skydiver), we offer [solo skydiving](../../instructor-assisted-deployment).
+For those that want to enjoy skydiving by themself or want to work towards [earning their skydive "A" license](../../learn-to-skydiver), we offer [solo skydiving](../../solo-skydiving-wisconsin).
 
 __Either option is a great choice__ - it really depends on you! Feel free to [contact us](../../contact-us) if you have any questions, and we hope to see you soon!
 

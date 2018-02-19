@@ -12,7 +12,7 @@ Located only __an hour away__ from the Wisconsin Dells, Seven Hills Skydivers is
 
 You might also be wondering, "why should I jump with Seven Hills?" Apart from being the __closest skydiving center__ to the Wisconsin Dells, we offer __extremely qualified__ and experienced instructors for the __utmost safety__. We're a nonprofit, volunteer owned and operated club, and we've [been in business](../../about-us) for more than __55 years__. We're a very family oriented dropzone with a easy going atmosphere. We will make your skydive a safe, fun, exciting experience &mdash; one you will not forget.
 
-If you're on vacation and only have time for a quick afternoon or morning visit (or are bringing members of your family to watch), we recommend a [tandem skydive](../../tandem). However, we also offer the thrill of [solo skydiving](../../instructor-assisted-deployment) (taking a whole day) if that's more your style.
+If you're on vacation and only have time for a quick afternoon or morning visit (or are bringing members of your family to watch), we recommend a [tandem skydive](../../tandem-skydiving-wisconsin). However, we also offer the thrill of [solo skydiving](../../solo-skydiving-wisconsin) (taking a whole day) if that's more your style.
 
 <img src="../../img/wisconsin-dells.jpg" alt="Janesville Downtown" class="full-width">
 

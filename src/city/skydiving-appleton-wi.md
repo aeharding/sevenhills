@@ -16,7 +16,7 @@ Seven Hills is Appleton's __closest skydiving center__. We're only one and a hal
 
 Seven Hills Skydivers is a nonprofit, volunteer owned and operated skydiving center located Northeast of Madison, WI in business for __more than 55 years__. We have highly qualified [instructors and coaches](../../who-we-are), and have safety record second to none. To learn more about us, [click here](../../about-us).
 
-If you're interested in [making a Tandem skydive](../../tandem) or [going solo](../../instructor-assisted-deployment), we have the expertise to provide a safe, fun experience that you will never forget.
+If you're interested in [making a Tandem skydive](../../tandem-skydiving-wisconsin) or [going solo](../../solo-skydiving-wisconsin), we have the expertise to provide a safe, fun experience that you will never forget.
 
 You can book your skydive anytime - just [click here to get started](../../book-now)! See you soon - blue skies! 😄
 

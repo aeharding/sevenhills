@@ -8,9 +8,9 @@ nav:
 
 ## Solo (IAD) Skydive rates to get your "A" license
 
-One of the benefits of the [IAD](../instructor-assisted-deployment) instructional method for obtaining an "A" license is how __cost effective__ it is, especially as you're first starting out. Because your first six jumps are done at a lower altitude, the plane consumes less fuel and runs for shorter times which allows us to pass the savings on to you. This allows you to get a feel for the sport without spending a lot of money compared to other methods.
+One of the benefits of the [IAD](../solo-skydiving-wisconsin) instructional method for obtaining an "A" license is how __cost effective__ it is, especially as you're first starting out. Because your first six jumps are done at a lower altitude, the plane consumes less fuel and runs for shorter times which allows us to pass the savings on to you. This allows you to get a feel for the sport without spending a lot of money compared to other methods.
 
-The [IAD training method](../instructor-assisted-deployment) is a __unique__, __special__, __proven__ and __very effective__ method that's not taught at many dropzones. It's an __excellent__ way to get your "A" license and begin your skydiving career! To learn more about becoming a licensed skydiver, [click here](../become-a-licensed-skydiver).
+The [IAD training method](../solo-skydiving-wisconsin) is a __unique__, __special__, __proven__ and __very effective__ method that's not taught at many dropzones. It's an __excellent__ way to get your "A" license and begin your skydiving career! To learn more about becoming a licensed skydiver, [click here](../learn-to-skydive).
 
 ## Package rates
 

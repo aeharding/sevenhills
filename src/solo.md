@@ -1,14 +1,17 @@
 ---
-pageTitle: Instructor Assisted Deployment
+pageTitle: Solo Skydiving Wisconsin
 date: 2018-02-16
 layout: page.html
 nav:
   instructorAssistedDeployment: true
+description: Experience the trill of solo skydiving! The Instructor Aided Deployment (IAD) method is also a way to become a licensed skydiver. Train and jump the same day.
 ---
 
 <img src="../img/iad.jpg" alt="IAD example" class="full-width">
 
-__Instructor Assisted Deployment__ (IAD) is a __Solo__ training method that opens your parachute almost immediately upon leaving the aircraft _(about 3-4 seconds of freefall)_. You are never attached to the plane _(unlike static-line)_ and the deployment sequence is identical to the way experienced skydivers open their own parachutes. This thrilling, solo, __'do it by yourself'__ method is also a way to train to [become a licensed skydiver](../become-a-licensed-skydiver). Well over half of our students choose the IAD jump, __even if they want to only jump once__.
+## Solo skydiving in Wisconsin &mdash; Instructor Assisted Deployment
+
+__Instructor Assisted Deployment__ (IAD) is a __Solo__ training method that opens your parachute almost immediately upon leaving the aircraft _(about 3-4 seconds of freefall)_. You are never attached to the plane _(unlike static-line)_ and the deployment sequence is identical to the way experienced skydivers open their own parachutes. This thrilling, solo, __'do it by yourself'__ method is also a way to train to [become a licensed skydiver](../learn-to-skydive). Well over half of our students choose the IAD jump, __even if they want to only jump once__.
 
 Classes are held on various Saturdays (reservations required), __late-April__ through __early-October__. The class starts at __8 a.m.__, __rain or shine__. You'll be jumping in the afternoon _(from 4000 feet!)_, weather permitting, so __plan on spending the whole day__. Radio contact assists you in landing your parachute safely _(about 4-6 minute canopy ride)_. GoPro video footage of your exit is available for purchase so that you can remember your jump for years to come. Train and jump on the same day.
 

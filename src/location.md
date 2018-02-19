@@ -6,7 +6,7 @@ nav:
   location: true
 ---
 
-## Our Location
+## 📍 Our Location
 
 7530 State Highway 73<br>
 York Center, WI
