@@ -32,7 +32,7 @@
     width: 280px;
     justify-content: flex-start;
 
-    z-index: 2;
+    z-index: 3;
   }
 
   #bar.bar-active {
@@ -124,7 +124,7 @@
     -webkit-transition: all 0.25s;
     transition: all 0.25s;
     width: 230px;
-    z-index: 2;
+    z-index: 3;
     font-size: 1rem;
   }
 
