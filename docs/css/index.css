@@ -421,323 +421,323 @@ section {
 }
 
 .people__item:nth-child(1) {
-  color: #8e0b2c;
+  color: #3b0210;
 }
 
 .people__item:nth-child(1) img {
-  box-shadow: 0 0 30px rgba(142, 11, 44, 0.2);
+  box-shadow: 0 0 30px rgba(59, 2, 16, 0.2);
 }
 
 .people__item:nth-child(2) {
-  color: #f02494;
+  color: #02361d;
 }
 
 .people__item:nth-child(2) img {
-  box-shadow: 0 0 30px rgba(240, 36, 148, 0.2);
+  box-shadow: 0 0 30px rgba(2, 54, 29, 0.2);
 }
 
 .people__item:nth-child(3) {
-  color: #16004d;
+  color: #cf0eec;
 }
 
 .people__item:nth-child(3) img {
-  box-shadow: 0 0 30px rgba(22, 0, 77, 0.2);
+  box-shadow: 0 0 30px rgba(207, 14, 236, 0.2);
 }
 
 .people__item:nth-child(4) {
-  color: #92028d;
+  color: #72bc0b;
 }
 
 .people__item:nth-child(4) img {
-  box-shadow: 0 0 30px rgba(146, 2, 141, 0.2);
+  box-shadow: 0 0 30px rgba(114, 188, 11, 0.2);
 }
 
 .people__item:nth-child(5) {
-  color: #33051e;
+  color: #299b03;
 }
 
 .people__item:nth-child(5) img {
-  box-shadow: 0 0 30px rgba(51, 5, 30, 0.2);
+  box-shadow: 0 0 30px rgba(41, 155, 3, 0.2);
 }
 
 .people__item:nth-child(6) {
-  color: #66002e;
+  color: #014c01;
 }
 
 .people__item:nth-child(6) img {
-  box-shadow: 0 0 30px rgba(102, 0, 46, 0.2);
+  box-shadow: 0 0 30px rgba(1, 76, 1, 0.2);
 }
 
 .people__item:nth-child(7) {
-  color: #cc2500;
+  color: #f6ec2c;
 }
 
 .people__item:nth-child(7) img {
-  box-shadow: 0 0 30px rgba(204, 37, 0, 0.2);
+  box-shadow: 0 0 30px rgba(246, 236, 44, 0.2);
 }
 
 .people__item:nth-child(8) {
-  color: #04494d;
+  color: #39f999;
 }
 
 .people__item:nth-child(8) img {
-  box-shadow: 0 0 30px rgba(4, 73, 77, 0.2);
+  box-shadow: 0 0 30px rgba(57, 249, 153, 0.2);
 }
 
 .people__item:nth-child(9) {
-  color: #499410;
+  color: #05005c;
 }
 
 .people__item:nth-child(9) img {
-  box-shadow: 0 0 30px rgba(73, 148, 16, 0.2);
+  box-shadow: 0 0 30px rgba(5, 0, 92, 0.2);
 }
 
 .people__item:nth-child(10) {
-  color: #05367a;
+  color: #d4ae16;
 }
 
 .people__item:nth-child(10) img {
-  box-shadow: 0 0 30px rgba(5, 54, 122, 0.2);
+  box-shadow: 0 0 30px rgba(212, 174, 22, 0.2);
 }
 
 .people__item:nth-child(11) {
-  color: #6730f3;
+  color: #e236f2;
 }
 
 .people__item:nth-child(11) img {
-  box-shadow: 0 0 30px rgba(103, 48, 243, 0.2);
+  box-shadow: 0 0 30px rgba(226, 54, 242, 0.2);
 }
 
 .people__item:nth-child(12) {
-  color: #080baa;
+  color: #0e008a;
 }
 
 .people__item:nth-child(12) img {
-  box-shadow: 0 0 30px rgba(8, 11, 170, 0.2);
+  box-shadow: 0 0 30px rgba(14, 0, 138, 0.2);
 }
 
 .people__item:nth-child(13) {
-  color: #b30077;
+  color: #0e9a56;
 }
 
 .people__item:nth-child(13) img {
-  box-shadow: 0 0 30px rgba(179, 0, 119, 0.2);
+  box-shadow: 0 0 30px rgba(14, 154, 86, 0.2);
 }
 
 .people__item:nth-child(14) {
-  color: #044e4c;
+  color: #560877;
 }
 
 .people__item:nth-child(14) img {
-  box-shadow: 0 0 30px rgba(4, 78, 76, 0.2);
+  box-shadow: 0 0 30px rgba(86, 8, 119, 0.2);
 }
 
 .people__item:nth-child(15) {
-  color: #02a7d9;
+  color: #560c92;
 }
 
 .people__item:nth-child(15) img {
-  box-shadow: 0 0 30px rgba(2, 167, 217, 0.2);
+  box-shadow: 0 0 30px rgba(86, 12, 146, 0.2);
 }
 
 .people__item:nth-child(16) {
-  color: #043d6c;
+  color: #72a711;
 }
 
 .people__item:nth-child(16) img {
-  box-shadow: 0 0 30px rgba(4, 61, 108, 0.2);
+  box-shadow: 0 0 30px rgba(114, 167, 17, 0.2);
 }
 
 .people__item:nth-child(17) {
-  color: #077348;
+  color: #bd0a4c;
 }
 
 .people__item:nth-child(17) img {
-  box-shadow: 0 0 30px rgba(7, 115, 72, 0.2);
+  box-shadow: 0 0 30px rgba(189, 10, 76, 0.2);
 }
 
 .people__item:nth-child(18) {
-  color: #890105;
+  color: #023c88;
 }
 
 .people__item:nth-child(18) img {
-  box-shadow: 0 0 30px rgba(137, 1, 5, 0.2);
+  box-shadow: 0 0 30px rgba(2, 60, 136, 0.2);
 }
 
 .people__item:nth-child(19) {
-  color: #68cb0b;
+  color: #e135ed;
 }
 
 .people__item:nth-child(19) img {
-  box-shadow: 0 0 30px rgba(104, 203, 11, 0.2);
+  box-shadow: 0 0 30px rgba(225, 53, 237, 0.2);
 }
 
 .people__item:nth-child(20) {
-  color: #e7045b;
+  color: #061b56;
 }
 
 .people__item:nth-child(20) img {
-  box-shadow: 0 0 30px rgba(231, 4, 91, 0.2);
+  box-shadow: 0 0 30px rgba(6, 27, 86, 0.2);
 }
 
 .people__item:nth-child(21) {
-  color: #06c6c6;
+  color: #f7e922;
 }
 
 .people__item:nth-child(21) img {
-  box-shadow: 0 0 30px rgba(6, 198, 198, 0.2);
+  box-shadow: 0 0 30px rgba(247, 233, 34, 0.2);
 }
 
 .people__item:nth-child(22) {
-  color: #c8144a;
+  color: #a30a70;
 }
 
 .people__item:nth-child(22) img {
-  box-shadow: 0 0 30px rgba(200, 20, 74, 0.2);
+  box-shadow: 0 0 30px rgba(163, 10, 112, 0.2);
 }
 
 .people__item:nth-child(23) {
-  color: #834002;
+  color: #e907d6;
 }
 
 .people__item:nth-child(23) img {
-  box-shadow: 0 0 30px rgba(131, 64, 2, 0.2);
+  box-shadow: 0 0 30px rgba(233, 7, 214, 0.2);
 }
 
 .people__item:nth-child(24) {
-  color: #03440d;
+  color: #1e8d02;
 }
 
 .people__item:nth-child(24) img {
-  box-shadow: 0 0 30px rgba(3, 68, 13, 0.2);
+  box-shadow: 0 0 30px rgba(30, 141, 2, 0.2);
 }
 
 .people__item:nth-child(25) {
-  color: #4ff339;
+  color: #87950f;
 }
 
 .people__item:nth-child(25) img {
-  box-shadow: 0 0 30px rgba(79, 243, 57, 0.2);
+  box-shadow: 0 0 30px rgba(135, 149, 15, 0.2);
 }
 
 .people__item:nth-child(26) {
-  color: #659d0c;
+  color: #5f0101;
 }
 
 .people__item:nth-child(26) img {
-  box-shadow: 0 0 30px rgba(101, 157, 12, 0.2);
+  box-shadow: 0 0 30px rgba(95, 1, 1, 0.2);
 }
 
 .people__item:nth-child(27) {
-  color: #220353;
+  color: #690237;
 }
 
 .people__item:nth-child(27) img {
-  box-shadow: 0 0 30px rgba(34, 3, 83, 0.2);
+  box-shadow: 0 0 30px rgba(105, 2, 55, 0.2);
 }
 
 .people__item:nth-child(28) {
-  color: #03867e;
+  color: #06841d;
 }
 
 .people__item:nth-child(28) img {
-  box-shadow: 0 0 30px rgba(3, 134, 126, 0.2);
+  box-shadow: 0 0 30px rgba(6, 132, 29, 0.2);
 }
 
 .people__item:nth-child(29) {
-  color: #ca4912;
+  color: #bf7b0d;
 }
 
 .people__item:nth-child(29) img {
-  box-shadow: 0 0 30px rgba(202, 73, 18, 0.2);
+  box-shadow: 0 0 30px rgba(191, 123, 13, 0.2);
 }
 
 .people__item:nth-child(30) {
-  color: #2a023b;
+  color: #065642;
 }
 
 .people__item:nth-child(30) img {
-  box-shadow: 0 0 30px rgba(42, 2, 59, 0.2);
+  box-shadow: 0 0 30px rgba(6, 86, 66, 0.2);
 }
 
 .people__item:nth-child(31) {
-  color: #410542;
+  color: #15c6ac;
 }
 
 .people__item:nth-child(31) img {
-  box-shadow: 0 0 30px rgba(65, 5, 66, 0.2);
+  box-shadow: 0 0 30px rgba(21, 198, 172, 0.2);
 }
 
 .people__item:nth-child(32) {
-  color: #dceb2d;
+  color: #770417;
 }
 
 .people__item:nth-child(32) img {
-  box-shadow: 0 0 30px rgba(220, 235, 45, 0.2);
+  box-shadow: 0 0 30px rgba(119, 4, 23, 0.2);
 }
 
 .people__item:nth-child(33) {
-  color: #105502;
+  color: #a3f23a;
 }
 
 .people__item:nth-child(33) img {
-  box-shadow: 0 0 30px rgba(16, 85, 2, 0.2);
+  box-shadow: 0 0 30px rgba(163, 242, 58, 0.2);
 }
 
 .people__item:nth-child(34) {
-  color: #8fba0d;
+  color: #06bc76;
 }
 
 .people__item:nth-child(34) img {
-  box-shadow: 0 0 30px rgba(143, 186, 13, 0.2);
+  box-shadow: 0 0 30px rgba(6, 188, 118, 0.2);
 }
 
 .people__item:nth-child(35) {
-  color: #07c082;
+  color: #76b805;
 }
 
 .people__item:nth-child(35) img {
-  box-shadow: 0 0 30px rgba(7, 192, 130, 0.2);
+  box-shadow: 0 0 30px rgba(118, 184, 5, 0.2);
 }
 
 .people__item:nth-child(36) {
-  color: #4a11ac;
+  color: #582709;
 }
 
 .people__item:nth-child(36) img {
-  box-shadow: 0 0 30px rgba(74, 17, 172, 0.2);
+  box-shadow: 0 0 30px rgba(88, 39, 9, 0.2);
 }
 
 .people__item:nth-child(37) {
-  color: #e2cc03;
+  color: #0f9bd7;
 }
 
 .people__item:nth-child(37) img {
-  box-shadow: 0 0 30px rgba(226, 204, 3, 0.2);
+  box-shadow: 0 0 30px rgba(15, 155, 215, 0.2);
 }
 
 .people__item:nth-child(38) {
-  color: #3606a7;
+  color: #4d790b;
 }
 
 .people__item:nth-child(38) img {
-  box-shadow: 0 0 30px rgba(54, 6, 167, 0.2);
+  box-shadow: 0 0 30px rgba(77, 121, 11, 0.2);
 }
 
 .people__item:nth-child(39) {
-  color: #0e16b4;
+  color: #01a72a;
 }
 
 .people__item:nth-child(39) img {
-  box-shadow: 0 0 30px rgba(14, 22, 180, 0.2);
+  box-shadow: 0 0 30px rgba(1, 167, 42, 0.2);
 }
 
 .people__item:nth-child(40) {
-  color: #547c04;
+  color: #0b4493;
 }
 
 .people__item:nth-child(40) img {
-  box-shadow: 0 0 30px rgba(84, 124, 4, 0.2);
+  box-shadow: 0 0 30px rgba(11, 68, 147, 0.2);
 }
 
 .people-text {
@@ -752,303 +752,303 @@ section {
 }
 
 .people-text__item:nth-child(1) {
-  color: #22fc51;
-  filter: drop-shadow(0 0 20px rgba(34, 252, 81, 0.3));
+  color: #0b10a8;
+  filter: drop-shadow(0 0 20px rgba(11, 16, 168, 0.3));
 }
 
 .people-text__item:nth-child(2) {
-  color: #82a50d;
-  filter: drop-shadow(0 0 20px rgba(130, 165, 13, 0.3));
+  color: #5f075d;
+  filter: drop-shadow(0 0 20px rgba(95, 7, 93, 0.3));
 }
 
 .people-text__item:nth-child(3) {
-  color: #0206cf;
-  filter: drop-shadow(0 0 20px rgba(2, 6, 207, 0.3));
+  color: #7a13c3;
+  filter: drop-shadow(0 0 20px rgba(122, 19, 195, 0.3));
 }
 
 .people-text__item:nth-child(4) {
-  color: #f70295;
-  filter: drop-shadow(0 0 20px rgba(247, 2, 149, 0.3));
+  color: #6010e0;
+  filter: drop-shadow(0 0 20px rgba(96, 16, 224, 0.3));
 }
 
 .people-text__item:nth-child(5) {
-  color: #4f0868;
-  filter: drop-shadow(0 0 20px rgba(79, 8, 104, 0.3));
+  color: #cd04c3;
+  filter: drop-shadow(0 0 20px rgba(205, 4, 195, 0.3));
 }
 
 .people-text__item:nth-child(6) {
-  color: #3c3706;
-  filter: drop-shadow(0 0 20px rgba(60, 55, 6, 0.3));
+  color: #065a65;
+  filter: drop-shadow(0 0 20px rgba(6, 90, 101, 0.3));
 }
 
 .people-text__item:nth-child(7) {
-  color: #443c04;
-  filter: drop-shadow(0 0 20px rgba(68, 60, 4, 0.3));
+  color: #06f93b;
+  filter: drop-shadow(0 0 20px rgba(6, 249, 59, 0.3));
 }
 
 .people-text__item:nth-child(8) {
-  color: #2c3ced;
-  filter: drop-shadow(0 0 20px rgba(44, 60, 237, 0.3));
+  color: #696a0b;
+  filter: drop-shadow(0 0 20px rgba(105, 106, 11, 0.3));
 }
 
 .people-text__item:nth-child(9) {
-  color: #469207;
-  filter: drop-shadow(0 0 20px rgba(70, 146, 7, 0.3));
+  color: #fd213b;
+  filter: drop-shadow(0 0 20px rgba(253, 33, 59, 0.3));
 }
 
 .people-text__item:nth-child(10) {
-  color: #ffd829;
-  filter: drop-shadow(0 0 20px rgba(255, 216, 41, 0.3));
+  color: #074623;
+  filter: drop-shadow(0 0 20px rgba(7, 70, 35, 0.3));
 }
 
 .people-text__item:nth-child(11) {
-  color: #8c1108;
-  filter: drop-shadow(0 0 20px rgba(140, 17, 8, 0.3));
+  color: #8102a1;
+  filter: drop-shadow(0 0 20px rgba(129, 2, 161, 0.3));
 }
 
 .people-text__item:nth-child(12) {
-  color: #365502;
-  filter: drop-shadow(0 0 20px rgba(54, 85, 2, 0.3));
+  color: #08776e;
+  filter: drop-shadow(0 0 20px rgba(8, 119, 110, 0.3));
 }
 
 .people-text__item:nth-child(13) {
-  color: #525a01;
-  filter: drop-shadow(0 0 20px rgba(82, 90, 1, 0.3));
+  color: #b2bb02;
+  filter: drop-shadow(0 0 20px rgba(178, 187, 2, 0.3));
 }
 
 .people-text__item:nth-child(14) {
-  color: #73cf02;
-  filter: drop-shadow(0 0 20px rgba(115, 207, 2, 0.3));
+  color: #0ac4c7;
+  filter: drop-shadow(0 0 20px rgba(10, 196, 199, 0.3));
 }
 
 .people-text__item:nth-child(15) {
-  color: #056629;
-  filter: drop-shadow(0 0 20px rgba(5, 102, 41, 0.3));
+  color: #bebb04;
+  filter: drop-shadow(0 0 20px rgba(190, 187, 4, 0.3));
 }
 
 .people-text__item:nth-child(16) {
-  color: #01afb2;
-  filter: drop-shadow(0 0 20px rgba(1, 175, 178, 0.3));
+  color: #043f36;
+  filter: drop-shadow(0 0 20px rgba(4, 63, 54, 0.3));
 }
 
 .people-text__item:nth-child(17) {
-  color: #ee691b;
-  filter: drop-shadow(0 0 20px rgba(238, 105, 27, 0.3));
+  color: #0d5287;
+  filter: drop-shadow(0 0 20px rgba(13, 82, 135, 0.3));
 }
 
 .people-text__item:nth-child(18) {
-  color: #8b8804;
-  filter: drop-shadow(0 0 20px rgba(139, 136, 4, 0.3));
+  color: #390142;
+  filter: drop-shadow(0 0 20px rgba(57, 1, 66, 0.3));
 }
 
 .people-text__item:nth-child(19) {
-  color: #0fa1b8;
-  filter: drop-shadow(0 0 20px rgba(15, 161, 184, 0.3));
+  color: #242ff9;
+  filter: drop-shadow(0 0 20px rgba(36, 47, 249, 0.3));
 }
 
 .people-text__item:nth-child(20) {
-  color: #05ad3a;
-  filter: drop-shadow(0 0 20px rgba(5, 173, 58, 0.3));
+  color: #0b9801;
+  filter: drop-shadow(0 0 20px rgba(11, 152, 1, 0.3));
 }
 
 .people-text__item:nth-child(21) {
-  color: #23c20a;
-  filter: drop-shadow(0 0 20px rgba(35, 194, 10, 0.3));
+  color: #c22a0f;
+  filter: drop-shadow(0 0 20px rgba(194, 42, 15, 0.3));
 }
 
 .people-text__item:nth-child(22) {
-  color: #ff9c33;
-  filter: drop-shadow(0 0 20px rgba(255, 156, 51, 0.3));
+  color: #af0e41;
+  filter: drop-shadow(0 0 20px rgba(175, 14, 65, 0.3));
 }
 
 .people-text__item:nth-child(23) {
-  color: #d11537;
-  filter: drop-shadow(0 0 20px rgba(209, 21, 55, 0.3));
+  color: #17033a;
+  filter: drop-shadow(0 0 20px rgba(23, 3, 58, 0.3));
 }
 
 .people-text__item:nth-child(24) {
-  color: #0509cc;
-  filter: drop-shadow(0 0 20px rgba(5, 9, 204, 0.3));
+  color: #402902;
+  filter: drop-shadow(0 0 20px rgba(64, 41, 2, 0.3));
 }
 
 .people-text__item:nth-child(25) {
-  color: #92074a;
-  filter: drop-shadow(0 0 20px rgba(146, 7, 74, 0.3));
+  color: #403702;
+  filter: drop-shadow(0 0 20px rgba(64, 55, 2, 0.3));
 }
 
 .people-text__item:nth-child(26) {
-  color: #2e4706;
-  filter: drop-shadow(0 0 20px rgba(46, 71, 6, 0.3));
+  color: #3a0eb4;
+  filter: drop-shadow(0 0 20px rgba(58, 14, 180, 0.3));
 }
 
 .people-text__item:nth-child(27) {
-  color: #580938;
-  filter: drop-shadow(0 0 20px rgba(88, 9, 56, 0.3));
+  color: #7903a0;
+  filter: drop-shadow(0 0 20px rgba(121, 3, 160, 0.3));
 }
 
 .people-text__item:nth-child(28) {
-  color: #2c095d;
-  filter: drop-shadow(0 0 20px rgba(44, 9, 93, 0.3));
+  color: #10e5c8;
+  filter: drop-shadow(0 0 20px rgba(16, 229, 200, 0.3));
 }
 
 .people-text__item:nth-child(29) {
-  color: #ec3670;
-  filter: drop-shadow(0 0 20px rgba(236, 54, 112, 0.3));
+  color: #e7451d;
+  filter: drop-shadow(0 0 20px rgba(231, 69, 29, 0.3));
 }
 
 .people-text__item:nth-child(30) {
-  color: #e3161d;
-  filter: drop-shadow(0 0 20px rgba(227, 22, 29, 0.3));
+  color: #54d917;
+  filter: drop-shadow(0 0 20px rgba(84, 217, 23, 0.3));
 }
 
 .people-text__item:nth-child(31) {
-  color: #9c0711;
-  filter: drop-shadow(0 0 20px rgba(156, 7, 17, 0.3));
+  color: #12c9de;
+  filter: drop-shadow(0 0 20px rgba(18, 201, 222, 0.3));
 }
 
 .people-text__item:nth-child(32) {
-  color: #060269;
-  filter: drop-shadow(0 0 20px rgba(6, 2, 105, 0.3));
+  color: #ef570b;
+  filter: drop-shadow(0 0 20px rgba(239, 87, 11, 0.3));
 }
 
 .people-text__item:nth-child(33) {
-  color: #3c0566;
-  filter: drop-shadow(0 0 20px rgba(60, 5, 102, 0.3));
+  color: #180269;
+  filter: drop-shadow(0 0 20px rgba(24, 2, 105, 0.3));
 }
 
 .people-text__item:nth-child(34) {
-  color: #351203;
-  filter: drop-shadow(0 0 20px rgba(53, 18, 3, 0.3));
+  color: #fd5c26;
+  filter: drop-shadow(0 0 20px rgba(253, 92, 38, 0.3));
 }
 
 .people-text__item:nth-child(35) {
-  color: #9e4c00;
-  filter: drop-shadow(0 0 20px rgba(158, 76, 0, 0.3));
+  color: #eeea17;
+  filter: drop-shadow(0 0 20px rgba(238, 234, 23, 0.3));
 }
 
 .people-text__item:nth-child(36) {
-  color: #09aa4f;
-  filter: drop-shadow(0 0 20px rgba(9, 170, 79, 0.3));
+  color: #ea5834;
+  filter: drop-shadow(0 0 20px rgba(234, 88, 52, 0.3));
 }
 
 .people-text__item:nth-child(37) {
-  color: #ca0af5;
-  filter: drop-shadow(0 0 20px rgba(202, 10, 245, 0.3));
+  color: #d6cf05;
+  filter: drop-shadow(0 0 20px rgba(214, 207, 5, 0.3));
 }
 
 .people-text__item:nth-child(38) {
-  color: #25a10c;
-  filter: drop-shadow(0 0 20px rgba(37, 161, 12, 0.3));
+  color: #6b1f0b;
+  filter: drop-shadow(0 0 20px rgba(107, 31, 11, 0.3));
 }
 
 .people-text__item:nth-child(39) {
-  color: #3e4101;
-  filter: drop-shadow(0 0 20px rgba(62, 65, 1, 0.3));
+  color: #0a017e;
+  filter: drop-shadow(0 0 20px rgba(10, 1, 126, 0.3));
 }
 
 .people-text__item:nth-child(40) {
-  color: #11bad4;
-  filter: drop-shadow(0 0 20px rgba(17, 186, 212, 0.3));
+  color: #21fd12;
+  filter: drop-shadow(0 0 20px rgba(33, 253, 18, 0.3));
 }
 
 .people-text__item:nth-child(41) {
-  color: #077d62;
-  filter: drop-shadow(0 0 20px rgba(7, 125, 98, 0.3));
+  color: #8f08c9;
+  filter: drop-shadow(0 0 20px rgba(143, 8, 201, 0.3));
 }
 
 .people-text__item:nth-child(42) {
-  color: #084e1b;
-  filter: drop-shadow(0 0 20px rgba(8, 78, 27, 0.3));
+  color: #07194f;
+  filter: drop-shadow(0 0 20px rgba(7, 25, 79, 0.3));
 }
 
 .people-text__item:nth-child(43) {
-  color: #0c8392;
-  filter: drop-shadow(0 0 20px rgba(12, 131, 146, 0.3));
+  color: #2af441;
+  filter: drop-shadow(0 0 20px rgba(42, 244, 65, 0.3));
 }
 
 .people-text__item:nth-child(44) {
-  color: #bd0545;
-  filter: drop-shadow(0 0 20px rgba(189, 5, 69, 0.3));
+  color: #093805;
+  filter: drop-shadow(0 0 20px rgba(9, 56, 5, 0.3));
 }
 
 .people-text__item:nth-child(45) {
-  color: #8ec313;
-  filter: drop-shadow(0 0 20px rgba(142, 195, 19, 0.3));
+  color: #055134;
+  filter: drop-shadow(0 0 20px rgba(5, 81, 52, 0.3));
 }
 
 .people-text__item:nth-child(46) {
-  color: #f7571d;
-  filter: drop-shadow(0 0 20px rgba(247, 87, 29, 0.3));
+  color: #db8206;
+  filter: drop-shadow(0 0 20px rgba(219, 130, 6, 0.3));
 }
 
 .people-text__item:nth-child(47) {
-  color: #4a0725;
-  filter: drop-shadow(0 0 20px rgba(74, 7, 37, 0.3));
+  color: #035e41;
+  filter: drop-shadow(0 0 20px rgba(3, 94, 65, 0.3));
 }
 
 .people-text__item:nth-child(48) {
-  color: #035928;
-  filter: drop-shadow(0 0 20px rgba(3, 89, 40, 0.3));
+  color: #90fc2c;
+  filter: drop-shadow(0 0 20px rgba(144, 252, 44, 0.3));
 }
 
 .people-text__item:nth-child(49) {
-  color: #60d309;
-  filter: drop-shadow(0 0 20px rgba(96, 211, 9, 0.3));
+  color: #30055c;
+  filter: drop-shadow(0 0 20px rgba(48, 5, 92, 0.3));
 }
 
 .people-text__item:nth-child(50) {
-  color: #ec3827;
-  filter: drop-shadow(0 0 20px rgba(236, 56, 39, 0.3));
+  color: #a601bc;
+  filter: drop-shadow(0 0 20px rgba(166, 1, 188, 0.3));
 }
 
 .people-text__item:nth-child(51) {
-  color: #3fb508;
-  filter: drop-shadow(0 0 20px rgba(63, 181, 8, 0.3));
+  color: #686503;
+  filter: drop-shadow(0 0 20px rgba(104, 101, 3, 0.3));
 }
 
 .people-text__item:nth-child(52) {
-  color: #e3b016;
-  filter: drop-shadow(0 0 20px rgba(227, 176, 22, 0.3));
+  color: #1deda7;
+  filter: drop-shadow(0 0 20px rgba(29, 237, 167, 0.3));
 }
 
 .people-text__item:nth-child(53) {
-  color: #a30f81;
-  filter: drop-shadow(0 0 20px rgba(163, 15, 129, 0.3));
+  color: #0c0fb0;
+  filter: drop-shadow(0 0 20px rgba(12, 15, 176, 0.3));
 }
 
 .people-text__item:nth-child(54) {
-  color: #6501d0;
-  filter: drop-shadow(0 0 20px rgba(101, 1, 208, 0.3));
+  color: #8b7d04;
+  filter: drop-shadow(0 0 20px rgba(139, 125, 4, 0.3));
 }
 
 .people-text__item:nth-child(55) {
-  color: #e5109e;
-  filter: drop-shadow(0 0 20px rgba(229, 16, 158, 0.3));
+  color: #580929;
+  filter: drop-shadow(0 0 20px rgba(88, 9, 41, 0.3));
 }
 
 .people-text__item:nth-child(56) {
-  color: #0502ca;
-  filter: drop-shadow(0 0 20px rgba(5, 2, 202, 0.3));
+  color: #3fd515;
+  filter: drop-shadow(0 0 20px rgba(63, 213, 21, 0.3));
 }
 
 .people-text__item:nth-child(57) {
-  color: #1014fe;
-  filter: drop-shadow(0 0 20px rgba(16, 20, 254, 0.3));
+  color: #1ba8ee;
+  filter: drop-shadow(0 0 20px rgba(27, 168, 238, 0.3));
 }
 
 .people-text__item:nth-child(58) {
-  color: #04194e;
-  filter: drop-shadow(0 0 20px rgba(4, 25, 78, 0.3));
+  color: #015b2e;
+  filter: drop-shadow(0 0 20px rgba(1, 91, 46, 0.3));
 }
 
 .people-text__item:nth-child(59) {
-  color: #c06a07;
-  filter: drop-shadow(0 0 20px rgba(192, 106, 7, 0.3));
+  color: #480435;
+  filter: drop-shadow(0 0 20px rgba(72, 4, 53, 0.3));
 }
 
 .people-text__item:nth-child(60) {
-  color: #073ad5;
-  filter: drop-shadow(0 0 20px rgba(7, 58, 213, 0.3));
+  color: #f83044;
+  filter: drop-shadow(0 0 20px rgba(248, 48, 68, 0.3));
 }
 
 .jump-rate-table td:nth-child(1) {

@@ -21,9 +21,9 @@ At Seven Hills, we have very talented, __world-record holding__ instructors with
 
 At Seven Hills, we offer __two methods__ for your first skydive. The first method, [a tandem skydive](../../tandem-skydiving-wisconsin) is an excellent option for those that want their skydive instructor to be in control during the skydive.
 
-For those that want to enjoy skydiving by themself or want to work towards [earning their skydive "A" license](../../learn-to-skydiver), we offer [solo skydiving](../../solo-skydiving-wisconsin).
+For those that want to enjoy skydiving by themself or want to work towards [earning their skydive "A" license](../../learn-to-skydive), we offer [solo skydiving](../../solo-skydiving-wisconsin).
 
-__Either option is a great choice__ - it really depends on you! Feel free to [contact us](../../contact-us) if you have any questions, and we hope to see you soon!
+__Either option is a great choice__ - it really depends on you! Feel free to [contact us](../../contact) if you have any questions, and we hope to see you soon!
 
 <div style="text-align: center;padding-top:2em">
 	<a href="../../book-now" class="button button--primary">Book your skydive now <i class="fa fa-angle-double-right"></i></a>
