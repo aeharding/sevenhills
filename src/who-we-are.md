@@ -4,7 +4,7 @@ date: 2018-02-15
 layout: page.html
 nav:
   whoWeAre: true
-description: At Seven Hills, not only do we have state-of-the-art, well maintained skydiving equipment, but we have extremely well qualified instructors and coaches that put safety above all else. Don't take our word for it: We have been in business for over 55 years with a consistent safety record.
+description: "At Seven Hills, not only do we have state-of-the-art, well maintained skydiving equipment, but we have extremely well qualified instructors and coaches that put safety above all else. Don't take our word for it: We have been in business for over 55 years with a consistent safety record."
 ---
 
 ## Who we are

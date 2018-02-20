@@ -24,7 +24,7 @@ layout: index.html
 
   Your chance to take your solo skydive at the __lowest price of the year!__ Book now to take the class in __May__ to get this great price. Call (608) 244 - 5252 to sign up! Subject to availability, classes fill up quickly.
   <br><br>
-  [Click here to learn more](../solo-skydiving-wisconsin)
+  [Click here to learn more](solo-skydiving-wisconsin)
 </div>
 
 ### 2018 Head to the Hills Boogie
