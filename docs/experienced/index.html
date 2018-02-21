@@ -10,27 +10,6 @@
     <meta http-equiv="PRAGMA" content="NO-CACHE">
     <meta name="description" content="Calling all experienced skydivers! As a nonprofit, volunteer dropzone, experienced jumpers are the lifeblood of Seven Hills. We welcome jumpers to come out to jump, socialize, and have fun.">
     <link rel="canonical" href="https://sevenhillsskydivers.org/experienced/">
-
-    <!-- CSS -->
-    <link rel="stylesheet" href="../css/index.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    
-    <link href="https://fonts.googleapis.com/css?family=Lato:300&amp;text=SevenHillsSkydiversLet&apos;shavesomefun" rel="stylesheet" type="text/css">
-    
-    <!-- JS -->
-    <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.6.3/js/jquery.justifiedGallery.min.js"></script>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.6.3/css/justifiedGallery.min.css" rel="stylesheet" type="text/css">
-    
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      ga('create', 'UA-63548025-1', 'auto');
-      ga('send', 'pageview');
-    </script>
   </head>
 
   <body>
@@ -93,44 +72,13 @@
         </ul>
         
         <div class="bar-backdrop"></div>
-        
-        <script>
-        $('html').removeClass('no-js');
-        
-        $('.open-menu').on('click', function (e) {
-          $('#bar').toggleClass('bar-active');
-        });
-        
-        $('.bar-backdrop').on('click', function (e) {
-          $('#bar').removeClass('bar-active');
-        });
-        
-        $('.menu-hover > a').on('click', function (e) {
-          var el = $(this);
-        
-          if ($(window).width() <= 720) {
-        
-            // Show submenu
-            el.parent().toggleClass('menu-active');
-          }
-        
-          if (el.attr('href') === '#') {
-            e.preventDefault();
-          }
-          
-          // Hide other submenus
-          // el.parent().siblings('.menu-hover.menu-active').removeClass('menu-active');
-        });
-        
-        console.log('Twenty years from now you will be more disappointed by the things that you didn\'t do than by the ones you did do. Some throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover. - Mark Twain');
-        </script>
       </header>
     </div>
 
     <!-- <h1>Experienced</h1> -->
 
     <main>
-      <div><h2 id="experienced-jumpers-">Experienced jumpers &#x1F60E;</h2>
+      <h2 id="experienced-jumpers-">Experienced jumpers &#x1F60E;</h2>
 <p>As a nonprofit, volunteer dropzone, experienced jumpers are the lifeblood of Seven Hills! We welcome jumpers to come out to jump, socialize, and have fun.</p>
 <p>Read more about <a href="../our-facilities">our facilities</a> to see more of what we offer.</p>
 <p>See you in the air up there!</p>
@@ -138,11 +86,11 @@
 <p>The two people below are our awesome Safety and Training advisors. Most weekends, you can find one (or both) of them at the dropzone. <strong>Please don&apos;t hesistate</strong> to talk with them if you have any questions or concerns.</p>
 <ul class="people">
     <li class="people__item">
-        <img src="../img/people/andy-van-handel.jpg" alt="">
+        <img data-src="../img/people/andy-van-handel.jpg" alt="">
         <div class="people__item-name">Andy Van Handel</div>
     </li>
     <li class="people__item">
-        <img src="../img/people/russ-haas.jpg" alt="">
+        <img data-src="../img/people/russ-haas.jpg" alt="">
         <div class="people__item-name">Russ Haas</div>
     </li>
 </ul>
@@ -151,19 +99,27 @@
 <p>Weather updates, information, and pictures are all shared on our Facebook group, <a href="https://www.facebook.com/groups/382109661883081/" rel="external" target="_blank" class="external">Friends of Seven Hills Skydivers</a>. Please join to stay in up to date with the latest shenanigans happening at Seven Hills!</p>
 <h2 id="our-pricing">Our pricing</h2>
 <p>You can find our experienced jump prices <a href="../prices">here</a>.</p>
+<h2 id="helpful-information">Helpful information</h2>
+<ul>
+<li>Your <strong>reserve</strong> is out of date if it was packed before <strong><span id="reserve-pack-date"></span></strong>.</li>
+<li>If you have an <strong>A</strong> license, you need a recurrency jump if you haven&apos;t jumped since <strong><span id="a-license-date"></span></strong>.</li>
+<li>If you have an <strong>B</strong> license, you need a recurrency jump if you haven&apos;t jumped since <strong><span id="b-license-date"></span></strong>.</li>
+<li>If you have an <strong>C</strong> or <strong>D</strong> license, you a recurrency jump if you haven&apos;t jumped since <strong><span id="cd-license-date"></span></strong>.</li>
+</ul>
+<p><br></p>
 <div class="image-line">
-  <div><img src="../img/two-plane-load.jpg" alt="Two plane load"></div>
+  <div><img data-src="../img/two-plane-load.jpg" alt="Two plane load"></div>
 </div>
 
 <div class="image-line">
-  <div style="flex:0.6670264436"><img src="../img/vic-sunset.jpg" alt="3-way jump"></div>
-  <div style="flex:0.5625"><img src="../img/ice-jump.jpg" alt="Ice jump"></div>
+  <div style="flex:0.6670264436"><img data-src="../img/vic-sunset.jpg" alt="3-way jump"></div>
+  <div style="flex:0.5625"><img data-src="../img/ice-jump.jpg" alt="Ice jump"></div>
 </div>
 
 <div class="image-line">
-  <div><img src="../img/canopy-throw.jpg" alt="Throwing canopies in the air"></div>
+  <div><img data-src="../img/canopy-throw.jpg" alt="Throwing canopies in the air"></div>
 </div>
-</div>
+
     </main>
 
 
@@ -198,7 +154,101 @@
         	<a href="../city/skydiving-milwaukee">Skydiving Milwaukee</a>
         	<a href="../city/skydiving-wisconsin-dells">Skydiving Wisconsin Dells</a>
         </div>
-      </footer>
+        <div class="footer__back-to-top-col" onclick="document.documentElement.scrollTop = 0">
+        	<div><i class="fa fa-angle-up"></i><br>Back to top</div>
+        </div>      </footer>
     </div>
-  </body>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="../css/index.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/10.4.1/lazyload.min.js"></script>
+    
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400&amp;text=SevenHillsSkydiversLet&apos;shavesomefun" rel="stylesheet" type="text/css">
+    
+    <!-- JS -->
+    <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.6.3/js/jquery.justifiedGallery.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.6.3/css/justifiedGallery.min.css" rel="stylesheet" type="text/css">
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-63548025-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+    <script>
+    var myLazyLoad = new LazyLoad();
+    </script>
+    
+    <script>
+    (function() {
+      $('html').removeClass('no-js');
+    
+      $('.open-menu').on('click', function (e) {
+        $('#bar').addClass('bar-active');
+        // Disable scrolling body
+        $(document.body).addClass('body-noscroll');
+      });
+    
+      $('.bar-backdrop').on('click', function (e) {
+        $('#bar').removeClass('bar-active');
+        // Disable scrolling body
+        $(document.body).removeClass('body-noscroll');
+      });
+    
+      $('.menu-hover > a').on('click', function (e) {
+        var el = $(this);
+    
+        if ($(window).width() <= 720) {
+    
+          // Show submenu
+          el.parent().toggleClass('menu-active');
+        }
+    
+        if (el.attr('href') === '#') {
+          e.preventDefault();
+        }
+        
+        // Hide other submenus
+        // el.parent().siblings('.menu-hover.menu-active').removeClass('menu-active');
+      });
+    
+      console.log('Twenty years from now you will be more disappointed by the things that you didn\'t do than by the ones you did do. Some throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover. - Mark Twain');
+    }())
+    </script>
+    
+    <script>
+    $(".images-gallery").justifiedGallery({
+      rowHeight: 150,
+      margins: 5
+    });
+    </script>
+    
+    <script>
+    (function() {
+      function daysAgo(days) {
+        var monthNames = ["January", "February", "March", "April", "May", "June",
+          "July", "August", "September", "October", "November", "December"
+        ];
+    
+        var date = new Date();
+    
+        date.setDate(date.getDate() - days);
+    
+        return monthNames[date.getMonth()] + ' ' + date.getDate() + ', ' + date.getFullYear()
+      }
+    
+      $('#reserve-pack-date').text(daysAgo(180));
+      $('#student-license-date').text(daysAgo(30));
+      $('#a-license-date').text(daysAgo(60));
+      $('#b-license-date').text(daysAgo(90));
+      $('#cd-license-date').text(daysAgo(180));
+    }());
+    </script>  </body>
 </html>

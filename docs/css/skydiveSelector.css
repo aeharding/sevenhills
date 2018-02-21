@@ -5,13 +5,6 @@
   padding: 1em 0;
 }
 
-@media (max-width: 720px) {
-  .skydive-selector {
-    -ms-flex-direction: column;
-        flex-direction: column;
-  }
-}
-
 .skydive-selector__option div {
   display: -ms-flexbox;
   display: flex;
@@ -35,6 +28,12 @@
   font-size: 1.3em;
 }
 
+@media (max-width: 720px) {
+  .skydive-selector__option aside {
+    font-size: 0.9em;
+  }
+}
+
 .skydive-selector__option span {
   z-index: 2;
 }
@@ -55,14 +54,27 @@
   margin: 1em;
 }
 
+.skydive-selector__option--tandem div,
+.skydive-selector__option--solo div {
+  height: 250px;
+}
+
+@media (max-width: 720px) {
+  .skydive-selector__option--tandem div,
+  .skydive-selector__option--solo div {
+    height: calc(40vw - 2em);
+    font-size: 1.5em;
+  }
+}
+
 .skydive-selector__option--tandem div {
   background: url(../img/tandem.jpg);
   background-size: cover;
-  height: 250px;
+  background-position: center;
 }
 
 .skydive-selector__option--solo div {
   background: url(../img/iad.jpg);
   background-size: cover;
-  height: 250px;
+  background-position: center;
 }

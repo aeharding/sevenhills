@@ -18,10 +18,10 @@ Experienced jumpers and spectators are welcome!
 We do RW, CRW, VRW, and wingsuiting!
 
 <div class="image-line">
-  <div><img src="../img/clubhouse.jpg" alt="The Seven Hills clubhouse"></div>
+  <div><img data-src="../img/clubhouse.jpg" alt="The Seven Hills clubhouse"></div>
 </div>
 
 <div class="image-line">
-  <div style="flex:0.557073955"><img src="../img/south-landing.jpg" alt="South landing"></div>
-  <div style="flex:0.5625"><img src="../img/packing-area.jpg" alt="Packing area"></div>
+  <div style="flex:0.557073955"><img data-src="../img/south-landing.jpg" alt="South landing"></div>
+  <div style="flex:0.5625"><img data-src="../img/packing-area.jpg" alt="Packing area"></div>
 </div>

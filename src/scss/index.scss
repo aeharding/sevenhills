@@ -29,6 +29,10 @@ body {
   flex-direction: column;
 }
 
+.body-noscroll {
+  overflow: hidden;
+}
+
 main {
   flex: 1 1 auto; // sticky footer
   // 1 1 auto instead of 1 for ie11
@@ -148,9 +152,12 @@ main {
 .header-wrapper {
   color: white;
 
-  background: #00d2ff; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #00d2ff , #3a7bd5); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #00d2ff , #3a7bd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #00d2ff;
+  background: linear-gradient(to left, #00d2ff , #3a7bd5);
+
+  background: url('/img/header-bg.jpg');
+  background-position: center 71%;
+  background-size: cover;
 }
 
 .header-wrapper--video {
@@ -252,10 +259,8 @@ section {
 
 .choose-text {
   text-align: center;
-
-  @media screen and (max-width: 25em) {
-    font-weight: 300;
-  }
+  padding: 0;
+  margin: 1em 0 0;
 }
 
 .tandem-video {

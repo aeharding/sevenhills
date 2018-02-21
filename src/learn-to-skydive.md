@@ -9,7 +9,7 @@ description: Become a licensed skydiver! Are you up to the challenge? We offer a
 
 ## Learn to skydive &mdash; become a licensed skydiver! 😲
 
-Skydiving can be a life-changing event, and it gets even better when you become a licensed skydiver! Are you up to the challenge? _Do you have what it takes?_ <img src="../img/a-stamp.png" style="float:right" alt="USPA A license stamp"> We offer a __comprehensive__, __affordable__ student program to obtain your A-License. An A-License will grant you the freedom to jump _anywhere in the world!_ 🌎
+Skydiving can be a life-changing event, and it gets even better when you become a licensed skydiver! Are you up to the challenge? _Do you have what it takes?_ <img data-src="../img/a-stamp.png" style="float:right" alt="USPA A license stamp" width="125" height="115"> We offer a __comprehensive__, __affordable__ student program to obtain your A-License. An A-License will grant you the freedom to jump _anywhere in the world!_ 🌎
 
 During your training, you will quickly become a part of our skydive family in an open, friendly, and approachable environment where __safety is the highest priority__. You will work with instructors and coaches __one-on-one with training tailored to you__.
 
@@ -18,7 +18,7 @@ Our [highly qualified instructors and coaches](../../who-we-are) will equip you 
 It might not be easy, __but the journey will be worth it__.
 
 <div class="image-line">
-  <div><img src="../img/dustin-a-license.jpg" alt="Reba check dive"></div>
+  <div><img data-src="../img/dustin-a-license.jpg" alt="Reba check dive"></div>
 </div>
 
 ## The IAD Student Program
@@ -30,8 +30,8 @@ We follow the [IAD student progression](../solo-skydiving-wisconsin) for trainin
 Below is a summary of the skydives you can expect on your way to earning your "A" license. We have a page [detailing the rates you can expect](../solo-rates).
 
  * __2 IAD deployments__ where you focus on good body position and control (your first IAD jump counts for one of these!)
- * At least __three practice pilot chute throws__ (PPCTs). PPCTs build your muscle memory for deploying a parachute safely
- * __One clear and pull__ - deploy your parachute yourself without any instructor help!
+ * At least __3 practice pilot chute throws__ (PPCTs). PPCTs build your muscle memory for deploying a parachute safely
+ * __1 clear and pull__ - deploy your parachute yourself without any instructor help!
  * __2 10 second freefalls__ - experience your first extended freefall as you work on maintaining a heading in freefall and demonstrate a safe deployment
  * __2 15 second freefalls__ - from here on out you will jump with a coach next to you in freefall while you work on turns and other freefall maneuvers
  * __2 30 second freefalls__ - continue freefall maneuvers
@@ -49,18 +49,18 @@ Once you become an A-licensed skydiver, you have the opportunity to jump almost 
 Below are a few pictures of students that have received their "A" license recently!
 
 <div class="image-line">
-  <div><img src="../img/reba-check-dive.jpg" alt="Reba check dive"></div>
+  <div><img data-src="../img/reba-check-dive.jpg" alt="Reba check dive"></div>
 </div>
 
 <div class="image-line">
-  <div><img src="../img/reba-logbook.jpg" alt="Reba logbook"></div>
+  <div><img data-src="../img/reba-logbook.jpg" alt="Reba logbook"></div>
   <div><img src="../img/reba-stamp.jpg" alt="Reba stamped"></div>
 </div>
 
 <div class="image-line">
-  <div><img src="../img/suman-a-license.jpg" alt="Reba check dive"></div>
+  <div><img data-src="../img/suman-a-license.jpg" alt="Reba check dive"></div>
 </div>
 
 <div class="image-line">
-  <div><img src="../img/jake-a-license.jpg" alt="Reba check dive"></div>
+  <div><img data-src="../img/jake-a-license.jpg" alt="Reba check dive"></div>
 </div>

@@ -7,7 +7,7 @@ nav:
 description: We are a not-for-profit, all volunteer, member owned and operated club around since 1962. Only 15 minutes outside of Madison. We're here to promote skydiving and introduce people to the sport by training students and performing demo jumps.
 ---
 
-## The Seven Hills Difference<img src="../img/logo.jpg" alt="The Seven Hills Skydivers logo" style="float: right;width:200px">
+## The Seven Hills Difference<img data-src="../img/logo.jpg" alt="The Seven Hills Skydivers logo" style="float: right;width:200px">
 
 We at Seven Hills take an active interest in each and every one of our students' __safety__ and __learning__. You will quickly become a part of our Seven Hills family as you enter what may be _the greatest sport in the world_.
 
@@ -37,4 +37,4 @@ And after you make that first jump...you ARE family!!_ __- Missy School-Keough__
 
 <br>
 
-<img src="../img/brian-aaron.jpg" alt="Brian and Aaron" class="full-width">
+<img data-src="../img/brian-aaron.jpg" alt="Brian and Aaron" class="full-width">

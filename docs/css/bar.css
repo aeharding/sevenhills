@@ -20,7 +20,7 @@
 
 @media (max-width: 720px) {
   #bar {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     bottom: 0;
@@ -28,6 +28,7 @@
     transition: transform 250ms ease;
     -ms-flex-direction: column;
         flex-direction: column;
+    overflow-y: auto;
     background: white;
     width: 280px;
     -ms-flex-pack: start;
@@ -52,7 +53,7 @@
 }
 
 .bar-backdrop {
-  position: absolute;
+  position: fixed;
   top: 0;
   right: 0;
   bottom: 0;
@@ -83,6 +84,8 @@
 @media (min-width: 721px) {
   #bar > li > a {
     color: #fff;
+    -webkit-filter: drop-shadow(0 0 15px rgba(0, 0, 0, 0.7));
+            filter: drop-shadow(0 0 15px rgba(0, 0, 0, 0.7));
   }
 }
 

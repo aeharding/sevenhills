@@ -27,13 +27,15 @@ layout: index.html
   [Click here to learn more](solo-skydiving-wisconsin)
 </div>
 
-## Welcome to Seven Hills &mdash; Skydiving near Madison since 1962
+## Welcome to Seven Hills &mdash; jumping out of planes since 1962
 
-We're the __closest skydive center to Madison__ offering [tandem](tandem-skydiving-wisconsin) jumps, [solo](solo-skydiving-wisconsin) jumps as well as [a training program](learn-to-skydive) to become a licensed skydiver. We also serve the Wisconsin Dells, Milwaukee, Janesville, La Crosse, and Appleton &mdash; only a short drive away, and we frequently see people from all over Wisconsin.
-
-Seven Hills is a nonprofit, 501(c)(3) organization being volunteer owned and operated [for over 55 years](about-us). Our highly experienced [USPA certified instructors and staff](who-we-are) are here to spread the excitement of skydiving to others. At Seven Hills, __skydiving is what we love__. It's _not_ a job.
-
-As a small skydive operation, we provide a __more relaxed__ and __more family friendly__ atmosphere than other dropzones in Wisconsin. You won't feel intimidated by a lot of faces, and you're not going to be rushed through the jump. When you call us, you speak directly with one of our skydive instructors.
+Located __15 minutes from Madison__, Seven Hills Skydivers offers both [tandem](tandem-skydiving-wisconsin) and [solo](solo-skydiving-wisconsin) jump options as well as an [affordable training program](learn-to-skydive) for those interested in becoming licensed skydivers. We welcome visitors from all corners of the world as well as from neighboring communities like Wisconsin Dells, Milwaukee, Janesville, La Crosse, and Appleton.
+ 
+Seven Hills is a __nonprofit__, 501(c)(3) organization, and has been __volunteer-owned and operated__ for over __55 years__. Our highly experienced [USPA rated instructors and staff](who-we-are) are here to spread the excitement of skydiving to others. At Seven Hills, skydiving is _not_ our job; __it is our passion__.
+ 
+As a small skydiving center, we strive to provide a __relaxed__, __family-friendly__ atmosphere.  Our top priority is __safety__, not speed. We won't rush you through your training and jump.
+ 
+When you call to schedule your visit, __you will be speaking__ directly with one of our experienced __skydive instructors__, who can answer any questions or concerns you may have.
 
 ## 2018 Head to the Hills Boogie
 
@@ -47,4 +49,4 @@ We offer two training methods, and one is not necessarily better than the other.
 
 The **Tandem** method is popular today, but if you’re interested in 'doing by yourself' or pursuing your skydiving license you will need to take our **Instructor Assisted Deployment** (IAD) first jump course. The decision is like, do you want to take a ride in a car or drive it. Read through the [Tandem](../tandem-skydiving-wisconsin) and [IAD](../solo-skydiving-wisconsin) pages for a detailed description of the two training options.
 
-<img src="img/head-to-hills.jpg" alt="Head to the Hills 2017" class="full-width">
+<img data-src="img/head-to-hills.jpg" alt="Head to the Hills 2017" class="full-width">

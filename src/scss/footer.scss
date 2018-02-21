@@ -1,5 +1,8 @@
 .footer-wrapper {
 	background: linear-gradient(to left, #7BD53A, darken(#7BD53A, 10%));
+  background: url('/img/footer-bg.jpg');
+  background-position: center bottom;
+  background-size: cover;
 	color: white;
 }
 
@@ -9,6 +12,10 @@ footer {
   padding: 1em 0;
 
   display: flex;
+
+  @media (max-width: 720px) {
+    flex-direction: column;
+  }
 
   &::after {
     content: '';
@@ -61,5 +68,23 @@ footer {
 
   a {
     padding: 0 5px;
+  }
+}
+
+.footer__back-to-top-col {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  text-align: center;
+  color: white;
+  line-height: 1;
+
+  @media (min-width: 721px) {
+    display: none;
+  }
+
+  .fa {
+    font-size: 2em;
   }
 }

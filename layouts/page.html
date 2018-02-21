@@ -10,9 +10,6 @@
     <meta http-equiv="PRAGMA" content="NO-CACHE">
     <meta name="description" content="{{ description }}">
     <link rel="canonical" href="{{canonical}}">
-
-    {{> vendor rel='../'}}
-
   </head>
 
   <body>
@@ -34,7 +31,7 @@
       </div>
       {{/unless}}
       {{/unless}}
-      <div>{{{ contents }}}</div>
+      {{{ contents }}}
     </main>
 
     {{#unless disableCall}}
@@ -48,5 +45,7 @@
         {{> footer rel='../'}}
       </footer>
     </div>
+
+    {{> vendor rel='../'}}
   </body>
 </html>

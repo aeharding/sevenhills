@@ -10,27 +10,6 @@
     <meta http-equiv="PRAGMA" content="NO-CACHE">
     <meta name="description" content="Seven Hills is the #1 choice for tandem and solo skydiving in Wisconsin for over 55 years. Not-for-profit, volunteer owned and operated parachute club, offering professional, safety oriented, family friendly skydiving. Located in Madison, WI and close to Milwaukee.">
     <link rel="canonical" href="https://sevenhillsskydivers.org/posts/head-to-the-hills-2018/">
-
-    <!-- CSS -->
-    <link rel="stylesheet" href="../../css/index.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    
-    <link href="https://fonts.googleapis.com/css?family=Lato:300&amp;text=SevenHillsSkydiversLet&apos;shavesomefun" rel="stylesheet" type="text/css">
-    
-    <!-- JS -->
-    <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.6.3/js/jquery.justifiedGallery.min.js"></script>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.6.3/css/justifiedGallery.min.css" rel="stylesheet" type="text/css">
-    
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      ga('create', 'UA-63548025-1', 'auto');
-      ga('send', 'pageview');
-    </script>
   </head>
 
   <body>
@@ -93,37 +72,6 @@
         </ul>
         
         <div class="bar-backdrop"></div>
-        
-        <script>
-        $('html').removeClass('no-js');
-        
-        $('.open-menu').on('click', function (e) {
-          $('#bar').toggleClass('bar-active');
-        });
-        
-        $('.bar-backdrop').on('click', function (e) {
-          $('#bar').removeClass('bar-active');
-        });
-        
-        $('.menu-hover > a').on('click', function (e) {
-          var el = $(this);
-        
-          if ($(window).width() <= 720) {
-        
-            // Show submenu
-            el.parent().toggleClass('menu-active');
-          }
-        
-          if (el.attr('href') === '#') {
-            e.preventDefault();
-          }
-          
-          // Hide other submenus
-          // el.parent().siblings('.menu-hover.menu-active').removeClass('menu-active');
-        });
-        
-        console.log('Twenty years from now you will be more disappointed by the things that you didn\'t do than by the ones you did do. Some throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover. - Mark Twain');
-        </script>
       </header>
     </div>
 
@@ -179,7 +127,101 @@ registration form up on the website very soon, more to come on that. We also hav
         	<a href="../../city/skydiving-milwaukee">Skydiving Milwaukee</a>
         	<a href="../../city/skydiving-wisconsin-dells">Skydiving Wisconsin Dells</a>
         </div>
-      </footer>
+        <div class="footer__back-to-top-col" onclick="document.documentElement.scrollTop = 0">
+        	<div><i class="fa fa-angle-up"></i><br>Back to top</div>
+        </div>      </footer>
     </div>
-  </body>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="../../css/index.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/10.4.1/lazyload.min.js"></script>
+    
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400&amp;text=SevenHillsSkydiversLet&apos;shavesomefun" rel="stylesheet" type="text/css">
+    
+    <!-- JS -->
+    <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.6.3/js/jquery.justifiedGallery.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.6.3/css/justifiedGallery.min.css" rel="stylesheet" type="text/css">
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-63548025-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+    <script>
+    var myLazyLoad = new LazyLoad();
+    </script>
+    
+    <script>
+    (function() {
+      $('html').removeClass('no-js');
+    
+      $('.open-menu').on('click', function (e) {
+        $('#bar').addClass('bar-active');
+        // Disable scrolling body
+        $(document.body).addClass('body-noscroll');
+      });
+    
+      $('.bar-backdrop').on('click', function (e) {
+        $('#bar').removeClass('bar-active');
+        // Disable scrolling body
+        $(document.body).removeClass('body-noscroll');
+      });
+    
+      $('.menu-hover > a').on('click', function (e) {
+        var el = $(this);
+    
+        if ($(window).width() <= 720) {
+    
+          // Show submenu
+          el.parent().toggleClass('menu-active');
+        }
+    
+        if (el.attr('href') === '#') {
+          e.preventDefault();
+        }
+        
+        // Hide other submenus
+        // el.parent().siblings('.menu-hover.menu-active').removeClass('menu-active');
+      });
+    
+      console.log('Twenty years from now you will be more disappointed by the things that you didn\'t do than by the ones you did do. Some throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover. - Mark Twain');
+    }())
+    </script>
+    
+    <script>
+    $(".images-gallery").justifiedGallery({
+      rowHeight: 150,
+      margins: 5
+    });
+    </script>
+    
+    <script>
+    (function() {
+      function daysAgo(days) {
+        var monthNames = ["January", "February", "March", "April", "May", "June",
+          "July", "August", "September", "October", "November", "December"
+        ];
+    
+        var date = new Date();
+    
+        date.setDate(date.getDate() - days);
+    
+        return monthNames[date.getMonth()] + ' ' + date.getDate() + ', ' + date.getFullYear()
+      }
+    
+      $('#reserve-pack-date').text(daysAgo(180));
+      $('#student-license-date').text(daysAgo(30));
+      $('#a-license-date').text(daysAgo(60));
+      $('#b-license-date').text(daysAgo(90));
+      $('#cd-license-date').text(daysAgo(180));
+    }());
+    </script>  </body>
 </html>

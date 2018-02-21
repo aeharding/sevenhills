@@ -3,10 +3,6 @@
 
 	margin: -1em;
 	padding: 1em 0;
-
-	@media (max-width: 720px) {
-		flex-direction: column;
-	}
 }
 
 .skydive-selector__option div {
@@ -28,6 +24,10 @@
 .skydive-selector__option aside {
     text-align: center;
     font-size: 1.3em;
+
+	@media (max-width: 720px) {
+		font-size: 0.9em;
+	}
 }
 
 .skydive-selector__option span {
@@ -50,15 +50,26 @@
 
 }
 
+.skydive-selector__option--tandem div,
+.skydive-selector__option--solo div {
+	height: 250px;
+
+
+	@media (max-width: 720px) {
+		height: calc(40vw - 2em);
+		font-size: 1.5em
+	}
+}
+
 .skydive-selector__option--tandem div {
 	background: url(../img/tandem.jpg);
 	background-size: cover;
-	height: 250px;
+	background-position: center;
 }
 
 .skydive-selector__option--solo div {
 	background: url(../img/iad.jpg);
 	background-size: cover;
-	height: 250px;
+	background-position: center;
 
 }
