@@ -19,6 +19,12 @@
   position: relative;
 }
 
+@media (max-width: 720px) {
+  .skydive-selector__option div {
+    font-weight: 400;
+  }
+}
+
 .skydive-selector__option a {
   text-decoration: none;
 }
@@ -63,7 +69,7 @@
   .skydive-selector__option--tandem div,
   .skydive-selector__option--solo div {
     height: calc(40vw - 2em);
-    font-size: 1.5em;
+    font-size: 2em;
   }
 }
 

@@ -40,7 +40,7 @@ Below is a summary of the skydives you can expect on your way to earning your "A
 
 ## Take your first jump
 
-It seems like a lot - but don't worry! We will walk you through each jump, starting at #1, __at your own pace__. If you're interested in becoming a licensed skydiver and are interested in your first solo skydive, check out the first jump page [here](../solo-skydiving-wisconsin). You can also call us with any questions at (608) 244 - 5252.
+It seems like a lot - but don't worry! We will walk you through each jump, starting at #1, __at your own pace__. If you're interested in becoming a licensed skydiver and are interested in your first solo skydive, check out the first jump page [here](../solo-skydiving-wisconsin). You can also call us with any questions at <a href="tel:6082445252">(608) 244 - 5252</a>.
 
 ## Beyond the A-license
 

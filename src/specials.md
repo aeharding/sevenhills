@@ -21,13 +21,13 @@ If you're looking to save on skydiving, you're on the right page!
 
 This deal is your chance to take your solo skydive at the __lowest price of the year - only $125!__ Book now to take the class in __May__ to get this great price.
 
-Call (608) 244 - 5252 to sign up!
+Call <a href="tel:6082445252">(608) 244 - 5252</a> to sign up!
 
 _(Subject to availability, classes fill up quickly. May not be combined with any other offers.)_
 
 ### Solo skydive after your tandem skydive
 
-After completing your first tandem skydive at Seven Hills Skydivers, we can offer you the thrill of skydiving with our solo first jump course for only __$125__! Please call our scheduler at (608) 244 - 5252 and mention this offer.
+After completing your first tandem skydive at Seven Hills Skydivers, we can offer you the thrill of skydiving with our solo first jump course for only __$125__! Please call our scheduler at <a href="tel:6082445252">(608) 244 - 5252</a> and mention this offer.
 
 _(May not be combined with any other offers.)_
 

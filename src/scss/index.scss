@@ -64,6 +64,11 @@ pre {
 
 a {
   color: #e81c4f;
+
+  &[href^='tel:'] {
+    text-decoration: none;
+    color: inherit;
+  }
 }
 
 code,

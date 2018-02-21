@@ -12,7 +12,7 @@ description: Ready to take the leap? You can book your tandem or solo skydive, g
 
 You can book your skydive, get information, and much more by calling our scheduler 8am - 10pm, seven days a week!
 
-__To book, call us at (608) 244 - 5252.__
+__To book, call us at <a href="tel:6082445252">(608) 244 - 5252</a>.__
 
 <img data-src="../img/inside-canopy.jpg" alt="Inside canopy" class="full-width">
 

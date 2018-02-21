@@ -16,9 +16,9 @@ Our experienced crew of instructors and members are always ready to answer any q
 
 ### Phone
 
-If you want to __schedule a skydive__ or ask us a question, call __(608) 244 - 5252__.
+If you want to __schedule a skydive__ or ask us a question, call __<a href="tel:6082445252">(608) 244 - 5252</a>__.
 
-If you want to __reach the dropzone__ during jump operations, call __(920) 623 - 2838__.
+If you want to __reach the dropzone__ during jump operations, call __<a href="tel:9206232838">(920) 623 - 2838</a>__.
 
 ### Email
 

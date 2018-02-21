@@ -11,7 +11,7 @@ description: Curious how much it costs to skydive? Here is our complete list of 
 
 ### Gift certificates 🎁
 
-Looking for a unique gift?  If you're still wondering what to get a loved one, someone special, snowman, witch, turkey, or a friend, then look no further.  Give them the thrill of a lifetime and memories that will be shared for years to come.  Give them the adrenaline rush of a skydive!  Seven Hills Gift Certificates make a wonderful stocking stuffer or other occasion gift.  Certificates can be bought for any dollar amount and can be purchased by calling 608-244-5252.
+Looking for a unique gift?  If you're still wondering what to get a loved one, someone special, snowman, witch, turkey, or a friend, then look no further.  Give them the thrill of a lifetime and memories that will be shared for years to come.  Give them the adrenaline rush of a skydive!  Seven Hills Gift Certificates make a wonderful stocking stuffer or other occasion gift.  Certificates can be bought for any dollar amount and can be purchased by calling <a href="tel:6082445252">608-244-5252</a>.
 
 ### Tandem pricing
 

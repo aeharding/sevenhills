@@ -35,7 +35,7 @@ Tandem: An hour of instruction, 30 second free fall, you jump with an instructor
 <dd><p>Yes, a $100 NON REFUNDABLE deposit is required to schedule a skydive. This deposit is not refundable unless you cancel 10 days prior to your jump.  It can be rescheduled.</p></dd>
 
 <dt><a href="">Who do I call to sign up?</a></dt>
-<dd><p>To sign up for a class or to schedule a tandem jump, call us at (608) 244-5252. You will talk to a real person most of the time. We are generally available to take your call seven days a week all day long. At times, you will get voice mail if we are unavailable.  Please leave a message and we will do our best to return your call in a timely manner.</p></dd>
+<dd><p>To sign up for a class or to schedule a tandem jump, call us at <a href="tel:6082445252">(608) 244-5252</a>. You will talk to a real person most of the time. We are generally available to take your call seven days a week all day long. At times, you will get voice mail if we are unavailable.  Please leave a message and we will do our best to return your call in a timely manner.</p></dd>
 
 <dt><a href="">Do you have GIFT CERTIFICATES available?</a></dt>
 <dd><p>Yes, we offer gift certificates! Call our scheduling phone.</p></dd>

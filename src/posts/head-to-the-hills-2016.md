@@ -17,7 +17,7 @@ If you have never experienced the thrill of skydiving we are offering Tandem Sky
 
 We also have Plane rides on most loads going to 12,500' watching skydivers exit the plane and have a fun descent back to the ground for $50. Seats are limited, 1 per load.
 
-For Reservations call 608-244-5252 or email us: jump@sevenhillsskydivers.org
+For Reservations call <a href="tel:6082445252">608-244-5252</a> or email us: jump@sevenhillsskydivers.org
 
 ### Experienced jumpers
 
