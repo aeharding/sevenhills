@@ -90,25 +90,3 @@ Tandem: An hour of instruction, 30 second free fall, you jump with an instructor
 <dd><p>No, it doesn't hurt. The harness is tightened so that there's no real shock from it pulling when the parachute opens.</p></dd>
 
 </dl>
-
-<script>
-  (function($) {
-      
-    var allPanels = $('.accordion > dd').hide();
-      
-    $('.accordion > dt > a').click(function() {
-        $this = $(this);
-        $target =  $this.parent().next();
-
-        if(!$target.hasClass('active')){
-           allPanels.removeClass('active').slideUp();
-           $target.addClass('active').slideDown();
-        } else {
-          allPanels.removeClass('active').slideUp();
-        }
-        
-      return false;
-    });
-
-  })(jQuery);
-  </script>

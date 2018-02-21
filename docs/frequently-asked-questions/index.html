@@ -164,28 +164,6 @@ Tandem: An hour of instruction, 30 second free fall, you jump with an instructor
 
 </dl>
 
-<script>
-  (function($) {
-
-    var allPanels = $('.accordion > dd').hide();
-
-    $('.accordion > dt > a').click(function() {
-        $this = $(this);
-        $target =  $this.parent().next();
-
-        if(!$target.hasClass('active')){
-           allPanels.removeClass('active').slideUp();
-           $target.addClass('active').slideDown();
-        } else {
-          allPanels.removeClass('active').slideUp();
-        }
-
-      return false;
-    });
-
-  })(jQuery);
-  </script>
-
     </main>
 
     <div class="navigation__call">
@@ -319,5 +297,28 @@ Tandem: An hour of instruction, 30 second free fall, you jump with an instructor
       $('#b-license-date').text(daysAgo(90));
       $('#cd-license-date').text(daysAgo(180));
     }());
-    </script>  </body>
+    </script>
+    
+    <script>
+      (function($) {
+          
+        var allPanels = $('.accordion > dd').hide();
+          
+        $('.accordion > dt > a').click(function() {
+            $this = $(this);
+            $target =  $this.parent().next();
+    
+            if(!$target.hasClass('active')){
+               allPanels.removeClass('active').slideUp();
+               $target.addClass('active').slideDown();
+            } else {
+              allPanels.removeClass('active').slideUp();
+            }
+            
+          return false;
+        });
+    
+      })(jQuery);
+      </script>
+        </body>
 </html>
