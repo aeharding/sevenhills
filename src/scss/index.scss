@@ -1,7 +1,5 @@
 @import 'variables';
 
-@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
-
 html {
   box-sizing: border-box;
 }
@@ -158,11 +156,26 @@ main {
   color: white;
 
   background: #00d2ff;
-  background: linear-gradient(to left, #00d2ff , #3a7bd5);
+  background: linear-gradient(to left, #00d2ff, #3a7bd5);
 
   background: url('/img/header-bg.jpg');
   background-position: center 71%;
   background-size: cover;
+  
+  position: relative;
+
+  &::before {
+    content: '';
+
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    background: linear-gradient(to left, #00d2ff, #3a7bd5);
+  }
 }
 
 .header-wrapper--video {

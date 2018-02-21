@@ -18,7 +18,7 @@ If you're on vacation and only have time for a quick afternoon or morning visit 
 <img src="../../img/wisconsin-dells.jpg" alt="Janesville Downtown" class="full-width">
 
 <div style="text-align: center;padding-top:2em">
-	<a href="../../book-now" class="button button--primary">Book your skydive now <i class="fa fa-angle-double-right"></i></a>
+	<a href="../../book-now" class="button button--primary">Book your skydive now</a>
 </div>
 
 ## Directions to Seven Hills Skydivers from the Wisconsin Dells

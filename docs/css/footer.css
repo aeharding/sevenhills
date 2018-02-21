@@ -1,9 +1,20 @@
 .footer-wrapper {
-  background: linear-gradient(to left, #7BD53A, #62b527);
   background: url("/img/footer-bg.jpg");
   background-position: center bottom;
   background-size: cover;
   color: white;
+  position: relative;
+}
+
+.footer-wrapper::before {
+  content: '';
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(to left, #7BD53A, #62b527);
 }
 
 footer {
@@ -75,11 +86,25 @@ footer a:hover {
 }
 
 .footer__social {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+      justify-content: center;
   font-size: 1.8em;
 }
 
 .footer__social a {
   padding: 0 5px;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center;
+}
+
+.footer__social a svg {
+  fill: white;
+  width: 1em;
+  height: 1em;
 }
 
 .footer__back-to-top-col {

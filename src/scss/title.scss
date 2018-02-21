@@ -12,13 +12,15 @@
     flex: 1;
   }
 
-  i {
-    font-size: 1.5em;
-    padding: 10px 15px;
+  > .open-menu {
+    fill: white;
+    width: 25px;
+    height: 25px;
+    margin: 0 4px;
   }
 
   @media (min-width: 721px) {
-    i {
+    .open-menu {
       display: none;
     }
   }

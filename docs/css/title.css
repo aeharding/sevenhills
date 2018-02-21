@@ -13,13 +13,15 @@
       flex: 1;
 }
 
-.title i {
-  font-size: 1.5em;
-  padding: 10px 15px;
+.title > .open-menu {
+  fill: white;
+  width: 25px;
+  height: 25px;
+  margin: 0 4px;
 }
 
 @media (min-width: 721px) {
-  .title i {
+  .title .open-menu {
     display: none;
   }
 }

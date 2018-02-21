@@ -59,7 +59,7 @@ Metalsmith(__dirname)
   .use(extlinks({
     domain: 'sevenhillsskydivers.org',
     whitelist: [],
-    rel: 'external',
+    rel: 'noopener',
     target: '_blank'
     // extClass: 'external'
   }))

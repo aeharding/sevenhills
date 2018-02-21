@@ -26,7 +26,7 @@ For those that want to enjoy skydiving by themself or want to work towards [earn
 __Either option is a great choice__ - it really depends on you! Feel free to [contact us](../../contact) if you have any questions, and we hope to see you soon!
 
 <div style="text-align: center;padding-top:2em">
-	<a href="../../book-now" class="button button--primary">Book your skydive now <i class="fa fa-angle-double-right"></i></a>
+	<a href="../../book-now" class="button button--primary">Book your skydive now</a>
 </div>
 
 ## Directions to Seven Hills Skydivers from La Crosse, WI

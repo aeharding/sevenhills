@@ -4,13 +4,13 @@ date: 2018-02-15
 layout: page.html
 nav:
   location: true
-description: Seven Hills Skydivers is located 15 minutes outside of Madison at 7530 State Highway 73, York Center, WI. We're also a short drive away from Janesville, La Crosse, Appleton, Milwaukee and the Wisconsin Dells.
+description: Seven Hills Skydivers is located 15 minutes outside of Madison at 7530 WI-73, Marshall, WI 53559. We're also a short drive away from Janesville, La Crosse, Appleton, Milwaukee and the Wisconsin Dells.
 ---
 
 ## 📍 Our Location
 
-7530 State Highway 73<br>
-York Center, WI
+7530 WI-73<br>
+Marshall, WI 53559
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d374279.5091384703!2d-89.4506881!3d42.8716059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88068c905a73806f%3A0x23161a6f3ddc1fe9!2sSkydive+Madison-+Seven+Hills+Skydivers+Inc!5e0!3m2!1sen!2sus!4v1518891262921" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 

@@ -33,7 +33,7 @@
     width: 280px;
     justify-content: flex-start;
 
-    z-index: 3;
+    z-index: 4;
   }
 
   #bar.bar-active {
@@ -41,9 +41,13 @@
     color: black;
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.4);
 
+    svg {
+      fill: currentColor;
+    }
+
     + .bar-backdrop {
       opacity: 1;
-      z-index: 1;
+      z-index: 3;
     }
   }
 }
@@ -80,11 +84,21 @@
 }
 
 #bar > li > a {
-  display: block;
   margin-right: 0;
   padding: 15px 0;
   text-decoration: none;
   color: #3a7bd5;
+
+
+  display: flex;
+  align-items: center;
+
+  svg {
+    margin-left: 4px;
+    height: 1em;
+    width: 1em;
+    fill: white;
+  }
 
   @media (min-width: 721px) {
     color: #fff;
@@ -93,11 +107,6 @@
   }
   @media (max-width: 720px) {
     padding: 10px 20px;
-  }
-
-  > .fa {
-    margin-left: 4px;
-    font-size: 0.9em;
   }
 }
 
@@ -127,7 +136,7 @@
     -webkit-transition: all 0.25s;
     transition: all 0.25s;
     width: 230px;
-    z-index: 3;
+    z-index: 4;
     font-size: 1rem;
   }
 

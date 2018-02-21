@@ -44,7 +44,7 @@ See [our complete list of prices](../prices#tandem-pricing) for more detailed in
 See [our dedicated FAQ](../frequently-asked-questions). For more, call us or shoot us an email.
 
 <div style="text-align: center;padding-top:2em">
-  <a href="../../book-now" class="button button--primary">Book your skydive now <i class="fa fa-angle-double-right"></i></a>
+  <a href="../../book-now" class="button button--primary">Book your skydive now</a>
 </div>
 
 <br>

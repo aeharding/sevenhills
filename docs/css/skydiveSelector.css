@@ -74,13 +74,13 @@
 }
 
 .skydive-selector__option--tandem div {
-  background: url(../img/tandem.jpg);
+  background: url(../img/tandem-thumb.jpg);
   background-size: cover;
   background-position: center;
 }
 
 .skydive-selector__option--solo div {
-  background: url(../img/iad.jpg);
+  background: url(../img/iad-thumb.jpg);
   background-size: cover;
   background-position: center;
 }

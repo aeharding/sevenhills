@@ -22,7 +22,7 @@ We offer both [Tandem skydiving](../../tandem-skydiving-wisconsin) and [solo sky
 Booking your skydive is easy - just [click here](../../book-now) and you'll be on your way! We hope to see you at Seven Hills soon! 😄
 
 <div style="text-align: center;padding-top:2em">
-	<a href="../../book-now" class="button button--primary">Book your skydive now <i class="fa fa-angle-double-right"></i></a>
+	<a href="../../book-now" class="button button--primary">Book your skydive now</a>
 </div>
 
 ## Directions to Seven Hills Skydivers from Janesville, WI

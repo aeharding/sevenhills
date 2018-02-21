@@ -22,7 +22,7 @@ If you're interested in [making a Tandem skydive](../../tandem-skydiving-wiscons
 You can book your skydive anytime - just [click here to get started](../../book-now)! See you soon - blue skies! 😄
 
 <div style="text-align: center;padding-top:2em">
-	<a href="../../book-now" class="button button--primary">Book your skydive now <i class="fa fa-angle-double-right"></i></a>
+	<a href="../../book-now" class="button button--primary">Book your skydive now</a>
 </div>
 
 ## Directions to Seven Hills Skydivers from Appleton, WI
