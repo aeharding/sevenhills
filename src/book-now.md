@@ -14,7 +14,7 @@ You can book your skydive, get information, and much more by calling our schedul
 
 __To book, call us at (608) 244 - 5252.__
 
-<img src="../img/inside-canopy.jpg" alt="Inside canopy" class="full-width">
+<img data-src="../img/inside-canopy.jpg" alt="Inside canopy" class="full-width">
 
 ## Weather Policy
 

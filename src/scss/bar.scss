@@ -19,20 +19,21 @@
 
 @media (max-width: 720px) {
   #bar {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     bottom: 0;
     transform: translateX(-100%);
     transition: transform 250ms ease;
     flex-direction: column;
+    overflow-y: auto;
 
     background: white;
 
     width: 280px;
     justify-content: flex-start;
 
-    z-index: 2;
+    z-index: 3;
   }
 
   #bar.bar-active {
@@ -56,7 +57,7 @@
 }
 
 .bar-backdrop {
-  position: absolute;
+  position: fixed;
   top: 0;
   right: 0;
   bottom: 0;
@@ -87,6 +88,8 @@
 
   @media (min-width: 721px) {
     color: #fff;
+
+    filter: drop-shadow(0 0 15px rgba(0, 0, 0, 0.7));
   }
   @media (max-width: 720px) {
     padding: 10px 20px;
@@ -124,7 +127,7 @@
     -webkit-transition: all 0.25s;
     transition: all 0.25s;
     width: 230px;
-    z-index: 2;
+    z-index: 3;
     font-size: 1rem;
   }
 

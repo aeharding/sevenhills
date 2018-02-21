@@ -27,13 +27,6 @@ description: Recent skydive videos and photos from Seven Hills showing some of t
   <div><img src="../img/dropzone-shenanigans.jpg" alt="Dropzone shenanigans"></div>
 </div>
 
-<script>
-$(".images-gallery").justifiedGallery({
-	rowHeight: 150,
-	margins: 5
-});
-</script>
-
 ## Videos
 
 <div class="video-responsive-container">

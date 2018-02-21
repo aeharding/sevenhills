@@ -53,5 +53,6 @@
 @media (max-width: 720px) {
   .navigation__call {
     font-size: 5vw;
+    font-weight: 400;
   }
 }

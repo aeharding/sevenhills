@@ -17,51 +17,51 @@ Our instructional staff includes skydivers with __thousands of jumps__ holding _
 
 <ul class="people">
 	<li class="people__item">
-		<img src="../img/people/bob-felt.jpg" alt="">
+		<img data-src="../img/people/bob-felt.jpg" alt="">
 		<div class="people__item-name">Bob Felt</div>
 	</li>
 	<li class="people__item">
-		<img src="../img/people/andy-van-handel.jpg" alt="">
+		<img data-src="../img/people/andy-van-handel.jpg" alt="">
 		<div class="people__item-name">Andy Van Handel</div>
 	</li>
 	<li class="people__item">
-		<img src="../img/people/shawn-hartlaub.jpg" alt="">
+		<img data-src="../img/people/shawn-hartlaub.jpg" alt="">
 		<div class="people__item-name">Shawn Hartlaub</div>
 	</li>
 	<li class="people__item">
-		<img src="../img/people/payar-pasha.jpg" alt="">
+		<img data-src="../img/people/payar-pasha.jpg" alt="">
 		<div class="people__item-name">Payar Pasha</div>
 	</li>
 	<li class="people__item">
-		<img src="../img/people/russ-haas.jpg" alt="">
+		<img data-src="../img/people/russ-haas.jpg" alt="">
 		<div class="people__item-name">Russ Haas</div>
 	</li>
 	<li class="people__item">
-		<img src="../img/people/dewey-morrison.jpg" alt="">
+		<img data-src="../img/people/dewey-morrison.jpg" alt="">
 		<div class="people__item-name">Dewey Morrison</div>
 	</li>
 	<li class="people__item">
-		<img src="../img/people/john-grenzow.png" alt="">
+		<img data-src="../img/people/john-grenzow.png" alt="">
 		<div class="people__item-name">John Grenzow</div>
 	</li>
 	<li class="people__item">
-		<img src="../img/people/jason-greener.jpg" alt="">
+		<img data-src="../img/people/jason-greener.jpg" alt="">
 		<div class="people__item-name">Jason Greener</div>
 	</li>
 	<li class="people__item">
-		<img src="../img/people/greg-porter.jpg" alt="">
+		<img data-src="../img/people/greg-porter.jpg" alt="">
 		<div class="people__item-name">Greg Porter</div>
 	</li>
 	<li class="people__item">
-		<img src="../img/people/john-blair.jpg" alt="">
+		<img data-src="../img/people/john-blair.jpg" alt="">
 		<div class="people__item-name">John Blair</div>
 	</li>
 	<li class="people__item">
-		<img src="../img/people/alexander-harding.jpg" alt="">
+		<img data-src="../img/people/alexander-harding.jpg" alt="">
 		<div class="people__item-name">Alex Harding</div>
 	</li>
 	<li class="people__item">
-		<img src="../img/people/griffin-davis.jpg" alt="">
+		<img data-src="../img/people/griffin-davis.jpg" alt="">
 		<div class="people__item-name">Griffin Davis</div>
 	</li>
 </ul>
@@ -127,6 +127,6 @@ Our AWESOME members that volunteer their time to make Seven Hills possible:
 
 <br>
 
-<img src="../img/boogie.jpg" alt="2012 Boogie" class="full-width">
+<img data-src="../img/boogie.jpg" alt="2012 Boogie" class="full-width">
 
-<img src="../img/some-members.jpg" alt="Some members" class="full-width">
+<img data-src="../img/some-members.jpg" alt="Some members" class="full-width">

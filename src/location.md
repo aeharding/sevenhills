@@ -32,4 +32,4 @@ We're the __top skydive center__ for many other cities, as well! Check out the b
 
 <br>
 
-<img src="../img/seven-hills-sunset.jpg" alt="Sunset at Seven Hills" class="full-width">
+<img data-src="../img/seven-hills-sunset.jpg" alt="Sunset at Seven Hills" class="full-width">

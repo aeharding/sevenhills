@@ -2,12 +2,15 @@
   padding: 1em 0;
   text-align: center;
   font-family: sans-serif;
+  display: -ms-flexbox;
   display: flex;
-  align-items: center;
+  -ms-flex-align: center;
+      align-items: center;
 }
 
 .title > div {
-  flex: 1;
+  -ms-flex: 1;
+      flex: 1;
 }
 
 .title i {
@@ -40,6 +43,7 @@
 @media (max-width: 720px) {
   .title h1 {
     font-size: 6vw;
+    font-weight: 400;
   }
 }
 

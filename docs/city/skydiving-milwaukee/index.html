@@ -1,23 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Skydiving Milwaukee - Seven Hills Skydivers</title>
+    <title>Skydiving Milwaukee | Seven Hills Skydivers</title>
 
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="index, follow">
     <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
     <meta http-equiv="PRAGMA" content="NO-CACHE">
     <meta name="description" content="See why Seven Hills Skydivers is the best option for skydiving in Milwaukee. Seven Hills is a small, family friendly dropzone with a strong safety culture located on a beautiful grass runway. Offering tandem and solo skydives. Nonprofit, member owned and operated dropzone around for over 55 years.">
-    <meta name="keywords" content="Seven Hills,skydiving,skydivers,parachute,sport parachuting,jumping,first jump,plane jumpers,What to do in Madison WI,dropzone,Madison,WI,Skydiving in Wisconsin,skydive madison wi,tandem,student training,static line,IAD,USPA,7 hills,tandum,sky diving,sevenhills,extreme sports,skydive instruction">
+    <link rel="canonical" href="https://sevenhillsskydivers.org/city/skydiving-milwaukee/">
 
     <!-- CSS -->
     <link rel="stylesheet" href="../../css/index.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     
-    <link href="https://fonts.googleapis.com/css?family=Lato:300&text=SevenHillsSkydiversLet'shavesomefun" rel="stylesheet" type="text/css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/10.4.1/lazyload.min.js"></script>
+    
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400&amp;text=SevenHillsSkydiversLet&apos;shavesomefun" rel="stylesheet" type="text/css">
     
     <!-- JS -->
-    <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.6.3/js/jquery.justifiedGallery.min.js"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.6.3/css/justifiedGallery.min.css" rel="stylesheet" type="text/css">
@@ -29,6 +32,76 @@
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
       ga('create', 'UA-63548025-1', 'auto');
       ga('send', 'pageview');
+    </script>
+    
+    <script>
+    var myLazyLoad = new LazyLoad();
+    </script>
+    
+    <script>
+    (function() {
+      $('html').removeClass('no-js');
+    
+      $('.open-menu').on('click', function (e) {
+        $('#bar').addClass('bar-active');
+        // Disable scrolling body
+        $(document.body).addClass('body-noscroll');
+      });
+    
+      $('.bar-backdrop').on('click', function (e) {
+        $('#bar').removeClass('bar-active');
+        // Disable scrolling body
+        $(document.body).removeClass('body-noscroll');
+      });
+    
+      $('.menu-hover > a').on('click', function (e) {
+        var el = $(this);
+    
+        if ($(window).width() <= 720) {
+    
+          // Show submenu
+          el.parent().toggleClass('menu-active');
+        }
+    
+        if (el.attr('href') === '#') {
+          e.preventDefault();
+        }
+        
+        // Hide other submenus
+        // el.parent().siblings('.menu-hover.menu-active').removeClass('menu-active');
+      });
+    
+      console.log('Twenty years from now you will be more disappointed by the things that you didn\'t do than by the ones you did do. Some throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover. - Mark Twain');
+    }())
+    </script>
+    
+    <script>
+    $(".images-gallery").justifiedGallery({
+      rowHeight: 150,
+      margins: 5
+    });
+    </script>
+    
+    <script>
+    (function() {
+      function daysAgo(days) {
+        var monthNames = ["January", "February", "March", "April", "May", "June",
+          "July", "August", "September", "October", "November", "December"
+        ];
+    
+        var date = new Date();
+    
+        date.setDate(date.getDate() - days);
+    
+        return monthNames[date.getMonth()] + ' ' + date.getDate() + ', ' + date.getFullYear()
+      }
+    
+      $('#reserve-pack-date').text(daysAgo(180));
+      $('#student-license-date').text(daysAgo(30));
+      $('#a-license-date').text(daysAgo(60));
+      $('#b-license-date').text(daysAgo(90));
+      $('#cd-license-date').text(daysAgo(180));
+    }());
     </script>
   </head>
 
@@ -92,37 +165,6 @@
         </ul>
         
         <div class="bar-backdrop"></div>
-        
-        <script>
-        $('html').removeClass('no-js');
-        
-        $('.open-menu').on('click', function (e) {
-          $('#bar').toggleClass('bar-active');
-        });
-        
-        $('.bar-backdrop').on('click', function (e) {
-          $('#bar').removeClass('bar-active');
-        });
-        
-        $('.menu-hover > a').on('click', function (e) {
-          var el = $(this);
-        
-          if ($(window).width() <= 720) {
-        
-            // Show submenu
-            el.parent().toggleClass('menu-active');
-          }
-        
-          if (el.attr('href') === '#') {
-            e.preventDefault();
-          }
-          
-          // Hide other submenus
-          // el.parent().siblings('.menu-hover.menu-active').removeClass('menu-active');
-        });
-        
-        console.log('Twenty years from now you will be more disappointed by the things that you didn\'t do than by the ones you did do. Some throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover. - Mark Twain');
-        </script>
       </header>
     </div>
 
@@ -133,11 +175,11 @@
         Questions? Give us a call (608) 244-5252
       </div>
       <div><h2 id="skydiving-close-to-milwaukee">Skydiving close to Milwaukee</h2>
-<p>We&#39;re going to be honest. There are other dropzones closer to Milwaukee. Seven Hills is just over an hour long drive from downtown. <em>Why would you want to go with Seven Hills?</em> Well... Seven Hills offers a smaller dropzone atmosphere that&#39;s <strong>less busy</strong> and <strong>less intimidating</strong>. Seven Hills has a <a href="../../our-facilities">beautiful grass runway</a> closely surrounded by corn and bean fields away from any busy highway. We urge you to not just skydive, but to come out and socialize, enjoy the outdoors, and watch the jumpers.</p>
-<p><a href="../../who-we-are">Our instructors</a> are <strong>extremely qualified</strong>, including some with thousands of jumps holding <strong>world records</strong>. All instructors are volunteers in it because they&#39;re passionate about the sport. We have an <strong>excellent safety culture</strong>, and our safety record is <strong>second to none</strong>. Seven Hills is a 501(c)(3) nonprofit, volunteer owned and operated dropzone in business for over <strong>55 years</strong>. <a href="../../about-us">Click here</a> to learn more about us.</p>
-<p>For our <a href="../../tandem-skydiving-wisconsin">tandem skydives</a>, our instructors take as much time as needed to make sure that you&#39;re comfortable, confident and ready to experience this unique, breathtaking sport.</p>
-<p>If you want to do a <a href="../../solo-skydiving-wisconsin">solo skydive</a>, our program teaches a <strong>unique</strong> and <strong>special</strong> method called <strong>Instructor Assisted Deployment (IAD)</strong>. It&#39;s an excellent, safe, and proven method to begin your skydiving career that&#39;s also very cost effective relative to other methods.</p>
-<p>If you&#39;re ready to continue (or just want to chat on the phone), <a href="../../book-now">click here to book your skydive</a>. Please feel free to browse the rest of the site to learn more about us.</p>
+<p>We&apos;re going to be honest. There are other dropzones closer to Milwaukee. Seven Hills is just over an hour long drive from downtown. <em>Why would you want to go with Seven Hills?</em> Well... Seven Hills offers a smaller dropzone atmosphere that&apos;s <strong>less busy</strong> and <strong>less intimidating</strong>. Seven Hills has a <a href="../../our-facilities">beautiful grass runway</a> closely surrounded by corn and bean fields away from any busy highway. We urge you to not just skydive, but to come out and socialize, enjoy the outdoors, and watch the jumpers.</p>
+<p><a href="../../who-we-are">Our instructors</a> are <strong>extremely qualified</strong>, including some with thousands of jumps holding <strong>world records</strong>. All instructors are volunteers in it because they&apos;re passionate about the sport. We have an <strong>excellent safety culture</strong>, and our safety record is <strong>second to none</strong>. Seven Hills is a 501(c)(3) nonprofit, volunteer owned and operated dropzone in business for over <strong>55 years</strong>. <a href="../../about-us">Click here</a> to learn more about us.</p>
+<p>For our <a href="../../tandem-skydiving-wisconsin">tandem skydives</a>, our instructors take as much time as needed to make sure that you&apos;re comfortable, confident and ready to experience this unique, breathtaking sport.</p>
+<p>If you want to do a <a href="../../solo-skydiving-wisconsin">solo skydive</a>, our program teaches a <strong>unique</strong> and <strong>special</strong> method called <strong>Instructor Assisted Deployment (IAD)</strong>. It&apos;s an excellent, safe, and proven method to begin your skydiving career that&apos;s also very cost effective relative to other methods.</p>
+<p>If you&apos;re ready to continue (or just want to chat on the phone), <a href="../../book-now">click here to book your skydive</a>. Please feel free to browse the rest of the site to learn more about us.</p>
 <p><img src="../../img/milwaukee.jpg" alt="Janesville Downtown" class="full-width"></p>
 <div style="text-align: center;padding-top:2em">
     <a href="../../book-now" class="button button--primary">Book your skydive now <i class="fa fa-angle-double-right"></i></a>
@@ -149,7 +191,7 @@
 <li>Take exit 250</li>
 <li>Turn right onto WI-73</li>
 <li>Continue into Marshall, turn right onto E Main St downtown, then turn left into WI-73 N (Hubbel St)</li>
-<li>Continue to follow WI-73 for 8 miles through the twists and turns of the road. Seven Hills will be on the right past the airport&#39;s hangars! 🏁</li>
+<li>Continue to follow WI-73 for 8 miles through the twists and turns of the road. Seven Hills will be on the right past the airport&apos;s hangars! &#x1F3C1;</li>
 </ul>
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d744766.3728323248!2d-89.05551018150267!3d43.1833983222846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x880502d7578b47e7%3A0x445f1922b5417b84!2sMilwaukee%2C+Wisconsin!3m2!1d43.0389025!2d-87.9064736!4m5!1s0x88068c905a73806f%3A0x23161a6f3ddc1fe9!2sSkydive+Madison-+Seven+Hills+Skydivers+Inc%2C+7530+WI-73%2C+Marshall%2C+WI+53559!3m2!1d43.260821!2d-89.067792!5e0!3m2!1sen!2sus!4v1518814262226" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
@@ -171,8 +213,8 @@
         	</div>
         
         	<div class="footer__social">
-        		<a href="https://www.facebook.com/Seven.Hills.Skydivers/"><i class="fa fa-facebook-square"></i></a>
-        		<a href="https://twitter.com/sevenhills02"><i class="fa fa-twitter-square"></i></a>
+        		<a rel="external" target="_blank" href="https://www.facebook.com/Seven.Hills.Skydivers/" class="external"><i class="fa fa-facebook-square"></i></a>
+        		<a rel="external" target="_blank" href="https://twitter.com/sevenhills02" class="external"><i class="fa fa-twitter-square"></i></a>
         	</div>
         </div>
         <div class="footer__quick-links-col">
@@ -190,7 +232,9 @@
         	<a href="../../city/skydiving-milwaukee">Skydiving Milwaukee</a>
         	<a href="../../city/skydiving-wisconsin-dells">Skydiving Wisconsin Dells</a>
         </div>
-      </footer>
+        <div class="footer__back-to-top-col" onclick="document.documentElement.scrollTop = 0">
+        	<div><i class="fa fa-angle-up"></i><br>Back to top</div>
+        </div>      </footer>
     </div>
   </body>
 </html>

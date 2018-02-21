@@ -1,4 +1,5 @@
 .image-line {
+  display: -ms-flexbox;
   display: flex;
   margin-bottom: 1em;
 }

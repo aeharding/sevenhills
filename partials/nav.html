@@ -46,34 +46,3 @@
 </ul>
 
 <div class="bar-backdrop"></div>
-
-<script>
-$('html').removeClass('no-js');
-
-$('.open-menu').on('click', function (e) {
-  $('#bar').toggleClass('bar-active');
-});
-
-$('.bar-backdrop').on('click', function (e) {
-  $('#bar').removeClass('bar-active');
-});
-
-$('.menu-hover > a').on('click', function (e) {
-  var el = $(this);
-
-  if ($(window).width() <= 720) {
-
-    // Show submenu
-    el.parent().toggleClass('menu-active');
-  }
-
-  if (el.attr('href') === '#') {
-    e.preventDefault();
-  }
-  
-  // Hide other submenus
-  // el.parent().siblings('.menu-hover.menu-active').removeClass('menu-active');
-});
-
-console.log('Twenty years from now you will be more disappointed by the things that you didn\'t do than by the ones you did do. Some throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover. - Mark Twain');
-</script>

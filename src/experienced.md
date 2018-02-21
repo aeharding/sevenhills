@@ -22,11 +22,11 @@ The two people below are our awesome Safety and Training advisors. Most weekends
 
 <ul class="people">
 	<li class="people__item">
-		<img src="../img/people/andy-van-handel.jpg" alt="">
+		<img data-src="../img/people/andy-van-handel.jpg" alt="">
 		<div class="people__item-name">Andy Van Handel</div>
 	</li>
 	<li class="people__item">
-		<img src="../img/people/russ-haas.jpg" alt="">
+		<img data-src="../img/people/russ-haas.jpg" alt="">
 		<div class="people__item-name">Russ Haas</div>
 	</li>
 </ul>
@@ -39,15 +39,24 @@ Weather updates, information, and pictures are all shared on our Facebook group,
 
 You can find our experienced jump prices [here](../prices).
 
+## Helpful information
+
+ * Your __reserve__ is out of date if it was packed before __<span id="reserve-pack-date"></span>__.
+ * If you have an __A__ license, you need a recurrency jump if you haven't jumped since __<span id="a-license-date"></span>__.
+ * If you have an __B__ license, you need a recurrency jump if you haven't jumped since __<span id="b-license-date"></span>__.
+ * If you have an __C__ or __D__ license, you a recurrency jump if you haven't jumped since __<span id="cd-license-date"></span>__.
+
+<br>
+
 <div class="image-line">
-  <div><img src="../img/two-plane-load.jpg" alt="Two plane load"></div>
+  <div><img data-src="../img/two-plane-load.jpg" alt="Two plane load"></div>
 </div>
 
 <div class="image-line">
-  <div style="flex:0.6670264436"><img src="../img/vic-sunset.jpg" alt="3-way jump"></div>
-  <div style="flex:0.5625"><img src="../img/ice-jump.jpg" alt="Ice jump"></div>
+  <div style="flex:0.6670264436"><img data-src="../img/vic-sunset.jpg" alt="3-way jump"></div>
+  <div style="flex:0.5625"><img data-src="../img/ice-jump.jpg" alt="Ice jump"></div>
 </div>
 
 <div class="image-line">
-  <div><img src="../img/canopy-throw.jpg" alt="Throwing canopies in the air"></div>
+  <div><img data-src="../img/canopy-throw.jpg" alt="Throwing canopies in the air"></div>
 </div>

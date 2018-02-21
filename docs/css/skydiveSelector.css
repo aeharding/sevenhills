@@ -1,19 +1,17 @@
 .skydive-selector {
+  display: -ms-flexbox;
   display: flex;
   margin: -1em;
   padding: 1em 0;
 }
 
-@media (max-width: 720px) {
-  .skydive-selector {
-    flex-direction: column;
-  }
-}
-
 .skydive-selector__option div {
+  display: -ms-flexbox;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  -ms-flex-align: center;
+      align-items: center;
+  -ms-flex-pack: center;
+      justify-content: center;
   color: white;
   font-size: 4em;
   font-family: sans-serif;
@@ -28,6 +26,12 @@
 .skydive-selector__option aside {
   text-align: center;
   font-size: 1.3em;
+}
+
+@media (max-width: 720px) {
+  .skydive-selector__option aside {
+    font-size: 0.9em;
+  }
 }
 
 .skydive-selector__option span {
@@ -45,18 +49,32 @@
 }
 
 .skydive-selector__option {
-  flex: 1;
+  -ms-flex: 1;
+      flex: 1;
   margin: 1em;
+}
+
+.skydive-selector__option--tandem div,
+.skydive-selector__option--solo div {
+  height: 250px;
+}
+
+@media (max-width: 720px) {
+  .skydive-selector__option--tandem div,
+  .skydive-selector__option--solo div {
+    height: calc(40vw - 2em);
+    font-size: 1.5em;
+  }
 }
 
 .skydive-selector__option--tandem div {
   background: url(../img/tandem.jpg);
   background-size: cover;
-  height: 250px;
+  background-position: center;
 }
 
 .skydive-selector__option--solo div {
   background: url(../img/iad.jpg);
   background-size: cover;
-  height: 250px;
+  background-position: center;
 }
