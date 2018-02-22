@@ -7,7 +7,7 @@ nav:
 description: Become a licensed skydiver! Are you up to the challenge? We offer a comprehensive, affordable student program to obtain your A license. An A license will grant you the freedom to jump anywhere in the world!
 ---
 
-## Learn to skydive &mdash; become a licensed skydiver! 😲
+## Learn to skydive &mdash; become a licensed skydiver! 💥
 
 Skydiving can be a life-changing event, and it gets even better when you become a licensed skydiver! Are you up to the challenge? _Do you have what it takes?_ <img data-src="../img/a-stamp.png" style="float:right" alt="USPA A license stamp" width="125" height="115"> We offer a __comprehensive__, __affordable__ student program to obtain your A-License. An A-License will grant you the freedom to jump _anywhere in the world!_ 🌎
 
