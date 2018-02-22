@@ -2,6 +2,7 @@
 pageTitle: Solo Skydiving Wisconsin
 date: 2018-02-16
 layout: page.html
+image: https://sevenhillsskydivers.org/img/iad-thumb.jpg
 nav:
   instructorAssistedDeployment: true
 description: Experience the trill of solo skydiving! The Instructor Aided Deployment (IAD) method is also a way to become a licensed skydiver. Train and jump the same day.

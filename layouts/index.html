@@ -1,15 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
   <head>
     <title>{{ title }} - Skydiving since 1962</title>
 
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="index, follow">
     <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
     <meta http-equiv="PRAGMA" content="NO-CACHE">
     <meta name="description" content="{{ description }}">
     <link rel="canonical" href="{{canonical}}">
+
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ title }} - Skydiving since 1962">
+    <meta property="og:description" content="{{description}}">
+    <meta property="og:url" content="{{canonical}}">
+    <meta property="og:site_name" content="{{title}}">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:image" content="{{image}}">
+    <meta name="twitter:description" content="{{description}}">
+    <meta name="twitter:title" content="{{ title }} - Skydiving since 1962">
+    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/sevenhillsskydivers.org\/","name":"{{title}}"}</script>
 
     {{> head}}
   </head>

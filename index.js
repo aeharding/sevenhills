@@ -19,7 +19,8 @@ Metalsmith(__dirname)
     // generatorurl: "http://metalsmith.io/"
     title: "Seven Hills Skydivers of Madison, WI",
     titleShort: "Seven Hills Skydivers",
-    description: "Seven Hills is the #1 choice for tandem and solo skydiving in Wisconsin for over 55 years. Not-for-profit, volunteer owned and operated parachute club, offering professional, safety oriented, family friendly skydiving. Located in Madison, WI and close to Milwaukee."
+    description: "Seven Hills is the #1 choice for tandem and solo skydiving in Wisconsin for over 55 years. Not-for-profit, volunteer owned and operated parachute club, offering professional, safety oriented, family friendly skydiving. Located in Madison, WI and close to Milwaukee.",
+    image: "https://sevenhillsskydivers.org/img/tandem-thumb.jpg"
   })
   .source('./src')
   .destination('./docs')
@@ -62,7 +63,8 @@ Metalsmith(__dirname)
     domain: 'sevenhillsskydivers.org',
     whitelist: [],
     rel: 'noopener',
-    target: '_blank'
+    target: '_blank',
+    overwrite: false // so we can rel="publisher" social profiles
     // extClass: 'external'
   }))
   .build(function(err) {
