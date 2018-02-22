@@ -21,7 +21,7 @@ Being a nonprofit organization lets us put __safety above all else__. We are a _
 
 Just as well, many of our instructors started as students here. It's up to you how far you want your skydiving career to go, and whether one jump or 10,000, we can help you achieve your goals.
 
-_There is absolutely nothing like the feeling you get when you make your first skydive!_ Skydiving at 7 Hills in Madison, Wisconsin is more than jumping out of an airplane. _It's stepping out into a different world_, a world where you can actually __FLY__! Cars and houses disappear, and plots of land make a giant checkerboard on the earth below, like a vast oil painting. Try it once and you will never be the same! Whenever you look skyward, you'll want to be up there. Come jump with the skydivers that do it for the love of the sport! __Go for it!__ We look forward to seeing you at Seven Hills - blue skies! 😁
+_There is absolutely nothing like the feeling you get when you make your first skydive!_ Skydiving at Seven Hills in Madison, Wisconsin is more than jumping out of an airplane. _It's stepping out into a different world_, a world where you can actually __FLY__! Cars and houses disappear, and plots of land make a giant checkerboard on the earth below, like a vast oil painting. Try it once and you will never be the same! Whenever you look skyward, you'll want to be up there. Come jump with the skydivers that do it for the love of the sport! __Go for it!__ We look forward to seeing you at Seven Hills - blue skies! 😁
 
 ## Testimonials
 
