@@ -26,21 +26,8 @@
     <!-- <h1>{{ pageTitle }}</h1> -->
 
     <main>
-      {{#unless disableCall}}
-      {{#unless disableTopCall}}
-      <div class="navigation__call">
-        Questions? Give us a call <a href="tel:6082445252">(608) 244-5252</a>
-      </div>
-      {{/unless}}
-      {{/unless}}
-      <div>{{{ contents }}}</div>
+      {{{ contents }}}
     </main>
-
-    {{#unless disableCall}}
-    <div class="navigation__call">
-      Questions? Give us a call (608) 244-5252
-    </div>
-    {{/unless}}
 
     <div class="footer-wrapper">
       <footer>

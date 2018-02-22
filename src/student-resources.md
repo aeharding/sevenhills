@@ -2,7 +2,6 @@
 pageTitle: Student Resources
 date: 2018-02-15
 layout: page.html
-disableCall: true
 nav:
   studentResources: true
 description: Useful information and resources for continuing Instructor Assisted Deployment skydive students at Seven Hills.

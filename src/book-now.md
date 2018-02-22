@@ -2,7 +2,6 @@
 pageTitle: Book Now
 date: 2018-02-15
 layout: page.html
-disableTopCall: true
 nav:
   bookNow: true
 description: Ready to take the leap? You can book your tandem or solo skydive, get information, and much more by calling our scheduler 8am - 10pm, seven days a week at (608) 244 - 5252!

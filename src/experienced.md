@@ -2,7 +2,6 @@
 pageTitle: Experienced
 date: 2018-02-15
 layout: page.html
-disableCall: true
 nav:
   experienced: true
 description: Calling all experienced skydivers! As a nonprofit, volunteer dropzone, experienced jumpers are the lifeblood of Seven Hills. We welcome jumpers to come out to jump, socialize, and have fun.

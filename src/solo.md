@@ -7,9 +7,9 @@ nav:
 description: Experience the trill of solo skydiving! The Instructor Aided Deployment (IAD) method is also a way to become a licensed skydiver. Train and jump the same day.
 ---
 
-<img src="../img/iad.jpg" alt="IAD example" class="full-width">
-
 ## Solo skydiving in Wisconsin &mdash; Instructor Assisted Deployment
+
+<img src="../img/iad.jpg" alt="IAD example" class="full-width">
 
 __Instructor Assisted Deployment__ (IAD) is a __Solo__ training method that opens your parachute almost immediately upon leaving the aircraft _(about 3-4 seconds of freefall)_. You are never attached to the plane _(unlike static-line)_ and the deployment sequence is identical to the way experienced skydivers open their own parachutes. This thrilling, solo, __'do it by yourself'__ method is also a way to train to [become a licensed skydiver](../learn-to-skydive). Well over half of our students choose the IAD jump, __even if they want to only jump once__.
 

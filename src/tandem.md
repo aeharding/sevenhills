@@ -7,12 +7,12 @@ nav:
 description: Jump from 10,000 feet attached to your instructor with a parachute built for two! Go along for the ride of your life! You will be harnessed to the front of a fully licensed, professional and friendly tandem instructor.
 ---
 
+## Tandem skydiving in Wisconsin &mdash; Take the leap with Seven Hills!
+
 <video class="tandem-video" autoplay="autoplay" loop="true" muted="">
   <source src="../video/boom.mp4">
   <source src="../video/boom.webm">
 </video>
-
-## Tandem skydiving in Wisconsin &mdash; Take the leap with Seven Hills!
 
 Jump from __10,000 feet__ attached to your instructor with a parachute built for two! Go along for the ride of your life! Tandem skydiving has made it easy to enjoy the exciting sport of skydiving with a __fantastic introduction to the world of freefall__. You will be harnessed to the front of a fully licensed, professional and friendly tandem instructor. Your instructor is in charge every step of the way, from aircraft exit, to freefall, (for about __30 seconds__ at __120 MPH__!), to a __scenic canopy ride__ (about __6-8 minutes__), to a comfortable, accurate landing.
 

@@ -4,7 +4,6 @@ date: 2018-02-16
 layout: page.html
 nav:
   contact: true
-disableCall: true
 description: Our experienced crew of instructors and members are always ready to answer any questions you may have. If you need assistance, please give us a call at (608) 244 - 5252. We look forward to hearing from you and hope to see you at the DZ very soon!
 ---
 
