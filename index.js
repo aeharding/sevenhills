@@ -7,6 +7,7 @@ var sass  = require('metalsmith-sass');
 var canonical  = require('metalsmith-canonical');
 var extlinks = require('metalsmith-external-links');
 var autoprefixer = require('metalsmith-autoprefixer');
+var fingerprint = require('metalsmith-fingerprint')
 
 
 Metalsmith(__dirname)
@@ -46,16 +47,17 @@ Metalsmith(__dirname)
     omitIndex: true,
     omitTrailingSlashes: false
   }))
-  .use(layouts({
-    engine: "handlebars",
-    partials: "partials"
-  }))
   .use(sass({
     outputDir: "css",
     outputStyle: "expanded",
     includePaths: []
   }))
   .use(autoprefixer())
+  .use(fingerprint({ pattern: 'css/index.css' }))
+  .use(layouts({
+    engine: "handlebars",
+    partials: "partials"
+  }))
   .use(extlinks({
     domain: 'sevenhillsskydivers.org',
     whitelist: [],
