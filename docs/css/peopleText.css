@@ -10,361 +10,361 @@
 }
 
 .people-text__item:nth-child(1) {
-  color: #7910b1;
-  -webkit-filter: drop-shadow(0 0 20px rgba(121, 16, 177, 0.3));
-          filter: drop-shadow(0 0 20px rgba(121, 16, 177, 0.3));
+  color: #1db5f7;
+  -webkit-filter: drop-shadow(0 0 20px rgba(29, 181, 247, 0.3));
+          filter: drop-shadow(0 0 20px rgba(29, 181, 247, 0.3));
 }
 
 .people-text__item:nth-child(2) {
-  color: #86046c;
-  -webkit-filter: drop-shadow(0 0 20px rgba(134, 4, 108, 0.3));
-          filter: drop-shadow(0 0 20px rgba(134, 4, 108, 0.3));
+  color: #026f4a;
+  -webkit-filter: drop-shadow(0 0 20px rgba(2, 111, 74, 0.3));
+          filter: drop-shadow(0 0 20px rgba(2, 111, 74, 0.3));
 }
 
 .people-text__item:nth-child(3) {
-  color: #126001;
-  -webkit-filter: drop-shadow(0 0 20px rgba(18, 96, 1, 0.3));
-          filter: drop-shadow(0 0 20px rgba(18, 96, 1, 0.3));
+  color: #92da01;
+  -webkit-filter: drop-shadow(0 0 20px rgba(146, 218, 1, 0.3));
+          filter: drop-shadow(0 0 20px rgba(146, 218, 1, 0.3));
 }
 
 .people-text__item:nth-child(4) {
-  color: #4b10a2;
-  -webkit-filter: drop-shadow(0 0 20px rgba(75, 16, 162, 0.3));
-          filter: drop-shadow(0 0 20px rgba(75, 16, 162, 0.3));
+  color: #0c69c0;
+  -webkit-filter: drop-shadow(0 0 20px rgba(12, 105, 192, 0.3));
+          filter: drop-shadow(0 0 20px rgba(12, 105, 192, 0.3));
 }
 
 .people-text__item:nth-child(5) {
-  color: #08d970;
-  -webkit-filter: drop-shadow(0 0 20px rgba(8, 217, 112, 0.3));
-          filter: drop-shadow(0 0 20px rgba(8, 217, 112, 0.3));
+  color: #b204be;
+  -webkit-filter: drop-shadow(0 0 20px rgba(178, 4, 190, 0.3));
+          filter: drop-shadow(0 0 20px rgba(178, 4, 190, 0.3));
 }
 
 .people-text__item:nth-child(6) {
-  color: #160269;
-  -webkit-filter: drop-shadow(0 0 20px rgba(22, 2, 105, 0.3));
-          filter: drop-shadow(0 0 20px rgba(22, 2, 105, 0.3));
+  color: #350503;
+  -webkit-filter: drop-shadow(0 0 20px rgba(53, 5, 3, 0.3));
+          filter: drop-shadow(0 0 20px rgba(53, 5, 3, 0.3));
 }
 
 .people-text__item:nth-child(7) {
-  color: #0e9530;
-  -webkit-filter: drop-shadow(0 0 20px rgba(14, 149, 48, 0.3));
-          filter: drop-shadow(0 0 20px rgba(14, 149, 48, 0.3));
+  color: #f63c61;
+  -webkit-filter: drop-shadow(0 0 20px rgba(246, 60, 97, 0.3));
+          filter: drop-shadow(0 0 20px rgba(246, 60, 97, 0.3));
 }
 
 .people-text__item:nth-child(8) {
-  color: #09532a;
-  -webkit-filter: drop-shadow(0 0 20px rgba(9, 83, 42, 0.3));
-          filter: drop-shadow(0 0 20px rgba(9, 83, 42, 0.3));
+  color: #5b0017;
+  -webkit-filter: drop-shadow(0 0 20px rgba(91, 0, 23, 0.3));
+          filter: drop-shadow(0 0 20px rgba(91, 0, 23, 0.3));
 }
 
 .people-text__item:nth-child(9) {
-  color: #0abdae;
-  -webkit-filter: drop-shadow(0 0 20px rgba(10, 189, 174, 0.3));
-          filter: drop-shadow(0 0 20px rgba(10, 189, 174, 0.3));
+  color: #39efbb;
+  -webkit-filter: drop-shadow(0 0 20px rgba(57, 239, 187, 0.3));
+          filter: drop-shadow(0 0 20px rgba(57, 239, 187, 0.3));
 }
 
 .people-text__item:nth-child(10) {
-  color: #06ef6f;
-  -webkit-filter: drop-shadow(0 0 20px rgba(6, 239, 111, 0.3));
-          filter: drop-shadow(0 0 20px rgba(6, 239, 111, 0.3));
+  color: #b54708;
+  -webkit-filter: drop-shadow(0 0 20px rgba(181, 71, 8, 0.3));
+          filter: drop-shadow(0 0 20px rgba(181, 71, 8, 0.3));
 }
 
 .people-text__item:nth-child(11) {
-  color: #f8a712;
-  -webkit-filter: drop-shadow(0 0 20px rgba(248, 167, 18, 0.3));
-          filter: drop-shadow(0 0 20px rgba(248, 167, 18, 0.3));
+  color: #02a18e;
+  -webkit-filter: drop-shadow(0 0 20px rgba(2, 161, 142, 0.3));
+          filter: drop-shadow(0 0 20px rgba(2, 161, 142, 0.3));
 }
 
 .people-text__item:nth-child(12) {
-  color: #15d192;
-  -webkit-filter: drop-shadow(0 0 20px rgba(21, 209, 146, 0.3));
-          filter: drop-shadow(0 0 20px rgba(21, 209, 146, 0.3));
+  color: #020e79;
+  -webkit-filter: drop-shadow(0 0 20px rgba(2, 14, 121, 0.3));
+          filter: drop-shadow(0 0 20px rgba(2, 14, 121, 0.3));
 }
 
 .people-text__item:nth-child(13) {
-  color: #62041d;
-  -webkit-filter: drop-shadow(0 0 20px rgba(98, 4, 29, 0.3));
-          filter: drop-shadow(0 0 20px rgba(98, 4, 29, 0.3));
+  color: #ef1f26;
+  -webkit-filter: drop-shadow(0 0 20px rgba(239, 31, 38, 0.3));
+          filter: drop-shadow(0 0 20px rgba(239, 31, 38, 0.3));
 }
 
 .people-text__item:nth-child(14) {
-  color: #1386b4;
-  -webkit-filter: drop-shadow(0 0 20px rgba(19, 134, 180, 0.3));
-          filter: drop-shadow(0 0 20px rgba(19, 134, 180, 0.3));
+  color: #075040;
+  -webkit-filter: drop-shadow(0 0 20px rgba(7, 80, 64, 0.3));
+          filter: drop-shadow(0 0 20px rgba(7, 80, 64, 0.3));
 }
 
 .people-text__item:nth-child(15) {
-  color: #3f0322;
-  -webkit-filter: drop-shadow(0 0 20px rgba(63, 3, 34, 0.3));
-          filter: drop-shadow(0 0 20px rgba(63, 3, 34, 0.3));
+  color: #dc1304;
+  -webkit-filter: drop-shadow(0 0 20px rgba(220, 19, 4, 0.3));
+          filter: drop-shadow(0 0 20px rgba(220, 19, 4, 0.3));
 }
 
 .people-text__item:nth-child(16) {
-  color: #92c408;
-  -webkit-filter: drop-shadow(0 0 20px rgba(146, 196, 8, 0.3));
-          filter: drop-shadow(0 0 20px rgba(146, 196, 8, 0.3));
+  color: #5215e0;
+  -webkit-filter: drop-shadow(0 0 20px rgba(82, 21, 224, 0.3));
+          filter: drop-shadow(0 0 20px rgba(82, 21, 224, 0.3));
 }
 
 .people-text__item:nth-child(17) {
-  color: #154106;
-  -webkit-filter: drop-shadow(0 0 20px rgba(21, 65, 6, 0.3));
-          filter: drop-shadow(0 0 20px rgba(21, 65, 6, 0.3));
+  color: #ab1303;
+  -webkit-filter: drop-shadow(0 0 20px rgba(171, 19, 3, 0.3));
+          filter: drop-shadow(0 0 20px rgba(171, 19, 3, 0.3));
 }
 
 .people-text__item:nth-child(18) {
-  color: #574700;
-  -webkit-filter: drop-shadow(0 0 20px rgba(87, 71, 0, 0.3));
-          filter: drop-shadow(0 0 20px rgba(87, 71, 0, 0.3));
+  color: #3e9b08;
+  -webkit-filter: drop-shadow(0 0 20px rgba(62, 155, 8, 0.3));
+          filter: drop-shadow(0 0 20px rgba(62, 155, 8, 0.3));
 }
 
 .people-text__item:nth-child(19) {
-  color: #0c4d04;
-  -webkit-filter: drop-shadow(0 0 20px rgba(12, 77, 4, 0.3));
-          filter: drop-shadow(0 0 20px rgba(12, 77, 4, 0.3));
+  color: #0a3ba3;
+  -webkit-filter: drop-shadow(0 0 20px rgba(10, 59, 163, 0.3));
+          filter: drop-shadow(0 0 20px rgba(10, 59, 163, 0.3));
 }
 
 .people-text__item:nth-child(20) {
-  color: #ddfe06;
-  -webkit-filter: drop-shadow(0 0 20px rgba(221, 254, 6, 0.3));
-          filter: drop-shadow(0 0 20px rgba(221, 254, 6, 0.3));
+  color: #51f320;
+  -webkit-filter: drop-shadow(0 0 20px rgba(81, 243, 32, 0.3));
+          filter: drop-shadow(0 0 20px rgba(81, 243, 32, 0.3));
 }
 
 .people-text__item:nth-child(21) {
-  color: #020c46;
-  -webkit-filter: drop-shadow(0 0 20px rgba(2, 12, 70, 0.3));
-          filter: drop-shadow(0 0 20px rgba(2, 12, 70, 0.3));
+  color: #f71c08;
+  -webkit-filter: drop-shadow(0 0 20px rgba(247, 28, 8, 0.3));
+          filter: drop-shadow(0 0 20px rgba(247, 28, 8, 0.3));
 }
 
 .people-text__item:nth-child(22) {
-  color: #480472;
-  -webkit-filter: drop-shadow(0 0 20px rgba(72, 4, 114, 0.3));
-          filter: drop-shadow(0 0 20px rgba(72, 4, 114, 0.3));
+  color: #0a5eb8;
+  -webkit-filter: drop-shadow(0 0 20px rgba(10, 94, 184, 0.3));
+          filter: drop-shadow(0 0 20px rgba(10, 94, 184, 0.3));
 }
 
 .people-text__item:nth-child(23) {
-  color: #050a61;
-  -webkit-filter: drop-shadow(0 0 20px rgba(5, 10, 97, 0.3));
-          filter: drop-shadow(0 0 20px rgba(5, 10, 97, 0.3));
+  color: #372b01;
+  -webkit-filter: drop-shadow(0 0 20px rgba(55, 43, 1, 0.3));
+          filter: drop-shadow(0 0 20px rgba(55, 43, 1, 0.3));
 }
 
 .people-text__item:nth-child(24) {
-  color: #f54d3d;
-  -webkit-filter: drop-shadow(0 0 20px rgba(245, 77, 61, 0.3));
-          filter: drop-shadow(0 0 20px rgba(245, 77, 61, 0.3));
+  color: #544003;
+  -webkit-filter: drop-shadow(0 0 20px rgba(84, 64, 3, 0.3));
+          filter: drop-shadow(0 0 20px rgba(84, 64, 3, 0.3));
 }
 
 .people-text__item:nth-child(25) {
-  color: #01ad3d;
-  -webkit-filter: drop-shadow(0 0 20px rgba(1, 173, 61, 0.3));
-          filter: drop-shadow(0 0 20px rgba(1, 173, 61, 0.3));
+  color: #210137;
+  -webkit-filter: drop-shadow(0 0 20px rgba(33, 1, 55, 0.3));
+          filter: drop-shadow(0 0 20px rgba(33, 1, 55, 0.3));
 }
 
 .people-text__item:nth-child(26) {
-  color: #c6d00b;
-  -webkit-filter: drop-shadow(0 0 20px rgba(198, 208, 11, 0.3));
-          filter: drop-shadow(0 0 20px rgba(198, 208, 11, 0.3));
+  color: #0a4167;
+  -webkit-filter: drop-shadow(0 0 20px rgba(10, 65, 103, 0.3));
+          filter: drop-shadow(0 0 20px rgba(10, 65, 103, 0.3));
 }
 
 .people-text__item:nth-child(27) {
-  color: #e907dd;
-  -webkit-filter: drop-shadow(0 0 20px rgba(233, 7, 221, 0.3));
-          filter: drop-shadow(0 0 20px rgba(233, 7, 221, 0.3));
+  color: #02393b;
+  -webkit-filter: drop-shadow(0 0 20px rgba(2, 57, 59, 0.3));
+          filter: drop-shadow(0 0 20px rgba(2, 57, 59, 0.3));
 }
 
 .people-text__item:nth-child(28) {
-  color: #06b1ef;
-  -webkit-filter: drop-shadow(0 0 20px rgba(6, 177, 239, 0.3));
-          filter: drop-shadow(0 0 20px rgba(6, 177, 239, 0.3));
+  color: #050566;
+  -webkit-filter: drop-shadow(0 0 20px rgba(5, 5, 102, 0.3));
+          filter: drop-shadow(0 0 20px rgba(5, 5, 102, 0.3));
 }
 
 .people-text__item:nth-child(29) {
-  color: #f73bcb;
-  -webkit-filter: drop-shadow(0 0 20px rgba(247, 59, 203, 0.3));
-          filter: drop-shadow(0 0 20px rgba(247, 59, 203, 0.3));
+  color: #93f708;
+  -webkit-filter: drop-shadow(0 0 20px rgba(147, 247, 8, 0.3));
+          filter: drop-shadow(0 0 20px rgba(147, 247, 8, 0.3));
 }
 
 .people-text__item:nth-child(30) {
-  color: #3378f0;
-  -webkit-filter: drop-shadow(0 0 20px rgba(51, 120, 240, 0.3));
-          filter: drop-shadow(0 0 20px rgba(51, 120, 240, 0.3));
+  color: #025e41;
+  -webkit-filter: drop-shadow(0 0 20px rgba(2, 94, 65, 0.3));
+          filter: drop-shadow(0 0 20px rgba(2, 94, 65, 0.3));
 }
 
 .people-text__item:nth-child(31) {
-  color: #fe0bee;
-  -webkit-filter: drop-shadow(0 0 20px rgba(254, 11, 238, 0.3));
-          filter: drop-shadow(0 0 20px rgba(254, 11, 238, 0.3));
+  color: #7f3206;
+  -webkit-filter: drop-shadow(0 0 20px rgba(127, 50, 6, 0.3));
+          filter: drop-shadow(0 0 20px rgba(127, 50, 6, 0.3));
 }
 
 .people-text__item:nth-child(32) {
-  color: #fbcc23;
-  -webkit-filter: drop-shadow(0 0 20px rgba(251, 204, 35, 0.3));
-          filter: drop-shadow(0 0 20px rgba(251, 204, 35, 0.3));
+  color: #0dce7b;
+  -webkit-filter: drop-shadow(0 0 20px rgba(13, 206, 123, 0.3));
+          filter: drop-shadow(0 0 20px rgba(13, 206, 123, 0.3));
 }
 
 .people-text__item:nth-child(33) {
-  color: #044349;
-  -webkit-filter: drop-shadow(0 0 20px rgba(4, 67, 73, 0.3));
-          filter: drop-shadow(0 0 20px rgba(4, 67, 73, 0.3));
+  color: #23fbd3;
+  -webkit-filter: drop-shadow(0 0 20px rgba(35, 251, 211, 0.3));
+          filter: drop-shadow(0 0 20px rgba(35, 251, 211, 0.3));
 }
 
 .people-text__item:nth-child(34) {
-  color: #023d74;
-  -webkit-filter: drop-shadow(0 0 20px rgba(2, 61, 116, 0.3));
-          filter: drop-shadow(0 0 20px rgba(2, 61, 116, 0.3));
+  color: #60010a;
+  -webkit-filter: drop-shadow(0 0 20px rgba(96, 1, 10, 0.3));
+          filter: drop-shadow(0 0 20px rgba(96, 1, 10, 0.3));
 }
 
 .people-text__item:nth-child(35) {
-  color: #390423;
-  -webkit-filter: drop-shadow(0 0 20px rgba(57, 4, 35, 0.3));
-          filter: drop-shadow(0 0 20px rgba(57, 4, 35, 0.3));
+  color: #20e811;
+  -webkit-filter: drop-shadow(0 0 20px rgba(32, 232, 17, 0.3));
+          filter: drop-shadow(0 0 20px rgba(32, 232, 17, 0.3));
 }
 
 .people-text__item:nth-child(36) {
-  color: #2ba0e9;
-  -webkit-filter: drop-shadow(0 0 20px rgba(43, 160, 233, 0.3));
-          filter: drop-shadow(0 0 20px rgba(43, 160, 233, 0.3));
+  color: #cf5e07;
+  -webkit-filter: drop-shadow(0 0 20px rgba(207, 94, 7, 0.3));
+          filter: drop-shadow(0 0 20px rgba(207, 94, 7, 0.3));
 }
 
 .people-text__item:nth-child(37) {
-  color: #023b2c;
-  -webkit-filter: drop-shadow(0 0 20px rgba(2, 59, 44, 0.3));
-          filter: drop-shadow(0 0 20px rgba(2, 59, 44, 0.3));
+  color: #d72809;
+  -webkit-filter: drop-shadow(0 0 20px rgba(215, 40, 9, 0.3));
+          filter: drop-shadow(0 0 20px rgba(215, 40, 9, 0.3));
 }
 
 .people-text__item:nth-child(38) {
-  color: #55cb06;
-  -webkit-filter: drop-shadow(0 0 20px rgba(85, 203, 6, 0.3));
-          filter: drop-shadow(0 0 20px rgba(85, 203, 6, 0.3));
+  color: #4d0da0;
+  -webkit-filter: drop-shadow(0 0 20px rgba(77, 13, 160, 0.3));
+          filter: drop-shadow(0 0 20px rgba(77, 13, 160, 0.3));
 }
 
 .people-text__item:nth-child(39) {
-  color: #08593f;
-  -webkit-filter: drop-shadow(0 0 20px rgba(8, 89, 63, 0.3));
-          filter: drop-shadow(0 0 20px rgba(8, 89, 63, 0.3));
+  color: #5a4f07;
+  -webkit-filter: drop-shadow(0 0 20px rgba(90, 79, 7, 0.3));
+          filter: drop-shadow(0 0 20px rgba(90, 79, 7, 0.3));
 }
 
 .people-text__item:nth-child(40) {
-  color: #8be713;
-  -webkit-filter: drop-shadow(0 0 20px rgba(139, 231, 19, 0.3));
-          filter: drop-shadow(0 0 20px rgba(139, 231, 19, 0.3));
+  color: #143404;
+  -webkit-filter: drop-shadow(0 0 20px rgba(20, 52, 4, 0.3));
+          filter: drop-shadow(0 0 20px rgba(20, 52, 4, 0.3));
 }
 
 .people-text__item:nth-child(41) {
-  color: #363502;
-  -webkit-filter: drop-shadow(0 0 20px rgba(54, 53, 2, 0.3));
-          filter: drop-shadow(0 0 20px rgba(54, 53, 2, 0.3));
+  color: #bb3407;
+  -webkit-filter: drop-shadow(0 0 20px rgba(187, 52, 7, 0.3));
+          filter: drop-shadow(0 0 20px rgba(187, 52, 7, 0.3));
 }
 
 .people-text__item:nth-child(42) {
-  color: #4be916;
-  -webkit-filter: drop-shadow(0 0 20px rgba(75, 233, 22, 0.3));
-          filter: drop-shadow(0 0 20px rgba(75, 233, 22, 0.3));
+  color: #74fb13;
+  -webkit-filter: drop-shadow(0 0 20px rgba(116, 251, 19, 0.3));
+          filter: drop-shadow(0 0 20px rgba(116, 251, 19, 0.3));
 }
 
 .people-text__item:nth-child(43) {
-  color: #7b09d3;
-  -webkit-filter: drop-shadow(0 0 20px rgba(123, 9, 211, 0.3));
-          filter: drop-shadow(0 0 20px rgba(123, 9, 211, 0.3));
+  color: #5b0801;
+  -webkit-filter: drop-shadow(0 0 20px rgba(91, 8, 1, 0.3));
+          filter: drop-shadow(0 0 20px rgba(91, 8, 1, 0.3));
 }
 
 .people-text__item:nth-child(44) {
-  color: #260137;
-  -webkit-filter: drop-shadow(0 0 20px rgba(38, 1, 55, 0.3));
-          filter: drop-shadow(0 0 20px rgba(38, 1, 55, 0.3));
+  color: #be28f0;
+  -webkit-filter: drop-shadow(0 0 20px rgba(190, 40, 240, 0.3));
+          filter: drop-shadow(0 0 20px rgba(190, 40, 240, 0.3));
 }
 
 .people-text__item:nth-child(45) {
-  color: #0a4c67;
-  -webkit-filter: drop-shadow(0 0 20px rgba(10, 76, 103, 0.3));
-          filter: drop-shadow(0 0 20px rgba(10, 76, 103, 0.3));
+  color: #fd35df;
+  -webkit-filter: drop-shadow(0 0 20px rgba(253, 53, 223, 0.3));
+          filter: drop-shadow(0 0 20px rgba(253, 53, 223, 0.3));
 }
 
 .people-text__item:nth-child(46) {
-  color: #f81253;
-  -webkit-filter: drop-shadow(0 0 20px rgba(248, 18, 83, 0.3));
-          filter: drop-shadow(0 0 20px rgba(248, 18, 83, 0.3));
+  color: #545507;
+  -webkit-filter: drop-shadow(0 0 20px rgba(84, 85, 7, 0.3));
+          filter: drop-shadow(0 0 20px rgba(84, 85, 7, 0.3));
 }
 
 .people-text__item:nth-child(47) {
-  color: #f4912f;
-  -webkit-filter: drop-shadow(0 0 20px rgba(244, 145, 47, 0.3));
-          filter: drop-shadow(0 0 20px rgba(244, 145, 47, 0.3));
+  color: #ef322e;
+  -webkit-filter: drop-shadow(0 0 20px rgba(239, 50, 46, 0.3));
+          filter: drop-shadow(0 0 20px rgba(239, 50, 46, 0.3));
 }
 
 .people-text__item:nth-child(48) {
-  color: #318802;
-  -webkit-filter: drop-shadow(0 0 20px rgba(49, 136, 2, 0.3));
-          filter: drop-shadow(0 0 20px rgba(49, 136, 2, 0.3));
+  color: #a90a9e;
+  -webkit-filter: drop-shadow(0 0 20px rgba(169, 10, 158, 0.3));
+          filter: drop-shadow(0 0 20px rgba(169, 10, 158, 0.3));
 }
 
 .people-text__item:nth-child(49) {
-  color: #15ef20;
-  -webkit-filter: drop-shadow(0 0 20px rgba(21, 239, 32, 0.3));
-          filter: drop-shadow(0 0 20px rgba(21, 239, 32, 0.3));
+  color: #5c05d6;
+  -webkit-filter: drop-shadow(0 0 20px rgba(92, 5, 214, 0.3));
+          filter: drop-shadow(0 0 20px rgba(92, 5, 214, 0.3));
 }
 
 .people-text__item:nth-child(50) {
-  color: #4a0334;
-  -webkit-filter: drop-shadow(0 0 20px rgba(74, 3, 52, 0.3));
-          filter: drop-shadow(0 0 20px rgba(74, 3, 52, 0.3));
+  color: #3cf6d1;
+  -webkit-filter: drop-shadow(0 0 20px rgba(60, 246, 209, 0.3));
+          filter: drop-shadow(0 0 20px rgba(60, 246, 209, 0.3));
 }
 
 .people-text__item:nth-child(51) {
-  color: #e07a06;
-  -webkit-filter: drop-shadow(0 0 20px rgba(224, 122, 6, 0.3));
-          filter: drop-shadow(0 0 20px rgba(224, 122, 6, 0.3));
+  color: #05481a;
+  -webkit-filter: drop-shadow(0 0 20px rgba(5, 72, 26, 0.3));
+          filter: drop-shadow(0 0 20px rgba(5, 72, 26, 0.3));
 }
 
 .people-text__item:nth-child(52) {
-  color: #e933fa;
-  -webkit-filter: drop-shadow(0 0 20px rgba(233, 51, 250, 0.3));
-          filter: drop-shadow(0 0 20px rgba(233, 51, 250, 0.3));
+  color: #b40436;
+  -webkit-filter: drop-shadow(0 0 20px rgba(180, 4, 54, 0.3));
+          filter: drop-shadow(0 0 20px rgba(180, 4, 54, 0.3));
 }
 
 .people-text__item:nth-child(53) {
-  color: #9307ab;
-  -webkit-filter: drop-shadow(0 0 20px rgba(147, 7, 171, 0.3));
-          filter: drop-shadow(0 0 20px rgba(147, 7, 171, 0.3));
+  color: #ed3bea;
+  -webkit-filter: drop-shadow(0 0 20px rgba(237, 59, 234, 0.3));
+          filter: drop-shadow(0 0 20px rgba(237, 59, 234, 0.3));
 }
 
 .people-text__item:nth-child(54) {
-  color: #42f0a7;
-  -webkit-filter: drop-shadow(0 0 20px rgba(66, 240, 167, 0.3));
-          filter: drop-shadow(0 0 20px rgba(66, 240, 167, 0.3));
+  color: #6d2808;
+  -webkit-filter: drop-shadow(0 0 20px rgba(109, 40, 8, 0.3));
+          filter: drop-shadow(0 0 20px rgba(109, 40, 8, 0.3));
 }
 
 .people-text__item:nth-child(55) {
-  color: #530cb6;
-  -webkit-filter: drop-shadow(0 0 20px rgba(83, 12, 182, 0.3));
-          filter: drop-shadow(0 0 20px rgba(83, 12, 182, 0.3));
+  color: #f14187;
+  -webkit-filter: drop-shadow(0 0 20px rgba(241, 65, 135, 0.3));
+          filter: drop-shadow(0 0 20px rgba(241, 65, 135, 0.3));
 }
 
 .people-text__item:nth-child(56) {
-  color: #35f3f3;
-  -webkit-filter: drop-shadow(0 0 20px rgba(53, 243, 243, 0.3));
-          filter: drop-shadow(0 0 20px rgba(53, 243, 243, 0.3));
+  color: #920776;
+  -webkit-filter: drop-shadow(0 0 20px rgba(146, 7, 118, 0.3));
+          filter: drop-shadow(0 0 20px rgba(146, 7, 118, 0.3));
 }
 
 .people-text__item:nth-child(57) {
-  color: #bd0600;
-  -webkit-filter: drop-shadow(0 0 20px rgba(189, 6, 0, 0.3));
-          filter: drop-shadow(0 0 20px rgba(189, 6, 0, 0.3));
+  color: #8bc615;
+  -webkit-filter: drop-shadow(0 0 20px rgba(139, 198, 21, 0.3));
+          filter: drop-shadow(0 0 20px rgba(139, 198, 21, 0.3));
 }
 
 .people-text__item:nth-child(58) {
-  color: #0c8d6f;
-  -webkit-filter: drop-shadow(0 0 20px rgba(12, 141, 111, 0.3));
-          filter: drop-shadow(0 0 20px rgba(12, 141, 111, 0.3));
+  color: #0cbdc0;
+  -webkit-filter: drop-shadow(0 0 20px rgba(12, 189, 192, 0.3));
+          filter: drop-shadow(0 0 20px rgba(12, 189, 192, 0.3));
 }
 
 .people-text__item:nth-child(59) {
-  color: #362f02;
-  -webkit-filter: drop-shadow(0 0 20px rgba(54, 47, 2, 0.3));
-          filter: drop-shadow(0 0 20px rgba(54, 47, 2, 0.3));
+  color: #26f28c;
+  -webkit-filter: drop-shadow(0 0 20px rgba(38, 242, 140, 0.3));
+          filter: drop-shadow(0 0 20px rgba(38, 242, 140, 0.3));
 }
 
 .people-text__item:nth-child(60) {
-  color: #4b4702;
-  -webkit-filter: drop-shadow(0 0 20px rgba(75, 71, 2, 0.3));
-          filter: drop-shadow(0 0 20px rgba(75, 71, 2, 0.3));
+  color: #14f5ee;
+  -webkit-filter: drop-shadow(0 0 20px rgba(20, 245, 238, 0.3));
+          filter: drop-shadow(0 0 20px rgba(20, 245, 238, 0.3));
 }
