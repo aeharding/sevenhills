@@ -22,7 +22,7 @@ The SIM is available online in PDF format [here](https://uspa.org/SIM).
  * [Avia Weather](https://play.google.com/store/apps/details?id=com.mytowntonight.aviationweather&hl=en) _(Android devices)_ Add KMSN and KUNO. Useful for cloud reports.
  * [METAR Reader](http://www.metarreader.com/) _(computer)_ Use KMSN and KUNO. Press "Get METAR" and then "Convert". Useful for cloud reports.
 
-## Student currency
+## Currency
 
 If you are a student, you are __not__ current if your last jump was before __<span id="student-license-date"></span>__.
 
