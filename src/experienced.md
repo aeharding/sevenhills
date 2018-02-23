@@ -41,9 +41,9 @@ You can find our experienced jump prices [here](../prices).
 ## Helpful information
 
  * Your __reserve__ is out of date if it was packed before __<span id="reserve-pack-date"></span>__.
- * If you have an __A__ license, you need a recurrency jump if you haven't jumped since __<span id="a-license-date"></span>__.
- * If you have an __B__ license, you need a recurrency jump if you haven't jumped since __<span id="b-license-date"></span>__.
- * If you have an __C__ or __D__ license, you a recurrency jump if you haven't jumped since __<span id="cd-license-date"></span>__.
+ * If you have an __A__ license, you need a recurrency jump if you have not jumped since __<span id="a-license-date"></span>__.
+ * If you have a __B__ license, you need a recurrency jump if you have not jumped since __<span id="b-license-date"></span>__.
+ * If you have a __C__ or __D__ license, you need a recurrency jump if you have not jumped since __<span id="cd-license-date"></span>__.
 
 <br>
 
