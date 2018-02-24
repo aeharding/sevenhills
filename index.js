@@ -64,7 +64,7 @@ Metalsmith(__dirname)
     whitelist: [],
     rel: 'noopener',
     target: '_blank',
-    overwrite: false // so we can rel="publisher" social profiles
+    appendRel: true // so we can rel="publisher" social profiles
     // extClass: 'external'
   }))
   .build(function(err) {
