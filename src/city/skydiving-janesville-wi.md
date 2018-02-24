@@ -1,5 +1,5 @@
 ---
-pageTitle: Skydiving Janesville WI
+pageTitle: Skydiving Janesville, WI
 date: 2018-02-15
 layout: city.html
 collection: city
