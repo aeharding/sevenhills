@@ -33,7 +33,7 @@
 
 @media (max-width: 720px) {
   .skydive-selector__option aside {
-    font-size: 0.9em;
+    font-size: calc(3.8vw);
   }
 }
 
@@ -81,7 +81,7 @@
 @media (max-width: 720px) {
   .skydive-selector__option--tandem div,
   .skydive-selector__option--solo div {
-    height: calc(40vw - 2em);
+    height: calc(40vw - 15px - 10px);
     font-size: 2em;
   }
 }

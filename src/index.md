@@ -15,7 +15,7 @@ layout: index.html
     <a href="tandem-skydiving-wisconsin">
       <div><span>Tandem</span></div>
     </a>
-    <aside>Skydive with an instructor from 10,000 feet!</aside>
+    <aside>Skydive with an instructor<br>from 10,000 feet!</aside>
   </div>
 </div>
 
