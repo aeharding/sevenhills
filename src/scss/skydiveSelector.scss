@@ -1,8 +1,5 @@
 .skydive-selector {
 	display: flex;
-
-	margin: -1em;
-	padding: 1em 0;
 }
 
 .skydive-selector__option div {
@@ -49,8 +46,24 @@
 
 .skydive-selector__option {
 	flex: 1;
-	margin: 1em;
+	
+	&:first-child {
+		margin: 1em 1em 1em 0;
+	}
+	
+	&:last-child {
+		margin: 1em 0 1em 1em;
+	}
 
+	@media (max-width: 720px) {
+		&:first-child {
+			margin: 10px 5px 10px 0;
+		}
+		
+		&:last-child {
+			margin: 10px 0 10px 5px;
+		}
+	}
 }
 
 .skydive-selector__option--tandem div,
